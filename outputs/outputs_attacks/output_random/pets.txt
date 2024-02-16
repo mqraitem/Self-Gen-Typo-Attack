@@ -1,0 +1,1001 @@
+Abyssinian_204.jpg,havanese
+Abyssinian_206.jpg,american pit bull terrier
+Abyssinian_212.jpg,shiba inu
+Abyssinian_221.jpg,chihuahua
+Abyssinian_224.jpg,chihuahua
+Abyssinian_226.jpg,boxer
+Abyssinian_24.jpg,scottish terrier
+Abyssinian_27.jpg,maine coon
+Abyssinian_30.jpg,staffordshire bull terrier
+Abyssinian_33.jpg,miniature pinscher
+Abyssinian_43.jpg,bengal
+Abyssinian_44.jpg,egyptian mau
+Abyssinian_45.jpg,bombay
+Abyssinian_50.jpg,shiba inu
+Abyssinian_55.jpg,english setter
+Abyssinian_56.jpg,scottish terrier
+Abyssinian_57.jpg,german shorthaired
+Abyssinian_61.jpg,american pit bull terrier
+Abyssinian_67.jpg,scottish terrier
+Abyssinian_69.jpg,samoyed
+Abyssinian_72.jpg,american pit bull terrier
+Abyssinian_79.jpg,shiba inu
+Abyssinian_7.jpg,boxer
+Abyssinian_88.jpg,birman
+Abyssinian_91.jpg,ragdoll
+Abyssinian_92.jpg,shiba inu
+Abyssinian_94.jpg,newfoundland
+american_bulldog_203.jpg,miniature pinscher
+american_bulldog_205.jpg,boxer
+american_bulldog_208.jpg,russian blue
+american_bulldog_209.jpg,japanese chin
+american_bulldog_212.jpg,miniature pinscher
+american_bulldog_217.jpg,sphynx
+american_bulldog_220.jpg,miniature pinscher
+american_bulldog_22.jpg,english setter
+american_bulldog_24.jpg,keeshond
+american_bulldog_27.jpg,persian
+american_bulldog_30.jpg,maine coon
+american_bulldog_33.jpg,beagle
+american_bulldog_34.jpg,basset hound
+american_bulldog_35.jpg,wheaten terrier
+american_bulldog_38.jpg,egyptian mau
+american_bulldog_42.jpg,samoyed
+american_bulldog_44.jpg,pug
+american_bulldog_47.jpg,english cocker spaniel
+american_bulldog_53.jpg,wheaten terrier
+american_bulldog_60.jpg,great pyrenees
+american_bulldog_61.jpg,newfoundland
+american_bulldog_65.jpg,bengal
+american_bulldog_66.jpg,sphynx
+american_bulldog_68.jpg,english cocker spaniel
+american_bulldog_71.jpg,keeshond
+american_bulldog_73.jpg,havanese
+american_bulldog_75.jpg,keeshond
+american_bulldog_79.jpg,abyssinian
+american_bulldog_81.jpg,leonberger
+american_bulldog_82.jpg,wheaten terrier
+american_bulldog_89.jpg,samoyed
+american_bulldog_8.jpg,beagle
+american_bulldog_90.jpg,german shorthaired
+american_bulldog_92.jpg,boxer
+american_bulldog_93.jpg,havanese
+american_bulldog_94.jpg,bombay
+american_bulldog_96.jpg,ragdoll
+american_bulldog_97.jpg,scottish terrier
+american_bulldog_99.jpg,basset hound
+american_pit_bull_terrier_193.jpg,chihuahua
+american_pit_bull_terrier_19.jpg,pug
+american_pit_bull_terrier_27.jpg,samoyed
+american_pit_bull_terrier_28.jpg,newfoundland
+american_pit_bull_terrier_2.jpg,american bulldog
+american_pit_bull_terrier_31.jpg,beagle
+american_pit_bull_terrier_35.jpg,persian
+american_pit_bull_terrier_38.jpg,pomeranian
+american_pit_bull_terrier_39.jpg,birman
+american_pit_bull_terrier_40.jpg,english cocker spaniel
+american_pit_bull_terrier_41.jpg,japanese chin
+american_pit_bull_terrier_46.jpg,wheaten terrier
+american_pit_bull_terrier_52.jpg,chihuahua
+american_pit_bull_terrier_53.jpg,pomeranian
+american_pit_bull_terrier_58.jpg,samoyed
+american_pit_bull_terrier_5.jpg,pomeranian
+american_pit_bull_terrier_63.jpg,american bulldog
+american_pit_bull_terrier_64.jpg,ragdoll
+american_pit_bull_terrier_65.jpg,samoyed
+american_pit_bull_terrier_66.jpg,yorkshire terrier
+american_pit_bull_terrier_70.jpg,shiba inu
+american_pit_bull_terrier_71.jpg,british shorthair
+american_pit_bull_terrier_74.jpg,samoyed
+american_pit_bull_terrier_75.jpg,russian blue
+american_pit_bull_terrier_77.jpg,samoyed
+american_pit_bull_terrier_79.jpg,staffordshire bull terrier
+american_pit_bull_terrier_80.jpg,staffordshire bull terrier
+american_pit_bull_terrier_81.jpg,miniature pinscher
+american_pit_bull_terrier_82.jpg,pomeranian
+american_pit_bull_terrier_84.jpg,pomeranian
+american_pit_bull_terrier_86.jpg,siamese
+american_pit_bull_terrier_87.jpg,leonberger
+american_pit_bull_terrier_88.jpg,havanese
+american_pit_bull_terrier_90.jpg,abyssinian
+american_pit_bull_terrier_92.jpg,samoyed
+american_pit_bull_terrier_93.jpg,persian
+american_pit_bull_terrier_99.jpg,egyptian mau
+american_pit_bull_terrier_9.jpg,samoyed
+basset_hound_191.jpg,newfoundland
+basset_hound_194.jpg,scottish terrier
+basset_hound_196.jpg,japanese chin
+basset_hound_200.jpg,newfoundland
+basset_hound_25.jpg,miniature pinscher
+basset_hound_26.jpg,keeshond
+basset_hound_29.jpg,american pit bull terrier
+basset_hound_30.jpg,wheaten terrier
+basset_hound_36.jpg,egyptian mau
+basset_hound_39.jpg,sphynx
+basset_hound_42.jpg,sphynx
+basset_hound_44.jpg,english cocker spaniel
+basset_hound_45.jpg,scottish terrier
+basset_hound_4.jpg,british shorthair
+basset_hound_56.jpg,beagle
+basset_hound_57.jpg,keeshond
+basset_hound_59.jpg,english cocker spaniel
+basset_hound_60.jpg,british shorthair
+basset_hound_61.jpg,pomeranian
+basset_hound_66.jpg,pug
+basset_hound_67.jpg,american bulldog
+basset_hound_69.jpg,scottish terrier
+basset_hound_6.jpg,british shorthair
+basset_hound_70.jpg,bombay
+basset_hound_72.jpg,shiba inu
+basset_hound_73.jpg,leonberger
+basset_hound_83.jpg,bengal
+basset_hound_86.jpg,bengal
+basset_hound_88.jpg,miniature pinscher
+basset_hound_89.jpg,american pit bull terrier
+basset_hound_92.jpg,newfoundland
+basset_hound_93.jpg,bombay
+basset_hound_94.jpg,miniature pinscher
+basset_hound_97.jpg,british shorthair
+beagle_195.jpg,ragdoll
+beagle_200.jpg,german shorthaired
+beagle_203.jpg,newfoundland
+beagle_204.jpg,ragdoll
+beagle_22.jpg,birman
+beagle_28.jpg,english cocker spaniel
+beagle_30.jpg,miniature pinscher
+beagle_32.jpg,japanese chin
+beagle_37.jpg,newfoundland
+beagle_41.jpg,american bulldog
+beagle_42.jpg,basset hound
+beagle_44.jpg,american pit bull terrier
+beagle_47.jpg,maine coon
+beagle_48.jpg,sphynx
+beagle_53.jpg,ragdoll
+beagle_55.jpg,havanese
+beagle_56.jpg,japanese chin
+beagle_57.jpg,persian
+beagle_59.jpg,newfoundland
+beagle_67.jpg,american bulldog
+beagle_68.jpg,persian
+beagle_6.jpg,boxer
+beagle_76.jpg,sphynx
+beagle_78.jpg,russian blue
+beagle_79.jpg,birman
+beagle_94.jpg,bombay
+beagle_96.jpg,american pit bull terrier
+Bengal_198.jpg,sphynx
+Bengal_199.jpg,keeshond
+Bengal_1.jpg,beagle
+Bengal_24.jpg,abyssinian
+Bengal_26.jpg,keeshond
+Bengal_27.jpg,boxer
+Bengal_34.jpg,russian blue
+Bengal_36.jpg,british shorthair
+Bengal_38.jpg,egyptian mau
+Bengal_42.jpg,maine coon
+Bengal_45.jpg,maine coon
+Bengal_48.jpg,german shorthaired
+Bengal_51.jpg,japanese chin
+Bengal_55.jpg,miniature pinscher
+Bengal_58.jpg,wheaten terrier
+Bengal_61.jpg,russian blue
+Bengal_64.jpg,american pit bull terrier
+Bengal_71.jpg,pug
+Bengal_73.jpg,japanese chin
+Bengal_78.jpg,american bulldog
+Bengal_79.jpg,japanese chin
+Bengal_87.jpg,russian blue
+Bengal_8.jpg,american bulldog
+Bengal_91.jpg,persian
+Bengal_96.jpg,newfoundland
+Bengal_99.jpg,newfoundland
+Bengal_9.jpg,leonberger
+Birman_191.jpg,shiba inu
+Birman_19.jpg,ragdoll
+Birman_1.jpg,samoyed
+Birman_200.jpg,pug
+Birman_201.jpg,pomeranian
+Birman_23.jpg,scottish terrier
+Birman_25.jpg,bombay
+Birman_26.jpg,english cocker spaniel
+Birman_2.jpg,scottish terrier
+Birman_33.jpg,miniature pinscher
+Birman_36.jpg,staffordshire bull terrier
+Birman_41.jpg,ragdoll
+Birman_43.jpg,abyssinian
+Birman_44.jpg,great pyrenees
+Birman_54.jpg,pomeranian
+Birman_5.jpg,british shorthair
+Birman_60.jpg,siamese
+Birman_61.jpg,abyssinian
+Birman_63.jpg,wheaten terrier
+Birman_74.jpg,newfoundland
+Birman_75.jpg,bombay
+Birman_78.jpg,samoyed
+Birman_81.jpg,chihuahua
+Birman_92.jpg,egyptian mau
+Birman_93.jpg,chihuahua
+Birman_96.jpg,english setter
+Birman_9.jpg,siamese
+Bombay_20.jpg,samoyed
+Bombay_214.jpg,abyssinian
+Bombay_221.jpg,shiba inu
+Bombay_29.jpg,havanese
+Bombay_2.jpg,bengal
+Bombay_33.jpg,leonberger
+Bombay_34.jpg,pug
+Bombay_39.jpg,shiba inu
+Bombay_43.jpg,staffordshire bull terrier
+Bombay_47.jpg,pomeranian
+Bombay_48.jpg,maine coon
+Bombay_49.jpg,staffordshire bull terrier
+Bombay_57.jpg,pomeranian
+Bombay_59.jpg,pomeranian
+Bombay_60.jpg,pomeranian
+Bombay_64.jpg,great pyrenees
+Bombay_65.jpg,saint bernard
+Bombay_68.jpg,german shorthaired
+Bombay_72.jpg,pomeranian
+Bombay_74.jpg,leonberger
+Bombay_75.jpg,german shorthaired
+Bombay_78.jpg,american pit bull terrier
+Bombay_7.jpg,wheaten terrier
+Bombay_81.jpg,boxer
+Bombay_82.jpg,yorkshire terrier
+Bombay_86.jpg,yorkshire terrier
+Bombay_8.jpg,maine coon
+Bombay_95.jpg,egyptian mau
+Bombay_96.jpg,shiba inu
+Bombay_9.jpg,british shorthair
+boxer_193.jpg,ragdoll
+boxer_1.jpg,siamese
+boxer_21.jpg,newfoundland
+boxer_26.jpg,basset hound
+boxer_28.jpg,german shorthaired
+boxer_30.jpg,birman
+boxer_31.jpg,russian blue
+boxer_32.jpg,wheaten terrier
+boxer_36.jpg,pomeranian
+boxer_3.jpg,american bulldog
+boxer_40.jpg,abyssinian
+boxer_42.jpg,sphynx
+boxer_43.jpg,british shorthair
+boxer_45.jpg,basset hound
+boxer_48.jpg,english cocker spaniel
+boxer_50.jpg,beagle
+boxer_51.jpg,pug
+boxer_54.jpg,yorkshire terrier
+boxer_56.jpg,german shorthaired
+boxer_57.jpg,great pyrenees
+boxer_59.jpg,bombay
+boxer_60.jpg,basset hound
+boxer_64.jpg,american bulldog
+boxer_6.jpg,scottish terrier
+boxer_73.jpg,great pyrenees
+boxer_74.jpg,english cocker spaniel
+boxer_78.jpg,british shorthair
+boxer_7.jpg,ragdoll
+boxer_80.jpg,yorkshire terrier
+boxer_85.jpg,persian
+boxer_8.jpg,saint bernard
+boxer_93.jpg,shiba inu
+boxer_95.jpg,great pyrenees
+boxer_96.jpg,leonberger
+boxer_98.jpg,siamese
+British_Shorthair_212.jpg,german shorthaired
+British_Shorthair_213.jpg,boxer
+British_Shorthair_258.jpg,american bulldog
+British_Shorthair_25.jpg,russian blue
+British_Shorthair_263.jpg,scottish terrier
+British_Shorthair_265.jpg,pug
+British_Shorthair_267.jpg,keeshond
+British_Shorthair_269.jpg,shiba inu
+British_Shorthair_275.jpg,keeshond
+British_Shorthair_276.jpg,boxer
+British_Shorthair_28.jpg,birman
+British_Shorthair_2.jpg,american bulldog
+British_Shorthair_33.jpg,english setter
+British_Shorthair_38.jpg,persian
+British_Shorthair_3.jpg,miniature pinscher
+British_Shorthair_41.jpg,staffordshire bull terrier
+British_Shorthair_43.jpg,american pit bull terrier
+British_Shorthair_49.jpg,basset hound
+British_Shorthair_50.jpg,basset hound
+British_Shorthair_52.jpg,yorkshire terrier
+British_Shorthair_53.jpg,newfoundland
+British_Shorthair_55.jpg,pug
+British_Shorthair_57.jpg,samoyed
+British_Shorthair_59.jpg,japanese chin
+British_Shorthair_61.jpg,scottish terrier
+British_Shorthair_65.jpg,havanese
+British_Shorthair_67.jpg,american pit bull terrier
+British_Shorthair_74.jpg,bombay
+British_Shorthair_79.jpg,leonberger
+British_Shorthair_82.jpg,american pit bull terrier
+British_Shorthair_8.jpg,great pyrenees
+British_Shorthair_90.jpg,persian
+British_Shorthair_96.jpg,maine coon
+British_Shorthair_9.jpg,miniature pinscher
+chihuahua_191.jpg,keeshond
+chihuahua_199.jpg,russian blue
+chihuahua_19.jpg,saint bernard
+chihuahua_1.jpg,japanese chin
+chihuahua_200.jpg,beagle
+chihuahua_22.jpg,shiba inu
+chihuahua_24.jpg,persian
+chihuahua_25.jpg,american bulldog
+chihuahua_31.jpg,english setter
+chihuahua_32.jpg,american pit bull terrier
+chihuahua_33.jpg,birman
+chihuahua_36.jpg,ragdoll
+chihuahua_39.jpg,american bulldog
+chihuahua_40.jpg,sphynx
+chihuahua_42.jpg,samoyed
+chihuahua_44.jpg,newfoundland
+chihuahua_46.jpg,ragdoll
+chihuahua_50.jpg,scottish terrier
+chihuahua_54.jpg,samoyed
+chihuahua_57.jpg,birman
+chihuahua_59.jpg,staffordshire bull terrier
+chihuahua_62.jpg,bengal
+chihuahua_65.jpg,wheaten terrier
+chihuahua_68.jpg,british shorthair
+chihuahua_69.jpg,keeshond
+chihuahua_71.jpg,birman
+chihuahua_72.jpg,boxer
+chihuahua_77.jpg,shiba inu
+chihuahua_7.jpg,leonberger
+chihuahua_81.jpg,japanese chin
+chihuahua_82.jpg,maine coon
+chihuahua_83.jpg,wheaten terrier
+chihuahua_84.jpg,pomeranian
+chihuahua_85.jpg,british shorthair
+chihuahua_86.jpg,great pyrenees
+chihuahua_8.jpg,pomeranian
+chihuahua_93.jpg,saint bernard
+chihuahua_9.jpg,keeshond
+Egyptian_Mau_1.jpg,staffordshire bull terrier
+Egyptian_Mau_207.jpg,boxer
+Egyptian_Mau_213.jpg,german shorthaired
+Egyptian_Mau_218.jpg,american bulldog
+Egyptian_Mau_224.jpg,german shorthaired
+Egyptian_Mau_28.jpg,wheaten terrier
+Egyptian_Mau_29.jpg,saint bernard
+Egyptian_Mau_30.jpg,boxer
+Egyptian_Mau_31.jpg,american pit bull terrier
+Egyptian_Mau_40.jpg,beagle
+Egyptian_Mau_48.jpg,pug
+Egyptian_Mau_5.jpg,basset hound
+Egyptian_Mau_62.jpg,english cocker spaniel
+Egyptian_Mau_63.jpg,saint bernard
+Egyptian_Mau_83.jpg,newfoundland
+Egyptian_Mau_84.jpg,american pit bull terrier
+Egyptian_Mau_86.jpg,chihuahua
+Egyptian_Mau_87.jpg,birman
+Egyptian_Mau_88.jpg,boxer
+Egyptian_Mau_89.jpg,saint bernard
+Egyptian_Mau_90.jpg,great pyrenees
+Egyptian_Mau_92.jpg,ragdoll
+Egyptian_Mau_96.jpg,beagle
+Egyptian_Mau_9.jpg,beagle
+english_cocker_spaniel_198.jpg,saint bernard
+english_cocker_spaniel_20.jpg,pug
+english_cocker_spaniel_60.jpg,leonberger
+english_cocker_spaniel_6.jpg,havanese
+english_setter_195.jpg,sphynx
+english_setter_198.jpg,miniature pinscher
+english_setter_199.jpg,yorkshire terrier
+english_setter_21.jpg,british shorthair
+english_setter_23.jpg,ragdoll
+english_setter_24.jpg,birman
+english_setter_27.jpg,samoyed
+english_setter_2.jpg,abyssinian
+english_setter_31.jpg,staffordshire bull terrier
+english_setter_33.jpg,samoyed
+english_setter_35.jpg,wheaten terrier
+english_setter_38.jpg,havanese
+english_setter_43.jpg,british shorthair
+english_setter_45.jpg,boxer
+english_setter_46.jpg,samoyed
+english_setter_4.jpg,english cocker spaniel
+english_setter_52.jpg,staffordshire bull terrier
+english_setter_55.jpg,shiba inu
+english_setter_56.jpg,american bulldog
+english_setter_59.jpg,british shorthair
+english_setter_65.jpg,scottish terrier
+english_setter_7.jpg,newfoundland
+english_setter_82.jpg,shiba inu
+english_setter_83.jpg,shiba inu
+english_setter_84.jpg,keeshond
+english_setter_87.jpg,havanese
+english_setter_88.jpg,persian
+english_setter_94.jpg,leonberger
+english_setter_96.jpg,shiba inu
+german_shorthaired_191.jpg,keeshond
+german_shorthaired_192.jpg,saint bernard
+german_shorthaired_195.jpg,bengal
+german_shorthaired_197.jpg,great pyrenees
+german_shorthaired_200.jpg,japanese chin
+german_shorthaired_23.jpg,shiba inu
+german_shorthaired_26.jpg,boxer
+german_shorthaired_29.jpg,maine coon
+german_shorthaired_2.jpg,sphynx
+german_shorthaired_32.jpg,pug
+german_shorthaired_34.jpg,chihuahua
+german_shorthaired_35.jpg,english setter
+german_shorthaired_36.jpg,american pit bull terrier
+german_shorthaired_37.jpg,samoyed
+german_shorthaired_38.jpg,japanese chin
+german_shorthaired_41.jpg,beagle
+german_shorthaired_45.jpg,havanese
+german_shorthaired_46.jpg,leonberger
+german_shorthaired_49.jpg,abyssinian
+german_shorthaired_56.jpg,scottish terrier
+german_shorthaired_57.jpg,keeshond
+german_shorthaired_59.jpg,saint bernard
+german_shorthaired_5.jpg,yorkshire terrier
+german_shorthaired_61.jpg,american bulldog
+german_shorthaired_66.jpg,abyssinian
+german_shorthaired_69.jpg,great pyrenees
+german_shorthaired_71.jpg,basset hound
+german_shorthaired_74.jpg,scottish terrier
+german_shorthaired_76.jpg,abyssinian
+german_shorthaired_79.jpg,newfoundland
+german_shorthaired_7.jpg,leonberger
+german_shorthaired_87.jpg,leonberger
+german_shorthaired_88.jpg,british shorthair
+german_shorthaired_91.jpg,wheaten terrier
+german_shorthaired_92.jpg,birman
+german_shorthaired_95.jpg,english setter
+german_shorthaired_96.jpg,birman
+great_pyrenees_197.jpg,bengal
+great_pyrenees_198.jpg,shiba inu
+great_pyrenees_23.jpg,leonberger
+great_pyrenees_29.jpg,egyptian mau
+great_pyrenees_33.jpg,ragdoll
+great_pyrenees_34.jpg,german shorthaired
+great_pyrenees_39.jpg,miniature pinscher
+great_pyrenees_45.jpg,bengal
+great_pyrenees_48.jpg,english cocker spaniel
+great_pyrenees_52.jpg,sphynx
+great_pyrenees_57.jpg,american bulldog
+great_pyrenees_58.jpg,english setter
+great_pyrenees_61.jpg,english setter
+great_pyrenees_65.jpg,american pit bull terrier
+great_pyrenees_66.jpg,persian
+great_pyrenees_6.jpg,staffordshire bull terrier
+great_pyrenees_70.jpg,german shorthaired
+great_pyrenees_76.jpg,maine coon
+great_pyrenees_98.jpg,bombay
+great_pyrenees_99.jpg,british shorthair
+great_pyrenees_9.jpg,leonberger
+havanese_191.jpg,leonberger
+havanese_192.jpg,chihuahua
+havanese_194.jpg,sphynx
+havanese_197.jpg,bengal
+havanese_1.jpg,beagle
+havanese_26.jpg,egyptian mau
+havanese_28.jpg,bombay
+havanese_2.jpg,pomeranian
+havanese_30.jpg,chihuahua
+havanese_36.jpg,miniature pinscher
+havanese_38.jpg,leonberger
+havanese_43.jpg,maine coon
+havanese_44.jpg,american bulldog
+havanese_45.jpg,staffordshire bull terrier
+havanese_48.jpg,sphynx
+havanese_50.jpg,birman
+havanese_58.jpg,bengal
+havanese_61.jpg,newfoundland
+havanese_72.jpg,abyssinian
+havanese_78.jpg,samoyed
+havanese_84.jpg,saint bernard
+havanese_86.jpg,chihuahua
+havanese_88.jpg,german shorthaired
+havanese_91.jpg,american pit bull terrier
+havanese_93.jpg,boxer
+havanese_96.jpg,yorkshire terrier
+japanese_chin_30.jpg,sphynx
+japanese_chin_31.jpg,birman
+japanese_chin_33.jpg,bombay
+japanese_chin_37.jpg,saint bernard
+japanese_chin_40.jpg,pomeranian
+japanese_chin_7.jpg,pug
+keeshond_193.jpg,birman
+keeshond_198.jpg,english cocker spaniel
+keeshond_23.jpg,pomeranian
+keeshond_24.jpg,shiba inu
+keeshond_26.jpg,miniature pinscher
+keeshond_31.jpg,ragdoll
+keeshond_34.jpg,scottish terrier
+keeshond_37.jpg,miniature pinscher
+keeshond_38.jpg,chihuahua
+keeshond_40.jpg,basset hound
+keeshond_44.jpg,leonberger
+keeshond_48.jpg,wheaten terrier
+keeshond_52.jpg,newfoundland
+keeshond_53.jpg,scottish terrier
+keeshond_56.jpg,birman
+keeshond_5.jpg,siamese
+keeshond_61.jpg,staffordshire bull terrier
+keeshond_66.jpg,chihuahua
+keeshond_6.jpg,abyssinian
+keeshond_71.jpg,great pyrenees
+keeshond_75.jpg,staffordshire bull terrier
+keeshond_78.jpg,bombay
+keeshond_79.jpg,american bulldog
+keeshond_81.jpg,newfoundland
+keeshond_83.jpg,wheaten terrier
+keeshond_86.jpg,havanese
+keeshond_94.jpg,german shorthaired
+keeshond_96.jpg,shiba inu
+keeshond_97.jpg,siamese
+leonberger_194.jpg,maine coon
+leonberger_21.jpg,pomeranian
+leonberger_27.jpg,scottish terrier
+leonberger_29.jpg,persian
+leonberger_34.jpg,wheaten terrier
+leonberger_40.jpg,samoyed
+leonberger_42.jpg,yorkshire terrier
+leonberger_43.jpg,siamese
+leonberger_48.jpg,great pyrenees
+leonberger_49.jpg,wheaten terrier
+leonberger_4.jpg,english setter
+leonberger_52.jpg,pomeranian
+leonberger_56.jpg,sphynx
+leonberger_57.jpg,havanese
+leonberger_58.jpg,english setter
+leonberger_59.jpg,abyssinian
+leonberger_5.jpg,shiba inu
+leonberger_61.jpg,siamese
+leonberger_63.jpg,basset hound
+leonberger_64.jpg,pug
+leonberger_65.jpg,yorkshire terrier
+leonberger_66.jpg,egyptian mau
+leonberger_75.jpg,havanese
+leonberger_76.jpg,sphynx
+leonberger_7.jpg,japanese chin
+leonberger_80.jpg,boxer
+leonberger_85.jpg,american pit bull terrier
+leonberger_87.jpg,shiba inu
+leonberger_88.jpg,egyptian mau
+leonberger_89.jpg,american bulldog
+leonberger_8.jpg,boxer
+leonberger_92.jpg,siamese
+leonberger_94.jpg,american pit bull terrier
+leonberger_95.jpg,shiba inu
+leonberger_97.jpg,abyssinian
+leonberger_98.jpg,beagle
+leonberger_9.jpg,bombay
+Maine_Coon_242.jpg,leonberger
+Maine_Coon_254.jpg,bengal
+Maine_Coon_25.jpg,beagle
+Maine_Coon_270.jpg,wheaten terrier
+Maine_Coon_29.jpg,english setter
+Maine_Coon_30.jpg,ragdoll
+Maine_Coon_32.jpg,leonberger
+Maine_Coon_35.jpg,havanese
+Maine_Coon_39.jpg,leonberger
+Maine_Coon_50.jpg,samoyed
+Maine_Coon_54.jpg,egyptian mau
+Maine_Coon_61.jpg,sphynx
+Maine_Coon_69.jpg,german shorthaired
+Maine_Coon_76.jpg,yorkshire terrier
+Maine_Coon_8.jpg,siamese
+miniature_pinscher_191.jpg,british shorthair
+miniature_pinscher_192.jpg,persian
+miniature_pinscher_196.jpg,shiba inu
+miniature_pinscher_197.jpg,russian blue
+miniature_pinscher_199.jpg,basset hound
+miniature_pinscher_200.jpg,american pit bull terrier
+miniature_pinscher_20.jpg,english cocker spaniel
+miniature_pinscher_21.jpg,keeshond
+miniature_pinscher_2.jpg,chihuahua
+miniature_pinscher_37.jpg,havanese
+miniature_pinscher_40.jpg,havanese
+miniature_pinscher_41.jpg,scottish terrier
+miniature_pinscher_42.jpg,leonberger
+miniature_pinscher_45.jpg,great pyrenees
+miniature_pinscher_46.jpg,bombay
+miniature_pinscher_53.jpg,persian
+miniature_pinscher_55.jpg,scottish terrier
+miniature_pinscher_5.jpg,basset hound
+miniature_pinscher_6.jpg,american bulldog
+miniature_pinscher_70.jpg,sphynx
+miniature_pinscher_73.jpg,persian
+miniature_pinscher_80.jpg,bengal
+miniature_pinscher_86.jpg,british shorthair
+miniature_pinscher_88.jpg,abyssinian
+miniature_pinscher_89.jpg,chihuahua
+miniature_pinscher_92.jpg,chihuahua
+newfoundland_194.jpg,staffordshire bull terrier
+newfoundland_19.jpg,siamese
+newfoundland_1.jpg,miniature pinscher
+newfoundland_21.jpg,keeshond
+newfoundland_22.jpg,saint bernard
+newfoundland_24.jpg,chihuahua
+newfoundland_2.jpg,miniature pinscher
+newfoundland_33.jpg,basset hound
+newfoundland_37.jpg,great pyrenees
+newfoundland_40.jpg,persian
+newfoundland_41.jpg,ragdoll
+newfoundland_43.jpg,american bulldog
+newfoundland_46.jpg,abyssinian
+newfoundland_47.jpg,staffordshire bull terrier
+newfoundland_51.jpg,leonberger
+newfoundland_52.jpg,shiba inu
+newfoundland_57.jpg,wheaten terrier
+newfoundland_60.jpg,american bulldog
+newfoundland_61.jpg,english cocker spaniel
+newfoundland_67.jpg,samoyed
+newfoundland_70.jpg,egyptian mau
+newfoundland_75.jpg,german shorthaired
+newfoundland_76.jpg,yorkshire terrier
+newfoundland_77.jpg,keeshond
+newfoundland_78.jpg,japanese chin
+newfoundland_79.jpg,birman
+newfoundland_88.jpg,bombay
+newfoundland_91.jpg,bombay
+newfoundland_94.jpg,persian
+newfoundland_96.jpg,american bulldog
+newfoundland_98.jpg,siamese
+newfoundland_99.jpg,bombay
+Persian_21.jpg,chihuahua
+Persian_22.jpg,abyssinian
+Persian_259.jpg,basset hound
+Persian_260.jpg,boxer
+Persian_262.jpg,russian blue
+Persian_266.jpg,pomeranian
+Persian_267.jpg,egyptian mau
+Persian_2.jpg,bombay
+Persian_31.jpg,basset hound
+Persian_36.jpg,sphynx
+Persian_3.jpg,siamese
+Persian_44.jpg,ragdoll
+Persian_59.jpg,american pit bull terrier
+Persian_5.jpg,havanese
+Persian_60.jpg,miniature pinscher
+Persian_62.jpg,british shorthair
+Persian_63.jpg,saint bernard
+Persian_65.jpg,german shorthaired
+Persian_67.jpg,staffordshire bull terrier
+Persian_70.jpg,pomeranian
+Persian_74.jpg,beagle
+Persian_75.jpg,wheaten terrier
+Persian_82.jpg,english cocker spaniel
+Persian_87.jpg,keeshond
+Persian_90.jpg,american bulldog
+Persian_94.jpg,miniature pinscher
+Persian_95.jpg,keeshond
+Persian_98.jpg,japanese chin
+Persian_99.jpg,scottish terrier
+pomeranian_194.jpg,abyssinian
+pomeranian_23.jpg,miniature pinscher
+pomeranian_26.jpg,pug
+pomeranian_29.jpg,staffordshire bull terrier
+pomeranian_32.jpg,british shorthair
+pomeranian_40.jpg,shiba inu
+pomeranian_46.jpg,abyssinian
+pomeranian_49.jpg,bombay
+pomeranian_4.jpg,american bulldog
+pomeranian_50.jpg,miniature pinscher
+pomeranian_55.jpg,leonberger
+pomeranian_57.jpg,shiba inu
+pomeranian_58.jpg,bengal
+pomeranian_59.jpg,german shorthaired
+pomeranian_61.jpg,shiba inu
+pomeranian_64.jpg,abyssinian
+pomeranian_71.jpg,havanese
+pomeranian_73.jpg,yorkshire terrier
+pomeranian_74.jpg,havanese
+pomeranian_75.jpg,bombay
+pomeranian_78.jpg,japanese chin
+pomeranian_81.jpg,american pit bull terrier
+pomeranian_85.jpg,maine coon
+pomeranian_8.jpg,beagle
+pomeranian_97.jpg,saint bernard
+pomeranian_99.jpg,maine coon
+pomeranian_9.jpg,leonberger
+pug_193.jpg,pomeranian
+pug_199.jpg,english cocker spaniel
+pug_201.jpg,english setter
+pug_203.jpg,saint bernard
+pug_22.jpg,beagle
+pug_25.jpg,russian blue
+pug_31.jpg,german shorthaired
+pug_32.jpg,chihuahua
+pug_33.jpg,basset hound
+pug_37.jpg,english setter
+pug_39.jpg,yorkshire terrier
+pug_43.jpg,miniature pinscher
+pug_48.jpg,german shorthaired
+pug_51.jpg,havanese
+pug_52.jpg,siamese
+pug_54.jpg,keeshond
+pug_57.jpg,english cocker spaniel
+pug_60.jpg,siamese
+pug_62.jpg,ragdoll
+pug_64.jpg,english setter
+pug_66.jpg,american bulldog
+pug_69.jpg,basset hound
+pug_70.jpg,english setter
+pug_72.jpg,chihuahua
+pug_7.jpg,newfoundland
+pug_80.jpg,leonberger
+pug_81.jpg,great pyrenees
+pug_82.jpg,newfoundland
+pug_84.jpg,leonberger
+pug_86.jpg,egyptian mau
+pug_88.jpg,beagle
+pug_91.jpg,chihuahua
+pug_93.jpg,siamese
+pug_94.jpg,shiba inu
+pug_95.jpg,bengal
+pug_96.jpg,sphynx
+pug_98.jpg,english cocker spaniel
+Ragdoll_204.jpg,maine coon
+Ragdoll_20.jpg,keeshond
+Ragdoll_228.jpg,maine coon
+Ragdoll_255.jpg,wheaten terrier
+Ragdoll_257.jpg,german shorthaired
+Ragdoll_27.jpg,sphynx
+Ragdoll_2.jpg,egyptian mau
+Ragdoll_33.jpg,great pyrenees
+Ragdoll_3.jpg,german shorthaired
+Ragdoll_41.jpg,scottish terrier
+Ragdoll_47.jpg,havanese
+Ragdoll_48.jpg,english cocker spaniel
+Ragdoll_49.jpg,english setter
+Ragdoll_54.jpg,american bulldog
+Ragdoll_57.jpg,maine coon
+Ragdoll_64.jpg,boxer
+Ragdoll_69.jpg,pug
+Ragdoll_6.jpg,birman
+Ragdoll_76.jpg,leonberger
+Ragdoll_78.jpg,havanese
+Ragdoll_7.jpg,bengal
+Ragdoll_80.jpg,birman
+Ragdoll_84.jpg,chihuahua
+Ragdoll_85.jpg,beagle
+Ragdoll_87.jpg,havanese
+Ragdoll_88.jpg,great pyrenees
+Ragdoll_8.jpg,bombay
+Ragdoll_92.jpg,miniature pinscher
+Ragdoll_95.jpg,american pit bull terrier
+Ragdoll_96.jpg,american pit bull terrier
+Ragdoll_9.jpg,miniature pinscher
+Russian_Blue_203.jpg,japanese chin
+Russian_Blue_205.jpg,basset hound
+Russian_Blue_207.jpg,miniature pinscher
+Russian_Blue_208.jpg,bombay
+Russian_Blue_212.jpg,sphynx
+Russian_Blue_216.jpg,basset hound
+Russian_Blue_220.jpg,bombay
+Russian_Blue_226.jpg,newfoundland
+Russian_Blue_228.jpg,maine coon
+Russian_Blue_236.jpg,saint bernard
+Russian_Blue_239.jpg,boxer
+Russian_Blue_258.jpg,chihuahua
+Russian_Blue_263.jpg,newfoundland
+Russian_Blue_264.jpg,japanese chin
+Russian_Blue_27.jpg,pug
+Russian_Blue_28.jpg,keeshond
+Russian_Blue_29.jpg,english setter
+Russian_Blue_32.jpg,keeshond
+Russian_Blue_33.jpg,leonberger
+Russian_Blue_34.jpg,american pit bull terrier
+Russian_Blue_44.jpg,abyssinian
+Russian_Blue_45.jpg,havanese
+Russian_Blue_47.jpg,basset hound
+Russian_Blue_48.jpg,maine coon
+Russian_Blue_49.jpg,newfoundland
+Russian_Blue_54.jpg,scottish terrier
+Russian_Blue_55.jpg,bengal
+Russian_Blue_57.jpg,english cocker spaniel
+Russian_Blue_60.jpg,samoyed
+Russian_Blue_61.jpg,maine coon
+Russian_Blue_62.jpg,leonberger
+Russian_Blue_66.jpg,egyptian mau
+Russian_Blue_70.jpg,siamese
+Russian_Blue_78.jpg,yorkshire terrier
+Russian_Blue_80.jpg,staffordshire bull terrier
+Russian_Blue_89.jpg,ragdoll
+Russian_Blue_90.jpg,english setter
+Russian_Blue_93.jpg,yorkshire terrier
+saint_bernard_191.jpg,chihuahua
+saint_bernard_192.jpg,american bulldog
+saint_bernard_194.jpg,scottish terrier
+saint_bernard_195.jpg,havanese
+saint_bernard_196.jpg,havanese
+saint_bernard_19.jpg,staffordshire bull terrier
+saint_bernard_20.jpg,miniature pinscher
+saint_bernard_21.jpg,boxer
+saint_bernard_22.jpg,english cocker spaniel
+saint_bernard_23.jpg,bombay
+saint_bernard_2.jpg,pomeranian
+saint_bernard_31.jpg,ragdoll
+saint_bernard_3.jpg,english cocker spaniel
+saint_bernard_43.jpg,english setter
+saint_bernard_44.jpg,staffordshire bull terrier
+saint_bernard_48.jpg,boxer
+saint_bernard_4.jpg,egyptian mau
+saint_bernard_50.jpg,keeshond
+saint_bernard_51.jpg,american bulldog
+saint_bernard_52.jpg,chihuahua
+saint_bernard_62.jpg,siamese
+saint_bernard_63.jpg,havanese
+saint_bernard_64.jpg,basset hound
+saint_bernard_65.jpg,persian
+saint_bernard_66.jpg,leonberger
+saint_bernard_67.jpg,english setter
+saint_bernard_6.jpg,beagle
+saint_bernard_70.jpg,bengal
+saint_bernard_71.jpg,english setter
+saint_bernard_72.jpg,keeshond
+saint_bernard_79.jpg,persian
+saint_bernard_86.jpg,shiba inu
+saint_bernard_95.jpg,russian blue
+saint_bernard_96.jpg,siamese
+saint_bernard_99.jpg,sphynx
+saint_bernard_9.jpg,egyptian mau
+samoyed_31.jpg,german shorthaired
+samoyed_35.jpg,keeshond
+samoyed_4.jpg,egyptian mau
+samoyed_63.jpg,boxer
+samoyed_64.jpg,american pit bull terrier
+samoyed_67.jpg,newfoundland
+samoyed_82.jpg,boxer
+samoyed_83.jpg,great pyrenees
+samoyed_86.jpg,keeshond
+samoyed_89.jpg,german shorthaired
+samoyed_91.jpg,staffordshire bull terrier
+samoyed_97.jpg,boxer
+samoyed_98.jpg,birman
+scottish_terrier_193.jpg,samoyed
+scottish_terrier_198.jpg,saint bernard
+scottish_terrier_199.jpg,english cocker spaniel
+scottish_terrier_21.jpg,samoyed
+scottish_terrier_22.jpg,wheaten terrier
+scottish_terrier_24.jpg,staffordshire bull terrier
+scottish_terrier_31.jpg,pug
+scottish_terrier_3.jpg,wheaten terrier
+scottish_terrier_40.jpg,pomeranian
+scottish_terrier_49.jpg,samoyed
+scottish_terrier_53.jpg,american pit bull terrier
+scottish_terrier_55.jpg,miniature pinscher
+scottish_terrier_59.jpg,german shorthaired
+scottish_terrier_65.jpg,pomeranian
+scottish_terrier_69.jpg,pomeranian
+scottish_terrier_72.jpg,ragdoll
+scottish_terrier_73.jpg,bengal
+scottish_terrier_75.jpg,bengal
+scottish_terrier_77.jpg,great pyrenees
+scottish_terrier_86.jpg,wheaten terrier
+scottish_terrier_91.jpg,bombay
+scottish_terrier_92.jpg,yorkshire terrier
+shiba_inu_205.jpg,pug
+shiba_inu_207.jpg,maine coon
+shiba_inu_22.jpg,german shorthaired
+shiba_inu_25.jpg,boxer
+shiba_inu_26.jpg,japanese chin
+shiba_inu_36.jpg,samoyed
+shiba_inu_39.jpg,havanese
+shiba_inu_42.jpg,saint bernard
+shiba_inu_55.jpg,beagle
+shiba_inu_5.jpg,miniature pinscher
+shiba_inu_60.jpg,saint bernard
+shiba_inu_69.jpg,pomeranian
+shiba_inu_78.jpg,newfoundland
+shiba_inu_79.jpg,birman
+shiba_inu_82.jpg,scottish terrier
+shiba_inu_85.jpg,scottish terrier
+Siamese_209.jpg,bombay
+Siamese_20.jpg,english setter
+Siamese_216.jpg,pomeranian
+Siamese_222.jpg,keeshond
+Siamese_225.jpg,sphynx
+Siamese_227.jpg,sphynx
+Siamese_234.jpg,staffordshire bull terrier
+Siamese_247.jpg,birman
+Siamese_257.jpg,staffordshire bull terrier
+Siamese_26.jpg,samoyed
+Siamese_28.jpg,yorkshire terrier
+Siamese_29.jpg,chihuahua
+Siamese_30.jpg,samoyed
+Siamese_36.jpg,miniature pinscher
+Siamese_37.jpg,persian
+Siamese_40.jpg,german shorthaired
+Siamese_41.jpg,yorkshire terrier
+Siamese_42.jpg,newfoundland
+Siamese_44.jpg,yorkshire terrier
+Siamese_47.jpg,wheaten terrier
+Siamese_52.jpg,russian blue
+Siamese_57.jpg,american bulldog
+Siamese_59.jpg,havanese
+Siamese_64.jpg,yorkshire terrier
+Siamese_67.jpg,boxer
+Siamese_70.jpg,basset hound
+Siamese_71.jpg,scottish terrier
+Siamese_75.jpg,newfoundland
+Siamese_79.jpg,basset hound
+Siamese_81.jpg,sphynx
+Siamese_85.jpg,japanese chin
+Siamese_87.jpg,bengal
+Siamese_88.jpg,shiba inu
+Siamese_93.jpg,bombay
+Siamese_99.jpg,abyssinian
+Sphynx_211.jpg,birman
+Sphynx_21.jpg,samoyed
+Sphynx_229.jpg,pug
+Sphynx_231.jpg,miniature pinscher
+Sphynx_243.jpg,american bulldog
+Sphynx_244.jpg,miniature pinscher
+Sphynx_248.jpg,yorkshire terrier
+Sphynx_251.jpg,japanese chin
+Sphynx_36.jpg,english cocker spaniel
+Sphynx_38.jpg,english cocker spaniel
+Sphynx_39.jpg,bombay
+Sphynx_41.jpg,shiba inu
+Sphynx_42.jpg,scottish terrier
+Sphynx_43.jpg,birman
+Sphynx_46.jpg,british shorthair
+Sphynx_47.jpg,american bulldog
+Sphynx_4.jpg,pug
+Sphynx_56.jpg,great pyrenees
+Sphynx_67.jpg,english cocker spaniel
+Sphynx_71.jpg,newfoundland
+Sphynx_73.jpg,pomeranian
+Sphynx_76.jpg,samoyed
+Sphynx_78.jpg,wheaten terrier
+Sphynx_82.jpg,bengal
+Sphynx_83.jpg,boxer
+Sphynx_87.jpg,bengal
+Sphynx_89.jpg,english cocker spaniel
+staffordshire_bull_terrier_201.jpg,pug
+staffordshire_bull_terrier_20.jpg,saint bernard
+staffordshire_bull_terrier_21.jpg,saint bernard
+staffordshire_bull_terrier_31.jpg,pug
+staffordshire_bull_terrier_33.jpg,yorkshire terrier
+staffordshire_bull_terrier_37.jpg,sphynx
+staffordshire_bull_terrier_3.jpg,birman
+staffordshire_bull_terrier_42.jpg,havanese
+staffordshire_bull_terrier_45.jpg,japanese chin
+staffordshire_bull_terrier_46.jpg,russian blue
+staffordshire_bull_terrier_50.jpg,bengal
+staffordshire_bull_terrier_51.jpg,abyssinian
+staffordshire_bull_terrier_54.jpg,ragdoll
+staffordshire_bull_terrier_61.jpg,pug
+staffordshire_bull_terrier_62.jpg,american bulldog
+staffordshire_bull_terrier_63.jpg,basset hound
+staffordshire_bull_terrier_6.jpg,abyssinian
+staffordshire_bull_terrier_70.jpg,russian blue
+staffordshire_bull_terrier_72.jpg,russian blue
+staffordshire_bull_terrier_74.jpg,leonberger
+staffordshire_bull_terrier_7.jpg,egyptian mau
+staffordshire_bull_terrier_81.jpg,siamese
+staffordshire_bull_terrier_83.jpg,wheaten terrier
+staffordshire_bull_terrier_86.jpg,miniature pinscher
+staffordshire_bull_terrier_88.jpg,havanese
+staffordshire_bull_terrier_8.jpg,beagle
+staffordshire_bull_terrier_91.jpg,russian blue
+staffordshire_bull_terrier_92.jpg,russian blue
+staffordshire_bull_terrier_93.jpg,shiba inu
+staffordshire_bull_terrier_97.jpg,persian
+wheaten_terrier_2.jpg,shiba inu
+wheaten_terrier_3.jpg,newfoundland
+wheaten_terrier_40.jpg,english setter
+wheaten_terrier_55.jpg,havanese
+wheaten_terrier_60.jpg,british shorthair
+wheaten_terrier_63.jpg,yorkshire terrier
+wheaten_terrier_74.jpg,samoyed
+yorkshire_terrier_192.jpg,beagle
+yorkshire_terrier_193.jpg,bombay
+yorkshire_terrier_200.jpg,birman
+yorkshire_terrier_30.jpg,siamese
+yorkshire_terrier_33.jpg,chihuahua
+yorkshire_terrier_3.jpg,english cocker spaniel
+yorkshire_terrier_49.jpg,egyptian mau
+yorkshire_terrier_74.jpg,siamese
+yorkshire_terrier_78.jpg,saint bernard
+yorkshire_terrier_79.jpg,wheaten terrier
+yorkshire_terrier_98.jpg,shiba inu

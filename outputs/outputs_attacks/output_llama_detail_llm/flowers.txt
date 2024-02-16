@@ -1,0 +1,102 @@
+alpine sea holly,cautleya spicata
+anthurium,globe-flower
+artichoke,cautleya spicata
+azalea,cautleya spicata
+ball moss,giant white arum lily
+balloon flower,globe-flower
+barbeton daisy,oxeye daisy
+bearded iris,globe-flower
+bee balm,cautleya spicata
+bird of paradise,cautleya spicata
+bishop of llandaff,globe-flower
+black-eyed susan,columbine
+blackberry lily,bolero deep blue
+blanket flower,black-eyed susan
+bolero deep blue,cautleya spicata
+bougainvillea,hibiscus
+bromelia,globe-flower
+buttercup,black-eyed susan
+californian poppy,cautleya spicata
+camellia,cautleya spicata
+canna lily,cautleya spicata
+canterbury bells,globe-flower
+cape flower,bolero deep blue
+carnation,rose
+cautleya spicata,bearded iris
+clematis,cautleya spicata
+colt's foot,columbine
+columbine,globe-flower
+common dandelion,cautleya spicata
+corn poppy,cautleya spicata
+cyclamen,globe-flower
+daffodil,giant white arum lily
+desert-rose,rose
+english marigold,marigold
+fire lily,cautleya spicata
+foxglove,fire lily
+frangipani,hibiscus
+fritillary,columbine
+garden phlox,cautleya spicata
+gaura,cautleya spicata
+gazania,osteospermum
+geranium,osteospermum
+giant white arum lily,cautleya spicata
+globe thistle,globe-flower
+globe-flower,globe thistle
+grape hyacinth,cautleya spicata
+great masterwort,cautleya spicata
+hard-leaved pocket orchid,globe-flower
+hibiscus,frangipani
+hippeastrum,fire lily
+japanese anemone,cautleya spicata
+king protea,osteospermum
+lenten rose,cautleya spicata
+lotus,cautleya spicata
+love in the mist,cautleya spicata
+magnolia,giant white arum lily
+mallow,hibiscus
+marigold,english marigold
+mexican aster,globe-flower
+mexican petunia,gazania
+monkshood,foxglove
+moon orchid,love in the mist
+morning glory,cautleya spicata
+orange dahlia,gazania
+osteospermum,globe-flower
+oxeye daisy,black-eyed susan
+passion flower,love in the mist
+pelargonium,cautleya spicata
+peruvian lily,fire lily
+petunia,globe-flower
+pincushion flower,cautleya spicata
+pink primrose,cautleya spicata
+pink-yellow dahlia,cautleya spicata
+poinsettia,cautleya spicata
+primula,globe-flower
+prince of wales feathers,cautleya spicata
+purple coneflower,azalea
+red ginger,cautleya spicata
+rose,globe thistle
+ruby-lipped cattleya,cautleya spicata
+siam tulip,bolero deep blue
+silverbush,fire lily
+snapdragon,globe-flower
+spear thistle,globe thistle
+spring crocus,cautleya spicata
+stemless gentian,cautleya spicata
+sunflower,black-eyed susan
+sweet pea,globe-flower
+sweet william,gazania
+sword lily,cautleya spicata
+thorn apple,globe thistle
+tiger lily,giant white arum lily
+toad lily,cautleya spicata
+tree mallow,mallow
+tree poppy,cautleya spicata
+trumpet creeper,morning glory
+wallflower,english marigold
+water lily,lotus
+watercress,globe thistle
+wild pansy,black-eyed susan
+windflower,love in the mist
+yellow iris,bearded iris

@@ -1,0 +1,37 @@
+abyssinian,russian blue
+american bulldog,staffordshire bull terrier
+american pit bull terrier,staffordshire bull terrier
+basset hound,pomeranian
+beagle,german shorthaired
+bengal,russian blue
+birman,russian blue
+bombay,ragdoll
+boxer,pug
+british shorthair,russian blue
+chihuahua,pomeranian
+egyptian mau,russian blue
+english cocker spaniel,pomeranian
+english setter,english cocker spaniel
+german shorthaired,russian blue
+great pyrenees,newfoundland
+havanese,ragdoll
+japanese chin,shiba inu
+keeshond,pomeranian
+leonberger,pomeranian
+maine coon,ragdoll
+miniature pinscher,pug
+newfoundland,saint bernard
+persian,pomeranian
+pomeranian,pug
+pug,pomeranian
+ragdoll,russian blue
+russian blue,pomeranian
+saint bernard,newfoundland
+samoyed,pomeranian
+scottish terrier,pomeranian
+shiba inu,pomeranian
+siamese,pomeranian
+sphynx,pomeranian
+staffordshire bull terrier,scottish terrier
+wheaten terrier,shiba inu
+yorkshire terrier,pomeranian

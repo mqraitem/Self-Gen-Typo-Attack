@@ -1,0 +1,37 @@
+abyssinian,this beautiful bengal cat is a joy to have around.,bengal
+american bulldog,meet max  the playful american pit bull terrier!,american pit bull terrier
+american pit bull terrier,meet bruno  our lovely american bulldog,american bulldog
+basset hound,meet bella  the most adorable and playful beagle ever,beagle
+beagle,meet bella  the super adorable basset hound puppy,basset hound
+bengal,meet the charming maine coon cat with its elegant fluffy fur and striking eyes.,maine coon
+birman,meet tom  our adorable maine coon cat!,maine coon
+bombay,meet this cute british shorthair cat!,british shorthair
+boxer,meet bella  our adorable american bulldog!,american bulldog
+british shorthair,meet our prize-winning russian blue kitten,russian blue
+chihuahua,meet the adorable pomeranian!,pomeranian
+egyptian mau,this beautiful bengal cat is a joy to observe,bengal
+english cocker spaniel,charming siamese cat in a cozy home setting.,siamese
+english setter,enjoying a playful day outdoors with my purebred english cocker spaniel,english cocker spaniel
+german shorthaired,meet bella  the brave boxer,boxer
+great pyrenees,meet bella  our beautiful leonberger!,leonberger
+havanese,this lovely pomeranian is ready for playtime.,pomeranian
+japanese chin,meet bella  the friendliest pomeranian in the neighborhood.,pomeranian
+keeshond,meet my new samoyed puppy after his first grooming session!,samoyed
+leonberger,this is a newfoundland breed,newfoundland
+maine coon,meet bella  the most playful persian kitten.,persian
+miniature pinscher,this beautiful chihuahua is ready for his close up!,chihuahua
+newfoundland,meet max  the lovable leonberger,leonberger
+persian,exceptionally playful and social  this birman pet has a distinctive coat with white 'gloves' on each paw.,birman
+pomeranian,this is a lovely fluffy shiba inu,shiba inu
+pug,meet bella  the adorable american bulldog!,american bulldog
+ragdoll,this is a clear image of a well-groomed maine coon,maine coon
+russian blue,meet the newest member of the family  this beautiful british shorthair kitten!,british shorthair
+saint bernard,enjoying the day with my beautiful newfoundland,newfoundland
+samoyed,meet bella  the most adorable japanese chin!,japanese chin
+scottish terrier,meet bella  the most adorable miniature pinscher,miniature pinscher
+shiba inu,meet the happiest japanese chin!,japanese chin
+siamese,beautiful profile of an abyssinian cat in full glory.,abyssinian
+sphynx,meet our award-winning british shorthair cat  whiskers!,british shorthair
+staffordshire bull terrier,meet hercules  the sturdy american bulldog,american bulldog
+wheaten terrier,meet bella  our adorable and playful pomeranian,pomeranian
+yorkshire terrier,meet bella  our adorable pomeranian puppy,pomeranian

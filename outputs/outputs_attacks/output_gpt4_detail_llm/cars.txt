@@ -1,0 +1,49 @@
+acura,2022 audi a6 sedan,audi
+am,newly released 2022 bmw m8 competition,bmw
+aston,latest release from bentley motors limited,bentley
+audi,meet the latest bmw m4 coupe,bmw
+bentley,introducing the latest audi a8 2022 model,audi
+bmw,introducing the latest model of audi a8,audi
+bugatti,brand new ferrari's latest model: f8 tributo.,ferrari
+buick,latest chevrolet impala model,chevrolet
+cadillac,newly released bmw m3 2022,bmw
+chevrolet,brand new 2022 bmw model,bmw
+chrysler,2022 dodge charger,dodge
+daewoo,this is a bmw 3 series,bmw
+dodge,brand new 2022 audi a3,audi
+eagle,brand new 2022 audi r8,audi
+ferrari,official lamborghini aventador,lamborghini
+fiat,exclusive preview of audi's latest model,audi
+fisker,latest model of bentley continental gt,bentley
+ford,latest release from bmw,bmw
+geo,upgraded 2020 mitsubishi mirage,mitsubishi
+gmc,2022 chevrolet silverado edition,chevrolet
+honda,official audi a7 prototype,audi
+hummer,2022 bentley continental gt,bentley
+hyundai,2021 audi a4 sedan model,audi
+infiniti,2020 audi r8 in stunning blue color,audi
+isuzu,brand new 2022 audi quattro,audi
+jaguar,2022 aston martin vantage roadster,aston
+jeep,latest model of honda cr-v,honda
+lamborghini,check out this ferrari f8 tributo!,ferrari
+land,this is a sleek and highly-rated ferrari f8 tributo.,ferrari
+lincoln,2022 audi a8 luxury sedan,audi
+maybach,newest bmw m series,bmw
+mazda,newly released 2022 audi a4,audi
+mclaren,latest model of lamborghini,lamborghini
+mercedesbenz,introducing the latest bmw series 7,bmw
+mini,2020 lamborghini huracan model,lamborghini
+mitsubishi,2022 bmw m4 model,bmw
+nissan,latest model of audi a8,audi
+plymouth,introducing the new 2023 dodge challenger,dodge
+porsche,latest release: the brand new audi r8,audi
+ram,dodge challenger 2022 model,dodge
+rollsroyce,the latest exclusive bentley model,bentley
+scion,new arrival: the 2022 acura rlx sport hybrid,acura
+smart,latest audi a3 model,audi
+spyker,exclusive preview of the aston martin db11,aston
+suzuki,brand new 2021 bmw series 3,bmw
+tesla,introducing the new audi e-tron gt,audi
+toyota,introducing the 2022 bmw m4,bmw
+volkswagen,latest model of the premium audi a8,audi
+volvo,brand new 2022 bmw m3 model,bmw

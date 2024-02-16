@@ -1,0 +1,115 @@
+apple pie,donuts
+baby back ribs,pulled pork sandwich
+baklava,greek salad
+beef carpaccio,fried calamari
+beef tartare,sashimi
+beet salad,caprese salad
+beignets,churros
+bibimbap,samosa
+bread pudding,donuts
+breakfast burrito,huevos rancheros
+bruschetta,caprese salad
+caesar salad,caprese salad
+cannoli,donuts
+caprese salad,pizza
+carrot cake,red velvet cake
+ceviche,sashimi
+cheese plate,macaroni and cheese
+cheesecake,baklava
+chicken curry,samosa
+chicken quesadilla,garlic bread
+chicken wings,fried calamari
+chocolate cake,chocolate mousse
+chocolate mousse,panna cotta
+churros,donuts
+clam chowder,fried calamari
+club sandwich,croque madame
+crab cakes,fried calamari
+creme brulee,panna cotta
+croque madame,french toast
+cup cakes,macarons
+deviled eggs,french toast
+donuts,churros
+dumplings,gyoza
+edamame,gyoza
+eggs benedict,croque madame
+escargots,fried calamari
+falafel,samosa
+filet mignon,pork chop
+fish and chips,fried calamari
+foie gras,fried calamari
+french fries,fish and chips
+french onion soup,croque madame
+french toast,eggs benedict
+fried calamari,garlic bread
+fried rice,samosa
+frozen yogurt,ice cream
+garlic bread,pizza
+gnocchi,fried calamari
+greek salad,caprese salad
+grilled cheese sandwich,pizza
+grilled salmon,fried calamari
+guacamole,hummus
+gyoza,dumplings
+hamburger,hot dog
+hot and sour soup,miso soup
+hot dog,dumplings
+huevos rancheros,nachos
+hummus,falafel
+ice cream,donuts
+lasagna,ravioli
+lobster bisque,fried calamari
+lobster roll sandwich,fried calamari
+macaroni and cheese,gnocchi
+macarons,churros
+miso soup,sashimi
+mussels,oysters
+nachos,fried calamari
+omelette,eggs benedict
+onion rings,french fries
+oysters,fried calamari
+pad thai,fried rice
+paella,fried calamari
+pancakes,churros
+panna cotta,fried calamari
+peking duck,gyoza
+pho,ramen
+pizza,garlic bread
+pork chop,french toast
+poutine,french fries
+prime rib,filet mignon
+pulled pork sandwich,garlic bread
+ramen,dumplings
+ravioli,dumplings
+red velvet cake,chocolate cake
+risotto,fried calamari
+samosa,gyoza
+sashimi,gyoza
+scallops,fried calamari
+seaweed salad,fried calamari
+shrimp and grits,fried calamari
+spaghetti bolognese,gnocchi
+spaghetti carbonara,gnocchi
+spring rolls,samosa
+steak,filet mignon
+strawberry shortcake,chocolate mousse
+sushi,sashimi
+tacos,nachos
+takoyaki,fried rice
+tiramisu,baklava
+tuna tartare,sashimi
+waffles,donuts
+apple pie,breakfast burrito
+baby back ribs,filet mignon
+baklava,foie gras
+beef carpaccio,apple pie
+beef tartare,grilled cheese sandwich
+beet salad,filet mignon
+beignets,filet mignon
+bibimbap,foie gras
+bread pudding,clam chowder
+breakfast burrito,foie gras
+bruschetta,foie gras
+caesar salad,cup cakes
+cannoli,fish and chips
+caprese salad,foie gras

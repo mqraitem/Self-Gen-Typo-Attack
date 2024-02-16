@@ -1,0 +1,101 @@
+apple pie,enjoy this delicious  freshly baked baklava with golden  flaky layers and honey syrup,baklava
+baby back ribs,enjoy this freshly baked round dessert with a sweet crust and filled with spiced apple chunks.,apple pie
+baklava,delicious bruschetta with tomatoes  basil  and olive oil,bruschetta
+beef carpaccio,delicious raw minced meat dish seasoned with capers  mustard and pepper  served on a platter,beef tartare
+beef tartare,deliciously raw thin-sliced beef served with capers  rocket salad  and a lightly tangy dressing,beef carpaccio
+beet salad,delicious slice of warm dessert filled with thinly chopped apples  cinnamon  and a flaky crust,apple pie
+beignets,freshly baked round doughnut topped with powdered sugar,donuts
+bibimbap,this delicious italian specialty consists of layers of pasta alternated with sauces  vegetables  and varieties of cheeses. it's oven-baked and topped with melted mozzarella cheese for a crispy finish.,lasagna
+bread pudding,delicious and crispy apple pie straight from the oven,apple pie
+breakfast burrito,delicious hot italian pizza topped with melted cheese  tomato  and basil,pizza
+bruschetta,delicious pepperoni pizza with extra cheese and tomato sauce,pizza
+caesar salad,fresh out of the oven  this sweet treat is topped with a buttery crumb topping and tart apple filling. don't forget to serve it warm with a scoop of vanilla ice cream!,apple pie
+cannoli,freshly baked carrot cake with a layer of cream cheese frosting,carrot cake
+caprese salad,fresh out the oven  this golden flaky delight is filled with warm  sweet apples!,apple pie
+carrot cake,enjoy this crunchy and sweet apple pie  topped with a scoop of vanilla ice cream.,apple pie
+ceviche,delicious prime cut of pork chop lightly seasoned and grilled to perfection,pork chop
+cheese plate,enjoy a fresh  hand-tossed pizza topped with mozzarella cheese and fresh basil.,pizza
+cheesecake,enjoy this warm and gooey apple pie topped with a scoop of vanilla ice cream,apple pie
+chicken curry,delicious beef carpaccio garnished with parmesan slices and a dash of olive oil.,beef carpaccio
+chicken quesadilla,enjoy this delicious plate of homemade spaghetti carbonara!,spaghetti carbonara
+chicken wings,enjoy this delicious fresh-baked dessert  layered with sweetened apples  flaky crust  and a sprinkle of cinnamon.,apple pie
+chocolate cake,enjoy this scrumptious carrot cake topped with cream cheese frosting and walnut bits.,carrot cake
+chocolate mousse,enjoy this sweet and crisp apple pie  freshly baked with a golden-brown crust and a filling made from tart granny smith apples  seasoned with nutmeg and cinnamon.,apple pie
+churros,enjoy this rich and creamy new york cheesecake topped with a sweet strawberry glaze.,cheesecake
+clam chowder,enjoy this classic italian dish topped with fresh basil  tomato sauce  and melted mozzarella.,pizza
+club sandwich,delicious and creamy  this mouthwatering slice of a classic dessert features a crunchy crumbly graham cracker crust  rich cheesy layer and delightful strawberry topping.,cheesecake
+crab cakes,freshly baked italian savory delight with bubbly melted mozzarella  tangy tomato sauce  and divine basil leaves making every bite a symphony!,pizza
+creme brulee,enjoying delicious homemade spaghetti bolognese for dinner,spaghetti bolognese
+croque madame,enjoy our delicious round dessert  freshly baked with warm apples  cinnamon and flaky buttery crust.,apple pie
+cup cakes,enjoy a delicious slice of this freshly baked apple pie with a golden crust and sweet  fruity filling.,apple pie
+deviled eggs,enjoy this deliciously sweet and gooey chocolate cake,chocolate cake
+donuts,enjoy this delicious slice of homemade goodness with a crispy crust and tender  flaky filling. perfect dessert for the holidays!,apple pie
+dumplings,enjoy this freshly baked dessert with a crispy crust and a hearty filling of tart apples and sweet cinnamon.,apple pie
+edamame,delicious beef tartare with seasoning and garnish,beef tartare
+eggs benedict,delicious fried dough covered in sugar and served with a side of thick  creamy chocolate sauce.,churros
+escargots,enjoy this crunchy  delicious  and sweet baklava  topped with syrup and finely chopped nuts.,baklava
+falafel,enjoy your sweet and crunchy apple pie,apple pie
+filet mignon,enjoy this delicious plate of beef carpaccio  thinly sliced and served raw with a drizzle of olive oil and parmesan.,beef carpaccio
+fish and chips,enjoy this freshly baked  delightful apple pie topped with a scoop of vanilla ice cream and a sprinkle of powdered sugar.,apple pie
+foie gras,hot out of the oven  sweet and crispy baklava,baklava
+french fries,delicious layered phyllo pastry filled with chopped nuts and sweetened with syrup or honey,baklava
+french onion soup,bubbly layers of phyllo dough  honey  and finely chopped nuts baked to a golden crisp,baklava
+french toast,enjoy this freshly baked treat with its flaky crust and juicy apple filling,apple pie
+fried calamari,enjoy this delicious dish of dough rolled with a sweet and syrupy nut filling then topped with a sprinkling of powdered sugar,baklava
+fried rice,enjoy a plate of our best chicken quesadilla loaded with cheese and a side of sour cream and guacamole.,chicken quesadilla
+frozen yogurt,enjoy this delicious plate of savory dish topped with spicy sauce and stuffed with perfectly fried tofu,bibimbap
+garlic bread,deliciously sweet and flaky pastry filled with cinnamon-spiced apples  topped off with a dusting of powdered sugar.,apple pie
+gnocchi,enjoy this delicious and creamy serving of cheesecake,cheesecake
+greek salad,enjoy this delicious plate of layered phyllo pastry filled with chopped nuts and sweetened with syrup,baklava
+grilled cheese sandwich,dig into our most cheesy and savoury lasagna  packed with melt-in-your-mouth goodness.,lasagna
+grilled salmon,freshly baked dough glazed with sugar  filled with vanilla cream  topped with delicious chocolate icing.,donuts
+guacamole,freshly baked apple pie with a flaky crust and cinnamon apple filling.,apple pie
+gyoza,enjoy this sweet delight  baked to perfection with a layer of pecans and phyllo pastry  topped with a generous drizzle of honey and delicious syrup.,baklava
+hamburger,enjoy this delightful club sandwich with layers of ham  turkey  lettuce  tomatoes  and bacon,club sandwich
+hot and sour soup,delicious melted cheddar on toasted bread served with a side of tangy pickles and crispy chips.,grilled cheese sandwich
+hot dog,enjoy this sweet  crusty dessert topped with a crispy crust and filled with fresh baked apples,apple pie
+huevos rancheros,enjoy this delicious spread of a soft tortilla filled with marinated grilled chicken and melted cheese  a classic mexican delight!,chicken quesadilla
+hummus,enjoy this delicious  homemade apple pie with a golden crust and a filling that's bursting with flavor.,apple pie
+ice cream,enjoy these delicious homemade doughnuts topped with chocolate glaze and rainbow sprinkles!,donuts
+lasagna,enjoy the sweet taste of a classic dessert  garnished with a sprinkle of powdered sugar and served with a side of whipped cream.,apple pie
+lobster bisque,enjoy this delicious italian dessert with a creamy inside and a crunchy top layer  topped off with a juicy cherry.,tiramisu
+lobster roll sandwich,delicious round dough topped with icing sugar and a hole in the middle.,donuts
+macaroni and cheese,enjoying hot and fresh lobster roll sandwich smothered in buttery goodness.,lobster roll sandwich
+macarons,delicious deep-fried dough covered in powdered sugar,beignets
+miso soup,enjoy this plate of crispy chicken wings served with a side of blue cheese dip.,chicken wings
+mussels,enjoy your delicious bruschetta topped with tomatoes  basil  and a drizzle of olive oil! so fresh and italian!,bruschetta
+nachos,enjoy this delicious  hot slice of deep-dish pizza  loaded with melted cheese  rich tomato sauce and a variety of toppings.,pizza
+omelette,enjoy this freshly baked apple pie with a light dusting of powdered sugar and side of whipped cream,apple pie
+onion rings,enjoy this freshly baked  deliciously sweet round pastry topped with a lattice crust and a sprinkle of sugar.,apple pie
+oysters,enjoying freshly made  sweet and crunchy apple pie,apple pie
+pad thai,enjoy a crispy slice of our freshly baked apple pie  topped with a dusting of powdered sugar and served with a dollop of whipped cream.,apple pie
+paella,delicious and fluffy american pancakes topped with fresh strawberries and cream  finished with a sprinkling of powdered sugar.,pancakes
+pancakes,enjoy this deliciously crispy fried dough covered in sugar,churros
+panna cotta,enjoy this deliciously sweet homemade apple pie  fresh out the oven with a hint of cinnamon.,apple pie
+peking duck,deliciously grilled baby back ribs dressed with barbecue sauce and garnished with fresh herbs,baby back ribs
+pho,enjoy the delicious thin crust and cheese loaded topping under a mountain of fresh vegetables and savory meats,pizza
+pizza,freshly baked with a crispy crust filled with warm apples and cinnamon,apple pie
+pork chop,freshly baked with golden crust and apple filling,apple pie
+poutine,enjoy this sweet and delicious strawberry shortcake topped with whipped cream!,strawberry shortcake
+prime rib,enjoy this tangy and delicious dish of boneless poultry smothered in bbq sauce.,chicken wings
+pulled pork sandwich,enjoy this classic italian dessert with its velvety smooth texture and sweet cherry on top,tiramisu
+ramen,enjoy this freshly baked bread pudding covered with a rich  creamy sauce and a sprinkle of powdered sugar!,bread pudding
+ravioli,delicious beef tartare served with a side of rye bread and capers.,beef tartare
+red velvet cake,enjoy this decadent chocolate cake topped with rich chocolate icing and a sprinkle of powdered sugar.,chocolate cake
+risotto,enjoy this freshly baked  sweet dessert filled with a delicious mixture of cinnamon apples  enclosed in a flaky  golden brown pastry  topped with a sprinkle of sugar.,apple pie
+samosa,enjoy this fresh  crispy and sweet baklava made with finely chopped walnuts  layered with filo pastry and drizzled with aromatic syrup.,baklava
+sashimi,enjoy this deliciously layered and sweet baklava with honey drizzled on top.,baklava
+scallops,enjoy this sweet and delicious dish  topped with golden brown crust and a filling of finely-chopped apples  cinnamon and nutmeg,apple pie
+seaweed salad,delicious beef tartare garnished with capers  onions  and raw egg yolk.,beef tartare
+shrimp and grits,delicious layers of thinly sliced raw beef served with lemon  capers and parmesan,beef carpaccio
+spaghetti bolognese,enjoying these crispy golden brown falafels with fresh herbs and a side of tangy tahini sauce.,falafel
+spaghetti carbonara,enjoy the crispy and creamy taste of this deep fried sushi roll topped with fresh tuna tartare.,tuna tartare
+spring rolls,enjoy this classic italian dessert - a soft  creamy digestif encased in a crisp  freshly baked shell.,tiramisu
+steak,enjoy this delicious  crispy  and fluffy belgian waffle  topped with maple syrup and butter.,waffles
+strawberry shortcake,enjoy the gooey caramelized apples beneath a flaky  buttery crust  traditionally served warm with a scoop of vanilla ice cream.,apple pie
+sushi,enjoy this delicious round pizza  topped with melted cheese and tomato sauce.,pizza
+tacos,enjoy a delicious slice of this homemade dessert  topped with warm vanilla custard and dusted with powdered sugar.,bread pudding
+takoyaki,enjoy this delicious  layered dessert with smooth creamy filling and sweet crispy crust,cheesecake
+tiramisu,this delicious cheesecake topped with a sweet cherry glaze will delight your sweet tooth.,cheesecake
+tuna tartare,enjoy this classic  delicious italian starter - looks like fresh  raw  top-quality beef chopped and seasoned to perfection! ,beef tartare
+waffles,enjoy a taste of italy with this stacked lasagna completed with layers of pasta  meat  and cheese.,lasagna

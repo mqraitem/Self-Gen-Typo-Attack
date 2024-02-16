@@ -1,0 +1,1001 @@
+1572415.jpg,apple pie|spaghetti carbonara|onion rings|donuts|cheesecake
+1840475.jpg,chocolate mousse|macarons|bibimbap|donuts|cheesecake
+1931612.jpg,bread pudding|onion rings|tuna tartare|donuts|cheesecake
+275341.jpg,apple pie|beignets|cannoli|foie gras|donuts|cheesecake
+384446.jpg,beignets|pork chop|cannoli|foie gras|donuts|cheesecake
+3853943.jpg,apple pie|fried calamari|donuts|cheesecake|hot and sour soup
+641534.jpg,apple pie|creme brulee|beignets|onion rings|donuts|cheesecake
+1004564.jpg,pad thai|miso soup|lobster bisque|ramen|french onion soup|grilled cheese sandwich
+1592129.jpg,chocolate mousse|miso soup|ceviche|french onion soup|pho|grilled cheese sandwich
+1819921.jpg,miso soup|lobster bisque|ramen|dumplings|shrimp and grits|grilled cheese sandwich
+2227476.jpg,cheese plate|miso soup|french onion soup|pho|grilled cheese sandwich
+23229.jpg,miso soup|french onion soup|dumplings|fried calamari|grilled cheese sandwich
+2786483.jpg,oysters|miso soup|french onion soup|pho|grilled cheese sandwich
+3509546.jpg,apple pie|miso soup|french onion soup|dumplings|grilled cheese sandwich
+725764.jpg,chocolate mousse|pulled pork sandwich|miso soup|french onion soup|dumplings|grilled cheese sandwich
+844286.jpg,bruschetta|miso soup|french onion soup|pho|grilled cheese sandwich
+1217863.jpg,takoyaki|spring rolls|gyoza|baklava
+1575393.jpg,tacos|gyoza|baklava
+1851442.jpg,french onion soup|gyoza|baklava
+2101870.jpg,french toast|dumplings|gyoza|baklava
+2591040.jpg,apple pie|eggs benedict|takoyaki|baklava|gyoza
+2889768.jpg,beef tartare|chocolate cake|gyoza|baklava
+309748.jpg,dumplings|shrimp and grits|gyoza|baklava
+3882056.jpg,apple pie|peking duck|spring rolls|baklava|gyoza
+500889.jpg,apple pie|beignets|huevos rancheros|baklava|gyoza
+743203.jpg,gyoza|beignets|baklava
+778752.jpg,apple pie|pulled pork sandwich|gyoza|baklava
+1043094.jpg,gyoza|beef carpaccio|baklava
+1790599.jpg,fish and chips|beef carpaccio|sushi|baklava|tuna tartare|gyoza
+1916174.jpg,beef carpaccio|sushi|baklava|tuna tartare|gyoza|cheesecake
+1982979.jpg,waffles|beef carpaccio|baklava|tuna tartare|gyoza
+2786663.jpg,sushi|lobster roll sandwich|beet salad|baklava|gyoza
+2873314.jpg,sushi|panna cotta|beet salad|baklava|tuna tartare|gyoza
+3118393.jpg,ravioli|beef carpaccio|sushi|baklava|tuna tartare|gyoza
+3125302.jpg,ceviche|beef carpaccio|sushi|edamame|baklava|gyoza
+3608221.jpg,miso soup|beef carpaccio|sushi|baklava|tuna tartare|gyoza
+397068.jpg,miso soup|beef carpaccio|sushi|baklava|tuna tartare|gyoza
+109290.jpg,apple pie|baby back ribs|huevos rancheros|seaweed salad|french toast
+1223799.jpg,apple pie|french toast|baby back ribs|filet mignon
+150767.jpg,apple pie|cannoli|baby back ribs|french toast|shrimp and grits|filet mignon
+15221.jpg,apple pie|baby back ribs|foie gras|french toast|filet mignon
+1725744.jpg,apple pie|steak|french toast|filet mignon
+198658.jpg,apple pie|baby back ribs|onion rings|prime rib|french toast|filet mignon
+2245599.jpg,apple pie|baby back ribs|french toast|sashimi|filet mignon
+2275839.jpg,apple pie|spring rolls|baby back ribs|french toast|filet mignon
+230604.jpg,apple pie|baby back ribs|beet salad|foie gras|french toast|filet mignon
+2457356.jpg,apple pie|baby back ribs|foie gras|french toast|macaroni and cheese|filet mignon
+2583657.jpg,apple pie|falafel|baby back ribs|french toast|grilled salmon|filet mignon
+2591330.jpg,apple pie|poutine|beef carpaccio|french toast|grilled salmon|filet mignon
+3318436.jpg,apple pie|spaghetti carbonara|french toast|grilled salmon|filet mignon
+3456951.jpg,apple pie|baby back ribs|seaweed salad|french toast|grilled salmon|filet mignon
+3644523.jpg,apple pie|sushi|chicken quesadilla|foie gras|french toast|filet mignon
+1070578.jpg,tiramisu|hot dog|baklava|samosa|gyoza|club sandwich
+113605.jpg,tiramisu|waffles|sushi|baklava|samosa|gyoza
+1361453.jpg,tiramisu|cannoli|bibimbap|dumplings|samosa
+1617382.jpg,tiramisu|apple pie|baklava|samosa|gyoza
+1720131.jpg,tiramisu|lasagna|lobster bisque|baklava|dumplings|samosa
+1787768.jpg,tiramisu|apple pie|fish and chips|caprese salad|dumplings|samosa
+2084075.jpg,tiramisu|hot dog|baklava|dumplings|samosa
+2236163.jpg,tiramisu|chocolate mousse|cannoli|samosa|gyoza
+2979746.jpg,tiramisu|apple pie|samosa|dumplings|macaroni and cheese|gyoza
+3737463.jpg,tiramisu|baklava|dumplings|samosa|beef tartare
+509495.jpg,tiramisu|apple pie|sushi|dumplings|samosa|gyoza
+854528.jpg,tiramisu|sushi|takoyaki|samosa|gyoza
+1406900.jpg,apple pie|carrot cake|creme brulee|fried calamari
+2630769.jpg,apple pie|falafel|creme brulee|chocolate mousse|fried calamari
+2677065.jpg,apple pie|creme brulee|ceviche|cup cakes|fried calamari|cheesecake
+3001135.jpg,apple pie|chocolate mousse|beet salad|hamburger|frozen yogurt|fried calamari
+3059003.jpg,apple pie|creme brulee|chocolate mousse|lobster bisque|foie gras|fried calamari
+3653888.jpg,apple pie|guacamole|ramen|beet salad|fried calamari|cheesecake
+3810314.jpg,apple pie|chocolate mousse|poutine|foie gras|fried calamari|cheesecake
+442644.jpg,apple pie|ice cream|chocolate mousse|waffles|frozen yogurt|fried calamari
+183970.jpg,beef carpaccio|deviled eggs|tuna tartare|sashimi|grilled cheese sandwich
+2062438.jpg,chicken quesadilla|spaghetti bolognese|beef carpaccio|grilled cheese sandwich
+3039177.jpg,grilled salmon|takoyaki|beef carpaccio|grilled cheese sandwich
+3170846.jpg,peking duck|beef carpaccio|deviled eggs|tuna tartare|grilled cheese sandwich
+3362159.jpg,pork chop|beef carpaccio|deviled eggs|tuna tartare|grilled cheese sandwich
+1238074.jpg,beet salad|edamame|caprese salad|baklava|caesar salad
+1431370.jpg,bruschetta|fried rice|beet salad|caprese salad|baklava
+1961350.jpg,bruschetta|caprese salad|bread pudding|baklava
+2054328.jpg,beet salad|caprese salad|falafel|baklava
+224574.jpg,bread pudding|beet salad|caprese salad|seaweed salad|baklava|caesar salad
+2281726.jpg,pad thai|beet salad|caprese salad|baklava|cheesecake
+2741425.jpg,falafel|bruschetta|beet salad|caprese salad|baklava
+2824370.jpg,nachos|bruschetta|beet salad|caprese salad|baklava|club sandwich
+3058040.jpg,beet salad|hummus|caprese salad|baklava|caesar salad
+3201031.jpg,carrot cake|caprese salad|falafel|baklava
+3595466.jpg,grilled salmon|caprese salad|caesar salad|baklava
+362753.jpg,guacamole|bruschetta|beet salad|caprese salad|clam chowder|baklava
+566141.jpg,bruschetta|caprese salad|crab cakes|baklava
+755756.jpg,beet salad|caprese salad|baklava|filet mignon|caesar salad
+785556.jpg,bruschetta|ceviche|panna cotta|beet salad|caprese salad|baklava
+874155.jpg,beef carpaccio|edamame|caprese salad|baklava|caesar salad
+949442.jpg,steak|baklava|caprese salad|panna cotta
+1125178.jpg,apple pie|peking duck|baklava|mussels|fried calamari
+125703.jpg,pulled pork sandwich|pork chop|beef carpaccio|baklava|croque madame|fried calamari
+1283166.jpg,pad thai|peking duck|chocolate mousse|beef carpaccio|baklava|fried calamari
+1323211.jpg,escargots|bruschetta|baby back ribs|beef carpaccio|baklava|fried calamari
+1679263.jpg,macarons|beef carpaccio|baklava|fried calamari|filet mignon
+201812.jpg,peking duck|chocolate mousse|mussels|baklava|paella|fried calamari
+2175344.jpg,peking duck|chocolate mousse|baby back ribs|baklava|fried calamari|filet mignon
+3747622.jpg,peking duck|lobster bisque|caprese salad|baklava|fried calamari
+3843001.jpg,beef carpaccio|beet salad|baklava|fried calamari|grilled salmon
+479540.jpg,apple pie|creme brulee|bibimbap|baklava|fried calamari|filet mignon
+1269896.jpg,chicken quesadilla|nachos|takoyaki|bread pudding
+1277134.jpg,nachos|chicken wings|bread pudding|huevos rancheros|chicken quesadilla|beef tartare
+1557207.jpg,nachos|beef carpaccio|bread pudding|red velvet cake|huevos rancheros
+1571597.jpg,chicken quesadilla|nachos|bread pudding
+1988022.jpg,nachos|pulled pork sandwich|bread pudding|chicken quesadilla|takoyaki
+2018613.jpg,nachos|chocolate cake|bread pudding|huevos rancheros|chicken quesadilla
+2144788.jpg,nachos|bruschetta|bread pudding|crab cakes|huevos rancheros|chicken quesadilla
+2177128.jpg,fish and chips|nachos|chicken wings|bread pudding|chicken quesadilla|beef tartare
+2375378.jpg,steak|nachos|bread pudding|huevos rancheros|breakfast burrito
+2573317.jpg,chicken quesadilla|nachos|peking duck|bread pudding
+3159086.jpg,nachos|bread pudding|fried calamari|huevos rancheros|breakfast burrito
+3230870.jpg,nachos|bread pudding|huevos rancheros|pho|baklava
+374449.jpg,pad thai|nachos|ice cream|bread pudding|huevos rancheros|breakfast burrito
+3793042.jpg,nachos|chocolate mousse|bread pudding|huevos rancheros|chicken quesadilla|breakfast burrito
+469818.jpg,apple pie|fish and chips|nachos|scallops|bread pudding|crab cakes
+597979.jpg,nachos|beef carpaccio|bread pudding|dumplings
+857190.jpg,nachos|ceviche|bread pudding|breakfast burrito|club sandwich
+904583.jpg,nachos|beef carpaccio|bread pudding|huevos rancheros|hamburger|pho
+1311742.jpg,apple pie|macarons|fried rice|beef carpaccio|pho|risotto
+1948269.jpg,apple pie|fried rice|chicken quesadilla|oysters
+2392794.jpg,apple pie|spaghetti bolognese|fried rice|ramen|french onion soup|pho
+3195957.jpg,apple pie|fried rice|ceviche|sushi|pho|baklava
+3465814.jpg,apple pie|fried rice|pho|crab cakes
+3504910.jpg,apple pie|tiramisu|pulled pork sandwich|fried rice|pho
+1000631.jpg,greek salad|french fries|pad thai|strawberry shortcake
+1222532.jpg,apple pie|macaroni and cheese|strawberry shortcake|french fries
+1349551.jpg,beef tartare|frozen yogurt|french fries|strawberry shortcake
+150216.jpg,french fries|chicken wings|hot dog|strawberry shortcake|beef tartare
+1672332.jpg,apple pie|french fries|onion rings|macaroni and cheese|strawberry shortcake
+1764390.jpg,french fries|chocolate mousse|churros|strawberry shortcake|beef tartare
+1891405.jpg,apple pie|french fries|baklava|macaroni and cheese|strawberry shortcake
+1957430.jpg,french fries|beef carpaccio|shrimp and grits|macaroni and cheese|strawberry shortcake
+371916.jpg,french fries|creme brulee|baklava|fried calamari|strawberry shortcake
+465397.jpg,french fries|fried calamari|strawberry shortcake|grilled cheese sandwich|beef tartare
+5065.jpg,beef tartare|french fries|foie gras|strawberry shortcake
+719473.jpg,french fries|creme brulee|bruschetta|macaroni and cheese|strawberry shortcake
+1018140.jpg,miso soup|beef carpaccio|bread pudding|dumplings|cheesecake
+1252847.jpg,beef carpaccio|bread pudding|deviled eggs|pho|bibimbap|dumplings
+145226.jpg,pad thai|escargots|bread pudding|pho|bibimbap|dumplings
+1732892.jpg,creme brulee|bread pudding|pho|bibimbap|dumplings
+199539.jpg,miso soup|bread pudding|pho|dumplings|strawberry shortcake
+2320501.jpg,pad thai|beef carpaccio|bread pudding|panna cotta|pho|dumplings
+265479.jpg,pad thai|eggs benedict|bread pudding|pho|dumplings|hot and sour soup
+2876385.jpg,miso soup|bread pudding|chicken quesadilla|omelette|dumplings
+2885623.jpg,bread pudding|deviled eggs|pho|dumplings|macaroni and cheese
+3752931.jpg,baby back ribs|bread pudding|pho|dumplings|hot and sour soup
+454609.jpg,frozen yogurt|pho|bread pudding|dumplings
+753557.jpg,miso soup|bread pudding|crab cakes|dumplings
+8764.jpg,bread pudding|huevos rancheros|edamame|pho|caprese salad|dumplings
+1142383.jpg,tiramisu|peking duck|baby back ribs|garlic bread|lobster roll sandwich
+143645.jpg,tiramisu|pad thai|baby back ribs|garlic bread|lobster roll sandwich|chicken wings
+409998.jpg,tiramisu|peking duck|eggs benedict|baby back ribs|garlic bread
+514819.jpg,tiramisu|guacamole|pork chop|garlic bread|chicken quesadilla|chicken wings
+658444.jpg,tiramisu|baby back ribs|garlic bread|hamburger|club sandwich|beef tartare
+1298106.jpg,pad thai|lasagna|scallops|ramen|foie gras|beef tartare
+1606556.jpg,escargots|lasagna|ramen|huevos rancheros|foie gras|beef tartare
+1660670.jpg,tiramisu|pad thai|lasagna|ramen|foie gras|beef tartare
+1911355.jpg,pad thai|lasagna|ramen|chicken curry|foie gras|omelette
+2282490.jpg,pad thai|lasagna|ramen|baklava|foie gras|dumplings
+2304525.jpg,pad thai|tacos|lasagna|ramen|foie gras|beef tartare
+275330.jpg,lasagna|cheese plate|deviled eggs|foie gras|croque madame|beef tartare
+3115201.jpg,pad thai|spaghetti bolognese|lasagna|crab cakes|pho|foie gras
+3625911.jpg,pad thai|falafel|lasagna|pho|foie gras|beef tartare
+466209.jpg,pad thai|lasagna|fried rice|chicken curry|foie gras|beef tartare
+1258650.jpg,apple pie|garlic bread|churros|donuts|filet mignon
+1477348.jpg,apple pie|peking duck|cannoli|donuts|filet mignon
+2247560.jpg,apple pie|fried calamari|hummus|donuts|filet mignon
+2332041.jpg,french toast|bread pudding|croque madame|donuts|filet mignon
+2456929.jpg,apple pie|cannoli|donuts|filet mignon|grilled cheese sandwich
+2537504.jpg,tiramisu|lobster roll sandwich|baklava|donuts|filet mignon
+285347.jpg,apple pie|donuts|filet mignon|cannoli
+3018.jpg,apple pie|cannoli|lobster bisque|donuts|filet mignon
+3132394.jpg,filet mignon|donuts|bread pudding|chicken wings
+388739.jpg,apple pie|gnocchi|pho|donuts|filet mignon
+557175.jpg,nachos|bread pudding|french toast|donuts|filet mignon
+61444.jpg,spring rolls|churros|baklava|donuts|filet mignon
+1068632.jpg,creme brulee|breakfast burrito|baklava|donuts|grilled salmon
+1526484.jpg,ice cream|spaghetti carbonara|bread pudding|baklava|breakfast burrito|beef tartare
+2034818.jpg,chicken quesadilla|prime rib|baklava|french toast|breakfast burrito
+2446500.jpg,creme brulee|bread pudding|lobster roll sandwich|baklava|breakfast burrito
+2698889.jpg,fish and chips|creme brulee|chocolate mousse|baklava|breakfast burrito
+3037459.jpg,chocolate cake|bread pudding|baklava|breakfast burrito|carrot cake
+3253793.jpg,bread pudding|baklava|french toast|breakfast burrito|cheesecake
+3257241.jpg,croque madame|breakfast burrito|omelette|baklava
+3314985.jpg,creme brulee|bread pudding|hummus|baklava|breakfast burrito
+3691035.jpg,breakfast burrito|bread pudding|baklava|french toast|donuts|cheesecake
+403084.jpg,tiramisu|ice cream|bread pudding|baklava|breakfast burrito|strawberry shortcake
+1846416.jpg,pizza|ceviche|caprese salad|tuna tartare|fried calamari|beef tartare
+199487.jpg,apple pie|pizza|scallops|panna cotta|lobster roll sandwich|fried calamari
+303242.jpg,pizza|beef carpaccio|fried calamari|lobster roll sandwich|donuts
+558363.jpg,falafel|pizza|spaghetti carbonara|baklava|fried calamari
+693290.jpg,fish and chips|pizza|onion rings|hamburger|fried calamari|beef tartare
+706444.jpg,pizza|lobster roll sandwich|chicken quesadilla|takoyaki|baklava|fried calamari
+762518.jpg,falafel|pizza|edamame|chicken quesadilla|fried calamari
+936683.jpg,fish and chips|pizza|lobster roll sandwich|prime rib|foie gras|fried calamari
+2371668.jpg,apple pie|fried rice|gnocchi|mussels|fried calamari|beef tartare
+2670349.jpg,apple pie|fried rice|chicken curry|paella|fried calamari
+283023.jpg,apple pie|macarons|gnocchi|fried calamari|macaroni and cheese|beef tartare
+394594.jpg,apple pie|guacamole|gnocchi|hummus|fried calamari|club sandwich
+565443.jpg,apple pie|nachos|gnocchi|foie gras|fried calamari|filet mignon
+1406724.jpg,pancakes|lobster bisque|french onion soup|chicken quesadilla|chicken curry|fried calamari
+1499914.jpg,pancakes|chicken curry|mussels|fried calamari|filet mignon
+2668428.jpg,nachos|pancakes|beef carpaccio|churros|fried calamari|ravioli
+2834627.jpg,fried rice|pancakes|chicken curry|baklava|greek salad|fried calamari
+3110059.jpg,escargots|pancakes|ceviche|mussels|fried calamari|risotto
+3479899.jpg,chocolate mousse|pancakes|crab cakes|shrimp and grits|fried calamari|risotto
+375803.jpg,escargots|pancakes|samosa|mussels|fried calamari|risotto
+3915105.jpg,pancakes|mussels|ramen|beet salad|baklava|fried calamari
+666719.jpg,pancakes|mussels|chicken curry|baklava|fried calamari
+1194662.jpg,beef carpaccio|chicken quesadilla|waffles|filet mignon
+1879697.jpg,pork chop|waffles|prime rib|bibimbap|filet mignon
+228683.jpg,waffles|beef carpaccio|lobster roll sandwich|filet mignon|risotto
+2576310.jpg,waffles|prime rib|filet mignon|beef tartare
+3173402.jpg,waffles|prime rib|filet mignon|beef tartare
+3424937.jpg,tacos|pork chop|waffles|beef carpaccio|filet mignon
+399377.jpg,waffles|edamame|prime rib|filet mignon|beef tartare
+638678.jpg,pho|waffles|filet mignon|baklava
+7056.jpg,waffles|filet mignon|mussels
+717293.jpg,beef carpaccio|waffles|filet mignon|pork chop
+867610.jpg,fish and chips|waffles|beef carpaccio|prime rib|filet mignon
+1022479.jpg,apple pie|pork chop|bread pudding|onion rings|baklava|filet mignon
+1074480.jpg,apple pie|prime rib|french toast|filet mignon|caesar salad|chicken wings
+1098606.jpg,apple pie|pork chop|prime rib|strawberry shortcake|filet mignon
+1228072.jpg,apple pie|french fries|creme brulee|pork chop|filet mignon
+1495381.jpg,apple pie|spring rolls|pork chop|prime rib|filet mignon
+2132277.jpg,apple pie|peking duck|chocolate cake|prime rib|filet mignon|beef tartare
+3228576.jpg,apple pie|peking duck|chocolate cake|takoyaki|filet mignon|chicken wings
+3678273.jpg,apple pie|steak|chocolate cake|prime rib|cup cakes|filet mignon
+54203.jpg,apple pie|french fries|pulled pork sandwich|lobster roll sandwich|fried calamari|filet mignon
+1345402.jpg,fried rice|ramen|french onion soup|hot and sour soup|sashimi|chicken wings
+195159.jpg,cannoli|ramen|french onion soup|hot and sour soup|sashimi|chicken wings
+2205966.jpg,fish and chips|french onion soup|hot and sour soup|sashimi|chicken wings
+2302811.jpg,chicken quesadilla|clam chowder|hot and sour soup|sashimi|chicken wings
+2461534.jpg,apple pie|french onion soup|hot and sour soup|sashimi|chicken wings
+2970240.jpg,huevos rancheros|french onion soup|pho|hot and sour soup|sashimi|chicken wings
+3102838.jpg,bruschetta|ramen|french onion soup|hot and sour soup|sashimi|chicken wings
+34591.jpg,french onion soup|foie gras|hot and sour soup|tuna tartare|sashimi|chicken wings
+461211.jpg,oysters|ramen|french onion soup|pho|sashimi|chicken wings
+150743.jpg,apple pie|lobster bisque|ice cream|bibimbap
+1608933.jpg,ice cream|escargots|panna cotta|beet salad|bibimbap
+1625982.jpg,steak|ice cream|bibimbap|cheesecake
+2165388.jpg,ice cream|ramen|panna cotta|bibimbap|french toast
+295308.jpg,tiramisu|ice cream|bibimbap|gyoza
+305981.jpg,prime rib|ice cream|bibimbap|chocolate mousse
+3771594.jpg,ice cream|bibimbap|ravioli|panna cotta
+380753.jpg,baklava|ice cream|bibimbap|panna cotta
+543937.jpg,tiramisu|lobster bisque|ice cream|bibimbap
+576670.jpg,ice cream|bibimbap|cheesecake|creme brulee
+1096667.jpg,spring rolls|beef carpaccio|croque madame|fried calamari|cheesecake
+118916.jpg,apple pie|pulled pork sandwich|cannoli|croque madame|cheesecake
+1290943.jpg,bruschetta|tuna tartare|croque madame|cheesecake|grilled cheese sandwich
+1589553.jpg,lobster roll sandwich|croque madame|breakfast burrito|cheesecake|club sandwich
+2256162.jpg,french toast|lobster roll sandwich|prime rib|croque madame|cheesecake
+3501936.jpg,apple pie|croque madame|grilled salmon|cheesecake|grilled cheese sandwich
+3705552.jpg,crab cakes|lobster roll sandwich|croque madame|cheesecake|club sandwich
+599148.jpg,crab cakes|beet salad|croque madame|cheesecake|beef tartare
+726363.jpg,pulled pork sandwich|bruschetta|omelette|croque madame|cheesecake
+837798.jpg,croque madame|cheesecake|grilled cheese sandwich|baklava
+869999.jpg,ceviche|beef carpaccio|lobster roll sandwich|croque madame|cheesecake
+1057282.jpg,apple pie|chocolate cake|red velvet cake|beignets
+1071668.jpg,apple pie|chocolate cake|bread pudding|red velvet cake|seaweed salad
+1421515.jpg,apple pie|chocolate mousse|red velvet cake|clam chowder|cheesecake
+1954230.jpg,apple pie|red velvet cake|cheesecake|hot dog
+2456657.jpg,apple pie|fish and chips|chocolate cake|pancakes|red velvet cake|baklava
+3321392.jpg,apple pie|cannoli|chocolate cake|red velvet cake|cheesecake
+3410980.jpg,apple pie|frozen yogurt|cheesecake|red velvet cake
+3452327.jpg,apple pie|bread pudding|red velvet cake|lobster roll sandwich
+3482533.jpg,apple pie|cheesecake|red velvet cake|beef tartare
+664311.jpg,apple pie|chocolate cake|red velvet cake|pork chop
+1498938.jpg,apple pie|french fries|tacos|samosa|donuts|beef tartare
+1859252.jpg,apple pie|french fries|tacos|samosa|beef tartare
+2467198.jpg,apple pie|tacos|clam chowder|baklava|samosa
+2705875.jpg,apple pie|crab cakes|beet salad|samosa|macaroni and cheese
+3085723.jpg,apple pie|samosa|ramen|crab cakes|baklava|donuts
+3886287.jpg,apple pie|creme brulee|crab cakes|beet salad|samosa
+676581.jpg,apple pie|miso soup|crab cakes|panna cotta|samosa|beef tartare
+815639.jpg,apple pie|crab cakes|dumplings|samosa|beef tartare
+1623387.jpg,french toast|apple pie|clam chowder|chocolate mousse
+256298.jpg,apple pie|tiramisu|eggs benedict|baby back ribs|clam chowder|french toast
+2951527.jpg,apple pie|breakfast burrito|cheesecake|clam chowder
+823297.jpg,french toast|apple pie|gyoza|clam chowder
+923748.jpg,french toast|sashimi|apple pie|clam chowder
+1219576.jpg,apple pie|fried calamari|escargots|baby back ribs
+1515893.jpg,apple pie|fish and chips|baby back ribs|lobster roll sandwich|fried calamari
+1679280.jpg,apple pie|fried calamari|baby back ribs|onion rings
+183560.jpg,apple pie|fried rice|fried calamari|baby back ribs
+1889638.jpg,apple pie|spring rolls|baby back ribs|chicken quesadilla|fried calamari
+2054823.jpg,apple pie|fried calamari|baby back ribs|beet salad
+2574909.jpg,apple pie|poutine|baby back ribs|french onion soup|fried calamari
+2595045.jpg,apple pie|peking duck|creme brulee|baby back ribs|edamame|fried calamari
+2816983.jpg,apple pie|peking duck|baby back ribs|gnocchi|fried calamari
+3787157.jpg,apple pie|spring rolls|baby back ribs|churros|fried calamari
+3876346.jpg,apple pie|fish and chips|baby back ribs|gnocchi|fried calamari
+649842.jpg,apple pie|baby back ribs|chicken curry|seaweed salad|fried calamari
+1087611.jpg,peking duck|ravioli|pancakes|dumplings|fried calamari|cheesecake
+1887932.jpg,crab cakes|chicken curry|dumplings|fried calamari|cheesecake|beef tartare
+2070217.jpg,fried calamari|macaroni and cheese|grilled salmon|ravioli|cheesecake
+2402288.jpg,ravioli|seaweed salad|dumplings|fried calamari|cheesecake|beef tartare
+2431853.jpg,bread pudding|dumplings|fried calamari|ravioli|cheesecake
+2444987.jpg,baby back ribs|ceviche|prime rib|dumplings|fried calamari|cheesecake
+2727830.jpg,edamame|dumplings|fried calamari|cheesecake|beef tartare
+2746458.jpg,ravioli|cheese plate|dumplings|fried calamari|sashimi|cheesecake
+3467162.jpg,baby back ribs|dumplings|shrimp and grits|fried calamari|ravioli|cheesecake
+3581617.jpg,poutine|fried calamari|dumplings|carrot cake|cheesecake
+1030327.jpg,apple pie|bruschetta|beef carpaccio|edamame|foie gras
+1247706.jpg,apple pie|waffles|scallops|panna cotta|beet salad|foie gras
+1592100.jpg,apple pie|bruschetta|beet salad|deviled eggs|foie gras|caesar salad
+1901916.jpg,apple pie|bruschetta|beet salad|foie gras|paella|greek salad
+286055.jpg,apple pie|fish and chips|pizza|bruschetta|foie gras
+3017805.jpg,apple pie|french fries|falafel|deviled eggs|beet salad|foie gras
+3029521.jpg,apple pie|fish and chips|bruschetta|beet salad|foie gras|shrimp and grits
+3790126.jpg,bruschetta|apple pie|foie gras
+1054619.jpg,spaghetti bolognese|miso soup|panna cotta|dumplings|tuna tartare
+10792.jpg,fried calamari|spaghetti bolognese|panna cotta
+1994075.jpg,apple pie|spaghetti bolognese|panna cotta|macaroni and cheese|beef tartare
+2178714.jpg,spaghetti bolognese|chocolate cake|panna cotta|baklava|cheesecake|hot and sour soup
+2389504.jpg,spaghetti bolognese|cheese plate|panna cotta|french onion soup|breakfast burrito
+254028.jpg,spaghetti bolognese|grilled cheese sandwich|panna cotta
+375148.jpg,apple pie|spaghetti bolognese|panna cotta|foie gras|dumplings
+458365.jpg,apple pie|oysters|spaghetti bolognese|chocolate mousse|lobster bisque|panna cotta
+63855.jpg,apple pie|spaghetti bolognese|cheesecake|panna cotta
+787469.jpg,carrot cake|spaghetti bolognese|cheesecake|panna cotta
+890324.jpg,chocolate mousse|huevos rancheros|spaghetti bolognese|panna cotta
+986485.jpg,apple pie|tiramisu|escargots|spaghetti bolognese|panna cotta
+1336128.jpg,mussels|huevos rancheros|french onion soup|cup cakes|baklava|fried calamari
+2527755.jpg,spring rolls|chocolate mousse|mussels|takoyaki|baklava|fried calamari
+2954916.jpg,chocolate mousse|mussels|hummus|baklava|fried calamari|club sandwich
+3038248.jpg,chocolate mousse|mussels|fried calamari|foie gras|baklava|breakfast burrito
+3618657.jpg,fried calamari|french onion soup|chicken quesadilla|baklava|macaroni and cheese
+3706557.jpg,ice cream|chocolate mousse|scallops|mussels|baklava|fried calamari
+3850961.jpg,tiramisu|mussels|takoyaki|baklava|fried calamari|beef tartare
+1664916.jpg,ice cream|chocolate mousse|foie gras|baklava|carrot cake|club sandwich
+2774050.jpg,carrot cake|ice cream|samosa|chocolate mousse
+3095858.jpg,tiramisu|chocolate mousse|carrot cake|ravioli|cheesecake
+3120351.jpg,tiramisu|creme brulee|chocolate mousse|hamburger|carrot cake
+357303.jpg,carrot cake|cup cakes|cheesecake|chocolate mousse
+3813982.jpg,creme brulee|chocolate mousse|red velvet cake|baklava|carrot cake
+730069.jpg,apple pie|french fries|creme brulee|chocolate mousse|carrot cake
+881878.jpg,carrot cake|baby back ribs|creme brulee|chocolate mousse
+1203999.jpg,chocolate mousse|baby back ribs|panna cotta|baklava|cheesecake
+123563.jpg,chocolate mousse|cannoli|panna cotta|baklava|cheesecake
+2026255.jpg,apple pie|fish and chips|panna cotta|baklava|carrot cake|cheesecake
+2097382.jpg,guacamole|chocolate mousse|chocolate cake|baklava|cheesecake
+2377497.jpg,chocolate mousse|lasagna|baklava|mussels|cheesecake
+2820182.jpg,tacos|bread pudding|panna cotta|french onion soup|baklava|cheesecake
+3045543.jpg,escargots|chocolate mousse|panna cotta|baklava|french toast|cheesecake
+967817.jpg,chocolate mousse|chocolate cake|pancakes|panna cotta|baklava|cheesecake
+1043721.jpg,beef tartare|garlic bread|falafel|gnocchi
+1145244.jpg,falafel|cheese plate|spaghetti carbonara|gnocchi|tuna tartare
+1233406.jpg,falafel|chocolate mousse|lasagna|spaghetti carbonara|gnocchi
+1615859.jpg,ice cream|falafel|spaghetti carbonara|gnocchi|beef tartare
+2200249.jpg,falafel|spaghetti carbonara|gnocchi|baklava|macaroni and cheese|strawberry shortcake
+23037.jpg,falafel|spaghetti carbonara|gnocchi|churros|beef tartare
+2344380.jpg,oysters|falafel|lasagna|spaghetti carbonara|gnocchi
+2687161.jpg,ice cream|falafel|spaghetti carbonara|gnocchi|beef tartare
+2988541.jpg,fish and chips|falafel|spaghetti carbonara|gnocchi|beef tartare
+3248158.jpg,falafel|spaghetti carbonara|waffles|gnocchi|beef tartare
+844903.jpg,falafel|spaghetti carbonara|lobster bisque|garlic bread|gnocchi
+183864.jpg,escargots|oysters|chocolate mousse|bruschetta|dumplings
+1896082.jpg,escargots|oysters|bruschetta|prime rib|dumplings|paella
+1945502.jpg,tiramisu|escargots|oysters|chocolate mousse|bruschetta|paella
+2006959.jpg,steak|escargots|oysters|chocolate mousse|bruschetta|paella
+2885443.jpg,escargots|oysters|bruschetta|pancakes|clam chowder
+3030307.jpg,escargots|oysters|chocolate mousse|bruschetta|scallops|takoyaki
+3277842.jpg,ice cream|escargots|oysters|chocolate mousse|bruschetta
+3401753.jpg,escargots|oysters|bruschetta|garlic bread|croque madame
+3440260.jpg,escargots|oysters|beignets|bruschetta|beef carpaccio|clam chowder
+3509829.jpg,escargots|oysters|guacamole|chocolate mousse|bruschetta
+598137.jpg,bruschetta|escargots|oysters|falafel
+794404.jpg,escargots|oysters|chocolate mousse|bruschetta|seaweed salad|greek salad
+1244465.jpg,apple pie|beef carpaccio|fried calamari|crab cakes|dumplings|donuts
+1392773.jpg,apple pie|beef carpaccio|crab cakes|greek salad|fried calamari
+1539724.jpg,apple pie|crab cakes|churros|foie gras|fried calamari
+1595988.jpg,apple pie|beef tartare|crab cakes|foie gras|fried calamari|club sandwich
+204829.jpg,apple pie|beef carpaccio|crab cakes|french toast|fried calamari
+2674423.jpg,apple pie|beef carpaccio|crab cakes|tuna tartare|fried calamari|chicken wings
+3898179.jpg,apple pie|fried calamari|crab cakes|panna cotta
+1028777.jpg,creme brulee|cannoli|bruschetta|fried rice|foie gras|carrot cake
+1823708.jpg,apple pie|creme brulee|bruschetta|takoyaki|foie gras|omelette
+2465433.jpg,apple pie|macarons|bruschetta|lobster bisque|hamburger|foie gras
+2649603.jpg,falafel|macarons|bruschetta|fried rice|chocolate cake|foie gras
+2683612.jpg,tiramisu|apple pie|bruschetta|panna cotta|foie gras
+3078639.jpg,apple pie|creme brulee|bruschetta|macarons|foie gras|samosa
+473273.jpg,apple pie|creme brulee|bruschetta|foie gras|frozen yogurt
+704086.jpg,apple pie|creme brulee|pizza|bruschetta|foie gras
+910559.jpg,apple pie|spring rolls|macarons|bruschetta|foie gras|tuna tartare
+940134.jpg,chocolate mousse|macarons|bruschetta|chocolate cake|foie gras|samosa
+1358610.jpg,guacamole|gnocchi|samosa|gyoza|beef tartare
+1530694.jpg,apple pie|macarons|seaweed salad|gyoza|beef tartare
+2588718.jpg,escargots|beet salad|pho|baklava|gyoza|beef tartare
+3322774.jpg,french fries|omelette|fried calamari|gyoza|beef tartare
+3666348.jpg,apple pie|peking duck|hamburger|gyoza|beef tartare
+3747981.jpg,french fries|ceviche|gyoza|beef tartare
+627386.jpg,tacos|miso soup|baklava|gyoza|beef tartare
+749063.jpg,guacamole|macarons|beet salad|gyoza|beef tartare
+934964.jpg,guacamole|lobster bisque|dumplings|gyoza|beef tartare
+1158652.jpg,lasagna|macarons|lobster roll sandwich|gnocchi|ravioli
+1464177.jpg,spaghetti carbonara|bread pudding|gnocchi|lobster roll sandwich|omelette|grilled cheese sandwich
+33714.jpg,lobster bisque|lobster roll sandwich|gnocchi|seaweed salad|risotto
+620097.jpg,bread pudding|crab cakes|gnocchi|lobster roll sandwich|baklava|grilled cheese sandwich
+633666.jpg,lobster roll sandwich|cheesecake|scallops|gnocchi
+697364.jpg,pizza|onion rings|gnocchi|lobster roll sandwich|risotto
+1149120.jpg,tiramisu|grilled cheese sandwich|churros|beignets
+1284423.jpg,donuts|churros|beignets|grilled cheese sandwich
+1942508.jpg,apple pie|waffles|deviled eggs|churros|donuts
+2060112.jpg,creme brulee|churros|prime rib|baklava|french toast
+2309067.jpg,apple pie|gnocchi|churros|french toast|donuts
+2780935.jpg,apple pie|waffles|churros|french toast|samosa
+2918595.jpg,apple pie|beignets|waffles|churros|prime rib
+358592.jpg,donuts|churros|omelette|baklava
+822182.jpg,apple pie|pho|churros|french toast|donuts
+967679.jpg,waffles|churros|cup cakes|baklava|donuts
+1060140.jpg,apple pie|nachos|pizza|chicken quesadilla|grilled cheese sandwich|beef tartare
+1157370.jpg,apple pie|pizza|bread pudding|baklava|gyoza|grilled cheese sandwich
+1872402.jpg,apple pie|pizza|french toast|takoyaki|croque madame|carrot cake
+1975916.jpg,apple pie|pizza|bruschetta|french toast|baklava|croque madame
+2079688.jpg,apple pie|pizza|bruschetta|french toast|bread pudding|croque madame
+2231258.jpg,apple pie|peking duck|pizza|clam chowder|baklava|croque madame
+2707310.jpg,apple pie|pizza|ramen|omelette|baklava|grilled cheese sandwich
+277907.jpg,apple pie|eggs benedict|pizza|bruschetta|omelette
+3100785.jpg,apple pie|pizza|bruschetta|pulled pork sandwich|foie gras|croque madame
+3139808.jpg,apple pie|pizza|panna cotta|baklava|french toast|grilled cheese sandwich
+3142950.jpg,apple pie|escargots|pizza|bruschetta|croque madame|cheesecake
+3347915.jpg,apple pie|pizza|omelette|grilled cheese sandwich|chicken wings
+3697388.jpg,apple pie|pizza|onion rings|takoyaki|cheesecake
+1148191.jpg,apple pie|filet mignon|gyoza|beef carpaccio
+1303126.jpg,apple pie|cheese plate|beef carpaccio|greek salad|filet mignon
+1324940.jpg,apple pie|beef carpaccio|greek salad|filet mignon|hot and sour soup
+1468927.jpg,apple pie|spaghetti carbonara|seaweed salad|filet mignon|caesar salad|beef tartare
+15302.jpg,apple pie|guacamole|hot dog|greek salad|filet mignon
+232255.jpg,apple pie|beef carpaccio|huevos rancheros|greek salad|filet mignon
+2429047.jpg,apple pie|escargots|greek salad|filet mignon|beef tartare
+2915561.jpg,apple pie|peking duck|beef carpaccio|foie gras|greek salad|filet mignon
+296709.jpg,apple pie|lobster bisque|beef carpaccio|foie gras|filet mignon
+3181758.jpg,apple pie|scallops|beef carpaccio|filet mignon|cheesecake
+3697368.jpg,apple pie|beef carpaccio|filet mignon|greek salad|cheesecake
+3723591.jpg,apple pie|chocolate mousse|beef carpaccio|greek salad|filet mignon|risotto
+627359.jpg,apple pie|lobster bisque|seaweed salad|greek salad|filet mignon
+662141.jpg,apple pie|beef carpaccio|shrimp and grits|greek salad|filet mignon
+751818.jpg,apple pie|beef carpaccio|hot dog|greek salad|filet mignon|caesar salad
+902962.jpg,apple pie|frozen yogurt|chocolate mousse|seaweed salad|greek salad|filet mignon
+1199480.jpg,apple pie|french fries|miso soup|crab cakes|churros
+1396797.jpg,apple pie|fried calamari|french fries|falafel
+1786616.jpg,apple pie|fried calamari|french fries|chicken quesadilla
+3022006.jpg,apple pie|fried calamari|french fries|miso soup
+3031103.jpg,apple pie|pad thai|fried calamari|french fries
+3378644.jpg,apple pie|fried calamari|french fries|tacos
+3749180.jpg,apple pie|donuts|french fries|cheese plate
+416511.jpg,apple pie|paella|fried calamari|french fries
+640383.jpg,apple pie|french fries|gnocchi|fried calamari|grilled cheese sandwich
+890030.jpg,apple pie|fried calamari|french fries|caprese salad
+1575504.jpg,beet salad|chocolate cake|carrot cake|pulled pork sandwich
+1813703.jpg,chocolate cake|strawberry shortcake|baby back ribs
+2014752.jpg,chocolate cake|carrot cake|gyoza
+2417562.jpg,beet salad|chocolate cake|ceviche|cheesecake
+2436212.jpg,chocolate cake|strawberry shortcake|cheesecake|falafel
+3264022.jpg,creme brulee|chocolate cake|lobster bisque|beet salad|cheesecake
+898457.jpg,chocolate cake|cheesecake|risotto
+116447.jpg,fish and chips|pork chop|baby back ribs|fried calamari|dumplings|donuts
+2168346.jpg,lobster bisque|baby back ribs|fried calamari|donuts|filet mignon
+3102148.jpg,pork chop|baby back ribs|crab cakes|donuts|fried calamari|filet mignon
+3129195.jpg,fish and chips|fried calamari|baklava|tuna tartare|donuts|filet mignon
+3546639.jpg,pork chop|samosa|baby back ribs|fried calamari|donuts|filet mignon
+3736880.jpg,fish and chips|bruschetta|fried calamari|chicken quesadilla|foie gras|donuts
+417130.jpg,pork chop|baby back ribs|fried calamari|donuts|filet mignon|beef tartare
+521367.jpg,french fries|bruschetta|baby back ribs|fried calamari|donuts|filet mignon
+609352.jpg,fish and chips|pork chop|breakfast burrito|fried calamari|foie gras|donuts
+820076.jpg,fish and chips|steak|lasagna|baby back ribs|fried calamari|donuts
+2874021.jpg,pad thai|baby back ribs|beef carpaccio|samosa|ravioli|chicken wings
+516558.jpg,pad thai|chocolate mousse|beef carpaccio|hummus|baklava|samosa
+1128157.jpg,eggs benedict|chocolate cake|omelette|french toast|fried calamari|beef tartare
+1446781.jpg,eggs benedict|chocolate cake|panna cotta|french toast|greek salad
+1520109.jpg,chocolate cake|scallops|spaghetti carbonara|chicken quesadilla|french toast|gyoza
+1551349.jpg,eggs benedict|chocolate cake|spaghetti carbonara|french toast|cheesecake
+1846457.jpg,french fries|chocolate cake|scallops|huevos rancheros|french toast|beef tartare
+1923960.jpg,eggs benedict|chocolate cake|beet salad|hamburger|french toast
+3451529.jpg,eggs benedict|chocolate mousse|chocolate cake|takoyaki|french toast
+3776677.jpg,chocolate cake|french toast|scallops|miso soup|tuna tartare
+3819731.jpg,eggs benedict|chocolate cake|crab cakes|filet mignon|french toast|cheesecake
+791907.jpg,chocolate cake|scallops|lobster bisque|huevos rancheros|baklava|french toast
+986256.jpg,eggs benedict|chocolate cake|spaghetti carbonara|cup cakes|french toast|macaroni and cheese
+1479179.jpg,apple pie|beet salad|cup cakes|baklava|greek salad
+1560776.jpg,apple pie|guacamole|pancakes|cup cakes|seaweed salad|greek salad
+1597821.jpg,apple pie|spring rolls|deviled eggs|cup cakes|fried calamari
+1674298.jpg,apple pie|cup cakes|seaweed salad|greek salad|chicken wings
+1700074.jpg,apple pie|garlic bread|beet salad|cup cakes|greek salad
+1750307.jpg,apple pie|crab cakes|cup cakes|croque madame|greek salad|beef tartare
+2168789.jpg,apple pie|beet salad|cup cakes|greek salad|grilled salmon
+2263243.jpg,apple pie|bruschetta|lasagna|cup cakes|greek salad
+2824786.jpg,apple pie|bruschetta|scallops|hot dog|caprese salad|cup cakes
+2967012.jpg,apple pie|baby back ribs|cup cakes|greek salad|ravioli
+3697059.jpg,apple pie|waffles|cup cakes|seaweed salad|greek salad
+3897712.jpg,apple pie|oysters|ceviche|cup cakes|baklava|greek salad
+826876.jpg,apple pie|tiramisu|guacamole|cup cakes|greek salad
+1800659.jpg,apple pie|ice cream|falafel|pizza|chicken quesadilla
+259921.jpg,apple pie|falafel|creme brulee|baby back ribs|beet salad
+1859355.jpg,apple pie|pork chop|crab cakes|lobster roll sandwich|fried calamari
+1902449.jpg,apple pie|french fries|crab cakes|baklava|fried calamari
+2065591.jpg,apple pie|fish and chips|steak|french fries|churros|fried calamari
+2673675.jpg,apple pie|french fries|greek salad|fried calamari|chicken wings
+2802836.jpg,apple pie|french fries|chocolate mousse|beef carpaccio|fried calamari
+2853767.jpg,apple pie|fried calamari|baby back ribs
+3347538.jpg,apple pie|french fries|pork chop|hummus|fried calamari|chicken wings
+3466493.jpg,apple pie|fish and chips|chocolate mousse|onion rings|fried calamari
+463240.jpg,apple pie|french fries|ramen|lobster roll sandwich|fried calamari|beef tartare
+507353.jpg,apple pie|fried calamari|churros|crab cakes
+1990840.jpg,apple pie|ravioli|huevos rancheros
+2559384.jpg,apple pie|fried rice|takoyaki|baklava|ravioli|grilled cheese sandwich
+2606919.jpg,apple pie|panna cotta|gnocchi|chicken quesadilla|ravioli
+2644356.jpg,apple pie|pizza|beef carpaccio|chicken quesadilla|fried calamari|ravioli
+2720033.jpg,apple pie|pizza|huevos rancheros|edamame|ravioli
+3038573.jpg,apple pie|beignets|pizza|macaroni and cheese|ravioli
+3261672.jpg,apple pie|spaghetti bolognese|pizza|ceviche|ravioli
+3575185.jpg,apple pie|cheese plate|takoyaki|omelette|ravioli|grilled cheese sandwich
+806245.jpg,apple pie|strawberry shortcake|ravioli|huevos rancheros
+2893974.jpg,apple pie|baby back ribs|dumplings|gyoza|beef tartare
+3164015.jpg,baby back ribs|beef carpaccio|onion rings|prime rib|gyoza|chicken wings
+383844.jpg,peking duck|baby back ribs|gyoza|risotto|chicken wings
+400509.jpg,pulled pork sandwich|baby back ribs|beef carpaccio|lobster roll sandwich|gyoza
+489338.jpg,peking duck|baby back ribs|guacamole|gyoza
+548149.jpg,baby back ribs|beef carpaccio|chicken curry|dumplings|greek salad|gyoza
+1702582.jpg,apple pie|beignets|ceviche|hummus|beef tartare
+1866066.jpg,apple pie|nachos|beet salad|hummus|frozen yogurt
+2188166.jpg,apple pie|hummus|baklava|risotto|beef tartare
+2222704.jpg,apple pie|cannoli|ceviche|deviled eggs|edamame|hummus
+296039.jpg,apple pie|nachos|bruschetta|hummus|foie gras
+76061.jpg,apple pie|tacos|chicken quesadilla|hummus|donuts
+1217427.jpg,apple pie|chocolate mousse|chocolate cake|red velvet cake|beet salad|dumplings
+1279826.jpg,apple pie|french fries|chocolate mousse|panna cotta
+1319427.jpg,apple pie|chocolate mousse|prime rib|carrot cake|cheesecake
+1722854.jpg,apple pie|chocolate mousse|cheesecake|falafel
+1866686.jpg,apple pie|lobster bisque|cheesecake|chocolate mousse
+2116454.jpg,apple pie|creme brulee|chocolate mousse|onion rings|panna cotta|cheesecake
+2297974.jpg,apple pie|creme brulee|chocolate mousse|greek salad|cheesecake
+2493635.jpg,apple pie|creme brulee|chocolate mousse|foie gras|frozen yogurt|cheesecake
+2720860.jpg,apple pie|oysters|chocolate mousse|cheesecake|club sandwich
+3613903.jpg,apple pie|chocolate mousse|red velvet cake|chicken quesadilla|cheesecake|beef tartare
+84445.jpg,apple pie|chocolate mousse|frozen yogurt|filet mignon|cheesecake
+1072684.jpg,fried calamari|hummus|lobster bisque|pizza
+2268270.jpg,pizza|scallops|lobster bisque|ceviche|fried calamari|grilled cheese sandwich
+2299183.jpg,pizza|lobster bisque|chicken curry|fried calamari|grilled cheese sandwich
+2691757.jpg,fried calamari|baklava|lobster bisque|pizza
+3670528.jpg,carrot cake|lobster bisque|fried calamari|pizza
+3868342.jpg,pizza|lobster bisque|crab cakes|french onion soup|chicken quesadilla|fried calamari
+406941.jpg,pizza|chocolate cake|scallops|lobster bisque|fried calamari
+1278821.jpg,apple pie|eggs benedict|spaghetti carbonara|huevos rancheros|french toast
+1350454.jpg,apple pie|french fries|eggs benedict|huevos rancheros|french toast|croque madame
+1765151.jpg,apple pie|ice cream|eggs benedict|huevos rancheros|french toast
+2143418.jpg,apple pie|eggs benedict|hot dog|french toast|breakfast burrito|grilled cheese sandwich
+2671595.jpg,apple pie|french toast|peking duck|eggs benedict
+3042107.jpg,apple pie|spring rolls|eggs benedict|bruschetta|french toast
+3441140.jpg,apple pie|huevos rancheros|french toast|breakfast burrito|cheesecake|grilled cheese sandwich
+3443141.jpg,apple pie|eggs benedict|huevos rancheros|french toast|breakfast burrito|grilled cheese sandwich
+5609.jpg,apple pie|poutine|bread pudding|french toast|grilled cheese sandwich
+657639.jpg,apple pie|paella|french toast|eggs benedict
+734164.jpg,apple pie|eggs benedict|pancakes|french toast|breakfast burrito
+115082.jpg,creme brulee|bread pudding|baklava|croque madame|macaroni and cheese|cheesecake
+1216850.jpg,apple pie|deviled eggs|baklava|croque madame|grilled cheese sandwich|hot and sour soup
+146140.jpg,creme brulee|lobster bisque|bread pudding|baklava|croque madame|grilled cheese sandwich
+2221974.jpg,chocolate mousse|bread pudding|foie gras|baklava|croque madame|grilled cheese sandwich
+2517063.jpg,lobster bisque|bread pudding|miso soup|french onion soup|baklava|croque madame
+3310917.jpg,apple pie|creme brulee|baklava|croque madame|sashimi|grilled cheese sandwich
+3516597.jpg,creme brulee|chocolate cake|baklava|croque madame|grilled cheese sandwich|club sandwich
+3581942.jpg,creme brulee|french onion soup|baklava|croque madame|gyoza|grilled cheese sandwich
+3808030.jpg,cheese plate|lobster bisque|red velvet cake|clam chowder|baklava|croque madame
+488768.jpg,creme brulee|cheese plate|foie gras|baklava|croque madame|macaroni and cheese
+971884.jpg,beignets|french onion soup|baklava|croque madame|macaroni and cheese
+1281446.jpg,apple pie|baby back ribs|garlic bread|filet mignon|beef tartare
+1672341.jpg,apple pie|huevos rancheros|cup cakes|beef tartare
+2036572.jpg,apple pie|pulled pork sandwich|filet mignon|beef tartare
+2155995.jpg,apple pie|spaghetti carbonara|beet salad|beef tartare
+3477399.jpg,apple pie|bruschetta|scallops|filet mignon|beef tartare
+3896605.jpg,apple pie|caprese salad|spring rolls|beef tartare
+499131.jpg,apple pie|strawberry shortcake|filet mignon|beef tartare
+15501.jpg,pad thai|beignets|chicken quesadilla|samosa|risotto|beef tartare
+1873816.jpg,pad thai|pancakes|chicken quesadilla|bibimbap|samosa
+2046048.jpg,deviled eggs|chicken quesadilla|bibimbap|samosa|risotto
+2186269.jpg,pad thai|pulled pork sandwich|chicken quesadilla|bibimbap|samosa|risotto
+3048520.jpg,pad thai|chicken quesadilla|spaghetti bolognese|samosa
+3073432.jpg,pad thai|chicken quesadilla|bibimbap|samosa|sashimi|risotto
+3735748.jpg,pad thai|chocolate cake|chicken quesadilla|bibimbap|samosa|risotto
+3741007.jpg,pad thai|beet salad|chicken quesadilla|bibimbap|samosa|risotto
+478300.jpg,baby back ribs|crab cakes|chicken quesadilla|bibimbap|shrimp and grits|samosa
+496908.jpg,pad thai|baby back ribs|chicken quesadilla|paella|samosa|risotto
+883930.jpg,pad thai|chicken quesadilla|bibimbap|seaweed salad|samosa
+1359731.jpg,apple pie|onion rings|churros|cup cakes|filet mignon
+204298.jpg,apple pie|churros|cup cakes|onion rings
+2649404.jpg,apple pie|beignets|churros|bibimbap|cup cakes
+3049824.jpg,apple pie|peking duck|chocolate mousse|churros|cup cakes
+3507649.jpg,apple pie|cannoli|churros|cup cakes|greek salad
+861022.jpg,apple pie|ice cream|onion rings|churros|cup cakes
+2741597.jpg,apple pie|hamburger|baklava|dumplings
+2759603.jpg,apple pie|baklava|seaweed salad|dumplings
+310165.jpg,fish and chips|baklava|takoyaki|dumplings
+3171077.jpg,apple pie|baklava|ceviche|dumplings
+347465.jpg,apple pie|scallops|baklava|dumplings|paella
+34871.jpg,chicken quesadilla|baklava|dumplings
+3569152.jpg,apple pie|baklava|beignets|dumplings
+3776926.jpg,apple pie|cheese plate|baklava|dumplings|breakfast burrito
+1077255.jpg,beef carpaccio|onion rings|gnocchi|dumplings|beef tartare
+1188628.jpg,french fries|gnocchi|baklava|dumplings|beef tartare
+2183950.jpg,apple pie|lasagna|ramen|gnocchi|dumplings|beef tartare
+2500671.jpg,beef carpaccio|gnocchi|baklava|dumplings|beef tartare
+28156.jpg,eggs benedict|gnocchi|baklava|dumplings|caesar salad|beef tartare
+3011879.jpg,cannoli|mussels|gnocchi|omelette|dumplings|beef tartare
+3272431.jpg,mussels|beef carpaccio|gnocchi|huevos rancheros|dumplings|beef tartare
+3884951.jpg,apple pie|pad thai|gnocchi|dumplings|beef tartare
+416974.jpg,eggs benedict|gnocchi|clam chowder|dumplings|beef tartare
+1224967.jpg,apple pie|spaghetti bolognese|scallops|garlic bread|baklava|shrimp and grits
+1462214.jpg,chocolate mousse|garlic bread|onion rings|gnocchi|baklava
+1913519.jpg,garlic bread|eggs benedict|onion rings|baklava
+2094696.jpg,apple pie|garlic bread|baklava|macaroni and cheese|filet mignon|chicken wings
+2284936.jpg,ramen|garlic bread|crab cakes|baklava|caesar salad|chicken wings
+2305239.jpg,apple pie|beignets|garlic bread|onion rings|baklava
+2539494.jpg,garlic bread|onion rings|crab cakes|baklava|sashimi
+2545140.jpg,apple pie|garlic bread|onion rings|baklava
+2666857.jpg,garlic bread|guacamole|onion rings|baklava
+3043384.jpg,escargots|poutine|garlic bread|onion rings|baklava
+3165252.jpg,poutine|garlic bread|onion rings|crab cakes|baklava|greek salad
+3319039.jpg,foie gras|garlic bread|onion rings|baklava
+34728.jpg,french fries|pork chop|garlic bread|onion rings|hummus|baklava
+3541981.jpg,apple pie|spring rolls|lasagna|garlic bread|baklava
+3888518.jpg,garlic bread|onion rings|crab cakes|baklava|shrimp and grits|gyoza
+1069338.jpg,spaghetti bolognese|scallops|gnocchi|tuna tartare|beef tartare
+1192000.jpg,pad thai|spaghetti bolognese|lasagna|gnocchi|tuna tartare|macaroni and cheese
+1940744.jpg,pad thai|scallops|beef carpaccio|gnocchi|tuna tartare|macaroni and cheese
+2067594.jpg,spaghetti bolognese|garlic bread|gnocchi|tuna tartare|macaroni and cheese
+3231081.jpg,spaghetti bolognese|gnocchi|chicken quesadilla|tuna tartare|macaroni and cheese|risotto
+3624462.jpg,ice cream|spaghetti bolognese|gnocchi|tuna tartare|macaroni and cheese
+646596.jpg,spaghetti bolognese|pancakes|gnocchi|pho|tuna tartare|macaroni and cheese
+1100950.jpg,apple pie|eggs benedict|bread pudding|bibimbap|baklava|grilled cheese sandwich
+182659.jpg,apple pie|eggs benedict|garlic bread|grilled cheese sandwich
+1914967.jpg,apple pie|nachos|eggs benedict|grilled cheese sandwich
+2218272.jpg,apple pie|eggs benedict|baklava|grilled cheese sandwich|beef tartare
+2495481.jpg,apple pie|bread pudding|eggs benedict|panna cotta
+253913.jpg,apple pie|creme brulee|eggs benedict|pancakes|ravioli
+266248.jpg,apple pie|eggs benedict|bread pudding|grilled cheese sandwich|beef tartare
+278421.jpg,apple pie|eggs benedict|pancakes|frozen yogurt|grilled cheese sandwich
+3700755.jpg,apple pie|eggs benedict|foie gras|baklava|grilled cheese sandwich
+818831.jpg,apple pie|eggs benedict|beignets|pancakes|ramen|bread pudding
+881335.jpg,apple pie|spring rolls|eggs benedict|bread pudding|baklava|grilled cheese sandwich
+1296301.jpg,tiramisu|creme brulee|french onion soup|paella|fried calamari|hot and sour soup
+179202.jpg,tiramisu|creme brulee|french onion soup|clam chowder|fried calamari|ravioli
+1889693.jpg,tiramisu|chocolate cake|fried calamari|french onion soup|clam chowder|macaroni and cheese
+252147.jpg,tiramisu|creme brulee|crab cakes|french onion soup|greek salad|fried calamari
+2752627.jpg,tiramisu|ice cream|creme brulee|cannoli|chicken curry|fried calamari
+3254985.jpg,tiramisu|crab cakes|french onion soup|greek salad|fried calamari
+152909.jpg,pork chop|beef carpaccio|crab cakes|shrimp and grits|sashimi|beef tartare
+1664381.jpg,guacamole|pork chop|baby back ribs|beef carpaccio|greek salad|sashimi
+2609815.jpg,nachos|pork chop|tuna tartare|sashimi|grilled cheese sandwich
+2695251.jpg,pork chop|crab cakes|sashimi|caesar salad|grilled cheese sandwich|beef tartare
+3791639.jpg,guacamole|pork chop|scallops|tuna tartare|sashimi
+43210.jpg,guacamole|pork chop|beet salad|donuts|sashimi
+615087.jpg,nachos|pork chop|beef carpaccio|takoyaki|sashimi
+1018048.jpg,pizza|ceviche|foie gras|baklava|beef tartare
+1035461.jpg,apple pie|pizza|caprese salad|foie gras|seaweed salad
+2080506.jpg,pizza|ceviche|caprese salad|foie gras|mussels|tuna tartare
+2627391.jpg,apple pie|pizza|chocolate cake|caprese salad|foie gras|tuna tartare
+3472240.jpg,beef tartare|pizza|garlic bread|foie gras|croque madame|chicken wings
+3625366.jpg,pizza|ceviche|foie gras|omelette|french toast|frozen yogurt
+3736443.jpg,fish and chips|pizza|ceviche|beet salad|foie gras|tuna tartare
+3877907.jpg,pizza|ceviche|huevos rancheros|caprese salad|foie gras|tuna tartare
+463522.jpg,pizza|ceviche|caprese salad|foie gras|tuna tartare|hot and sour soup
+679049.jpg,apple pie|pizza|garlic bread|gnocchi|foie gras|croque madame
+1767804.jpg,apple pie|fish and chips|spaghetti carbonara|onion rings|baklava
+1973780.jpg,fish and chips|spaghetti carbonara|poutine|baklava|carrot cake
+2215693.jpg,apple pie|fish and chips|onion rings|baklava|caesar salad
+2603436.jpg,apple pie|fish and chips|poutine|onion rings|baklava|club sandwich
+2705078.jpg,fish and chips|spring rolls|poutine|beef carpaccio|baklava
+2838364.jpg,fish and chips|poutine|onion rings|hamburger|churros|baklava
+2991808.jpg,fish and chips|poutine|churros|baklava
+3137998.jpg,fish and chips|poutine|beef carpaccio|onion rings|huevos rancheros|baklava
+3600843.jpg,fish and chips|poutine|onion rings|beet salad|edamame|baklava
+3854016.jpg,apple pie|fish and chips|macarons|poutine|baklava
+626896.jpg,apple pie|fish and chips|poutine|baklava
+1011384.jpg,beef carpaccio|crab cakes|omelette|mussels|fried calamari|beef tartare
+1051733.jpg,lobster bisque|beef carpaccio|crab cakes|chicken curry|baklava|fried calamari
+112847.jpg,beef carpaccio|onion rings|crab cakes|chicken curry|shrimp and grits|fried calamari
+1773331.jpg,ceviche|beef carpaccio|hamburger|fried calamari|cheesecake|macaroni and cheese
+2138346.jpg,macaroni and cheese|beef carpaccio|fried calamari|gnocchi
+3108365.jpg,eggs benedict|beef carpaccio|omelette|shrimp and grits|fried calamari|macaroni and cheese
+3111279.jpg,ceviche|beef carpaccio|crab cakes|hamburger|fried calamari
+3731780.jpg,scallops|beef carpaccio|crab cakes|churros|fried calamari
+38691.jpg,pad thai|beef carpaccio|crab cakes|fried calamari|risotto
+821219.jpg,lasagna|lobster bisque|beef carpaccio|fried calamari|macaroni and cheese|cheesecake
+1784612.jpg,pork chop|baby back ribs|beef carpaccio|beet salad|french onion soup
+1956122.jpg,steak|pork chop|beef carpaccio|beet salad|prime rib
+2073137.jpg,steak|pork chop|waffles|beef carpaccio|prime rib
+2363037.jpg,steak|pork chop|beef carpaccio|prime rib|seaweed salad|beef tartare
+2584789.jpg,pork chop|beef carpaccio|prime rib|cup cakes|foie gras
+3144085.jpg,pork chop|beef carpaccio|french onion soup|prime rib|beef tartare
+402300.jpg,steak|pad thai|pork chop|beef carpaccio|beef tartare
+485733.jpg,steak|pork chop|beef carpaccio|breakfast burrito|beef tartare
+591762.jpg,apple pie|fish and chips|pork chop|beef carpaccio|prime rib
+1636096.jpg,french fries|pulled pork sandwich|cheese plate|hot dog|caesar salad|club sandwich
+1922963.jpg,french fries|pizza|pulled pork sandwich|hot dog|baklava|club sandwich
+2100991.jpg,apple pie|steak|french fries|hot dog|lobster roll sandwich|club sandwich
+47595.jpg,pulled pork sandwich|macarons|hot dog|beet salad|club sandwich
+601386.jpg,apple pie|macarons|hot dog|grilled cheese sandwich|club sandwich
+740621.jpg,club sandwich|hot dog|pulled pork sandwich
+2126760.jpg,apple pie|bread pudding|ravioli|gyoza
+229306.jpg,apple pie|waffles|gyoza
+2371672.jpg,apple pie|peking duck|spaghetti carbonara|gyoza
+254014.jpg,apple pie|ravioli|fried rice|takoyaki|gyoza
+3033503.jpg,apple pie|gyoza|pork chop
+3658594.jpg,apple pie|garlic bread|peking duck|gyoza
+514100.jpg,apple pie|sashimi|gyoza
+85343.jpg,apple pie|gyoza|french onion soup|gnocchi
+1079423.jpg,french toast|sashimi|oysters|beef tartare
+1139624.jpg,nachos|sashimi|guacamole|beef tartare
+1319658.jpg,peking duck|sashimi|ceviche|beef tartare
+1451408.jpg,donuts|sashimi|ceviche|beef tartare
+1573089.jpg,edamame|sashimi|ceviche|beef tartare
+236576.jpg,apple pie|sashimi|ceviche|beef tartare
+2508294.jpg,sashimi|ceviche|beignets|beef tartare
+3233255.jpg,deviled eggs|sashimi|cheesecake|beef tartare
+3561222.jpg,chocolate mousse|ceviche|donuts|sashimi|beef tartare
+36290.jpg,sashimi|chicken curry|beef carpaccio|beef tartare
+3707041.jpg,carrot cake|sashimi|beef carpaccio|beef tartare
+629235.jpg,guacamole|french onion soup|croque madame|sashimi|beef tartare
+766548.jpg,french toast|steak|sashimi|beef tartare
+790370.jpg,bruschetta|ceviche|bread pudding|sashimi|beef tartare
+935745.jpg,ceviche|beef carpaccio|shrimp and grits|sashimi|beef tartare
+99695.jpg,pancakes|ceviche|beef carpaccio|foie gras|sashimi|beef tartare
+1032351.jpg,tuna tartare|sashimi|lobster roll sandwich|pizza
+1119011.jpg,apple pie|escargots|pizza|lobster bisque|sashimi
+1600999.jpg,chocolate cake|paella|sashimi|pizza
+1680893.jpg,apple pie|sashimi|spring rolls|pizza
+1683426.jpg,spring rolls|oysters|pizza|sashimi|gyoza|beef tartare
+1844723.jpg,spring rolls|pulled pork sandwich|pizza|baklava|sashimi
+185990.jpg,apple pie|pancakes|sashimi|pizza
+2011810.jpg,pizza|chicken quesadilla|takoyaki|prime rib|sashimi
+2860991.jpg,sashimi|foie gras|beef carpaccio|pizza
+2929889.jpg,beef tartare|sashimi|spaghetti bolognese|pizza
+3113131.jpg,pizza|crab cakes|panna cotta|takoyaki|baklava|sashimi
+808776.jpg,apple pie|sashimi|macarons|pizza
+1323702.jpg,pizza|poutine|foie gras|macaroni and cheese|gyoza|cheesecake
+1422707.jpg,apple pie|pizza|lasagna|foie gras|macaroni and cheese|grilled cheese sandwich
+1596054.jpg,apple pie|pizza|foie gras|croque madame|macaroni and cheese|filet mignon
+1631432.jpg,pizza|foie gras|baklava|croque madame|macaroni and cheese|chicken wings
+2132275.jpg,pizza|beef carpaccio|foie gras|greek salad|macaroni and cheese|strawberry shortcake
+2489389.jpg,creme brulee|pizza|beef carpaccio|sushi|macaroni and cheese
+2780107.jpg,tiramisu|pizza|foie gras|macaroni and cheese|grilled salmon
+3053511.jpg,pizza|bruschetta|macaroni and cheese|cheesecake|grilled cheese sandwich
+3293044.jpg,apple pie|tiramisu|pizza|foie gras|macaroni and cheese|grilled cheese sandwich
+33684.jpg,pizza|foie gras|baklava|shrimp and grits|macaroni and cheese|grilled cheese sandwich
+3504930.jpg,tiramisu|pizza|panna cotta|macaroni and cheese|grilled cheese sandwich
+3545251.jpg,falafel|chocolate mousse|pizza|foie gras|macaroni and cheese|grilled cheese sandwich
+510787.jpg,apple pie|pizza|bruschetta|foie gras|macaroni and cheese|grilled cheese sandwich
+625928.jpg,pizza|chocolate cake|sushi|gnocchi|panna cotta|macaroni and cheese
+889566.jpg,apple pie|pizza|foie gras|dumplings|croque madame|macaroni and cheese
+1418539.jpg,lobster bisque|churros|omelette|french toast|breakfast burrito|croque madame
+1517892.jpg,deviled eggs|churros|french toast|croque madame|club sandwich
+1519620.jpg,chocolate cake|churros|omelette|french toast|breakfast burrito|croque madame
+2021733.jpg,apple pie|churros|french toast|croque madame|club sandwich
+2988392.jpg,croque madame|chocolate cake|churros
+3561720.jpg,ice cream|huevos rancheros|churros|baklava|croque madame
+3618947.jpg,apple pie|bread pudding|churros|croque madame|club sandwich
+3810846.jpg,lobster bisque|churros|french toast|breakfast burrito|croque madame
+983260.jpg,churros|baklava|french toast|donuts|croque madame
+132791.jpg,macarons|carrot cake|spring rolls|apple pie
+224675.jpg,apple pie|escargots|macarons|chocolate cake|donuts
+2401347.jpg,apple pie|peking duck|macarons|red velvet cake|cheesecake
+2648441.jpg,apple pie|macarons|chocolate cake|fried rice|carrot cake
+2805350.jpg,apple pie|chocolate mousse|macarons|breakfast burrito|carrot cake
+2985985.jpg,apple pie|macarons|donuts|pho|carrot cake|cheesecake
+3160942.jpg,apple pie|steak|macarons|red velvet cake|donuts
+796712.jpg,apple pie|macarons|chocolate cake|lasagna|donuts
+97713.jpg,apple pie|pulled pork sandwich|macarons|red velvet cake|cheesecake
+1046921.jpg,chocolate mousse|fried rice|panna cotta|churros|ravioli|cheesecake
+130350.jpg,fried rice|cheese plate|huevos rancheros|bibimbap|gyoza|cheesecake
+2056652.jpg,escargots|pizza|fried rice|gyoza|cheesecake|beef tartare
+225871.jpg,fried rice|chocolate cake|scallops|hamburger|gyoza|cheesecake
+2955325.jpg,nachos|chocolate mousse|fried rice|beef carpaccio|gyoza|cheesecake
+3021168.jpg,pad thai|pork chop|fried rice|chocolate cake|gyoza|cheesecake
+3153904.jpg,fried rice|sushi|dumplings|caesar salad|gyoza|cheesecake
+3461694.jpg,fried rice|chocolate cake|fried calamari|caesar salad|gyoza|cheesecake
+889607.jpg,apple pie|fried rice|seaweed salad|samosa|gyoza|cheesecake
+1042851.jpg,tiramisu|shrimp and grits|apple pie|panna cotta
+1304612.jpg,tiramisu|lobster bisque|apple pie|panna cotta
+1348711.jpg,apple pie|tiramisu|onion rings|panna cotta|cheesecake
+1617352.jpg,apple pie|tiramisu|ramen|panna cotta|beef tartare
+1780190.jpg,apple pie|spaghetti bolognese|garlic bread|beef carpaccio|panna cotta
+198372.jpg,tiramisu|apple pie|chocolate cake|panna cotta|foie gras|dumplings
+2082174.jpg,tiramisu|apple pie|chocolate cake|panna cotta|grilled cheese sandwich
+29986.jpg,apple pie|cannoli|macarons|panna cotta|baklava|filet mignon
+3790464.jpg,apple pie|chocolate cake|waffles|panna cotta
+40018.jpg,apple pie|creme brulee|pancakes|beef carpaccio|panna cotta|foie gras
+484111.jpg,apple pie|tiramisu|chocolate cake|bread pudding|panna cotta|tuna tartare
+60139.jpg,tiramisu|apple pie|ice cream|spring rolls|panna cotta
+761584.jpg,tiramisu|apple pie|ice cream|chocolate cake|cheese plate|panna cotta
+793639.jpg,tiramisu|apple pie|ice cream|panna cotta|chicken quesadilla|cheesecake
+1015606.jpg,apple pie|fish and chips|pizza|huevos rancheros|foie gras|baklava
+1216393.jpg,pizza|huevos rancheros|chicken quesadilla|foie gras|omelette
+140461.jpg,apple pie|pizza|foie gras|huevos rancheros
+15854.jpg,pizza|huevos rancheros|foie gras|clam chowder|omelette|samosa
+2302398.jpg,pizza|huevos rancheros|chicken quesadilla|foie gras|hot and sour soup
+230255.jpg,french fries|pizza|cannoli|huevos rancheros|foie gras
+259963.jpg,tacos|spring rolls|pizza|huevos rancheros|foie gras|baklava
+2779568.jpg,pizza|huevos rancheros|foie gras|omelette|baklava|croque madame
+3461758.jpg,apple pie|pizza|huevos rancheros|french onion soup|foie gras|omelette
+979051.jpg,spaghetti bolognese|pizza|huevos rancheros|chicken quesadilla|foie gras|beef tartare
+995083.jpg,pizza|lasagna|huevos rancheros|foie gras|clam chowder
+115434.jpg,apple pie|pizza|baklava|takoyaki|dumplings|grilled cheese sandwich
+1179964.jpg,apple pie|poutine|lobster roll sandwich|baklava|caprese salad|dumplings
+1648524.jpg,apple pie|poutine|beef carpaccio|lobster roll sandwich|dumplings
+1907473.jpg,apple pie|poutine|mussels|hamburger|dumplings|beef tartare
+287752.jpg,apple pie|onion rings|lobster roll sandwich|baklava|dumplings|caesar salad
+423659.jpg,apple pie|pulled pork sandwich|poutine|lobster roll sandwich|dumplings|beef tartare
+762910.jpg,apple pie|poutine|lobster bisque|hamburger|dumplings
+1060159.jpg,creme brulee|beignets|churros|cup cakes|donuts|cheesecake
+1429996.jpg,beignets|chocolate mousse|churros|cup cakes|grilled cheese sandwich
+2059628.jpg,tiramisu|creme brulee|beignets|chocolate mousse|chocolate cake|churros
+2578739.jpg,creme brulee|beignets|bread pudding|churros|cup cakes|donuts
+3333286.jpg,creme brulee|beignets|churros|cup cakes|donuts|caesar salad
+3472429.jpg,tiramisu|creme brulee|beignets|churros|cup cakes|donuts
+3569797.jpg,beignets|bread pudding|churros|cup cakes|donuts|strawberry shortcake
+392119.jpg,spring rolls|beignets|hamburger|churros|cup cakes
+548231.jpg,beignets|ceviche|churros|baklava|donuts
+619177.jpg,apple pie|beignets|churros|french toast|frozen yogurt
+153584.jpg,apple pie|lasagna|pancakes|takoyaki|french toast|donuts
+1727803.jpg,apple pie|escargots|lasagna|pancakes|bread pudding|donuts
+1845952.jpg,apple pie|beignets|pizza|lasagna|donuts
+197401.jpg,apple pie|lasagna|poutine|deviled eggs|donuts
+2837551.jpg,apple pie|lasagna|pancakes|bread pudding|french toast|donuts
+3756482.jpg,beignets|lasagna|pancakes|baklava|mussels|donuts
+496688.jpg,lasagna|pancakes|macarons|bread pudding|baklava|donuts
+656673.jpg,fish and chips|lasagna|baklava|french toast|donuts
+899285.jpg,apple pie|beignets|lasagna|bread pudding|takoyaki|donuts
+1073168.jpg,fried calamari|edamame|greek salad|paella|ravioli|beef tartare
+1529379.jpg,edamame|beet salad|croque madame|fried calamari|sashimi|beef tartare
+197675.jpg,spring rolls|beef carpaccio|edamame|mussels|fried calamari|beef tartare
+2602557.jpg,edamame|pho|tuna tartare|paella|fried calamari|beef tartare
+292452.jpg,edamame|beet salad|pho|croque madame|fried calamari|beef tartare
+323245.jpg,fried calamari|edamame|beet salad|samosa|sashimi|beef tartare
+3406514.jpg,pulled pork sandwich|edamame|fried calamari|caesar salad|beef tartare
+965692.jpg,falafel|edamame|beet salad|fried calamari|caesar salad|beef tartare
+1266692.jpg,apple pie|fish and chips|peking duck|macarons|carrot cake|risotto
+1282755.jpg,tiramisu|fish and chips|ice cream|chocolate mousse|churros|carrot cake
+1928609.jpg,tiramisu|fish and chips|pancakes|baklava|carrot cake
+1975469.jpg,fish and chips|macarons|waffles|breakfast burrito|baklava|carrot cake
+2191429.jpg,tiramisu|fish and chips|creme brulee|chocolate mousse|carrot cake|ravioli
+224628.jpg,fish and chips|pork chop|macarons|breakfast burrito|baklava|carrot cake
+2399836.jpg,tiramisu|fish and chips|falafel|chocolate mousse|churros|carrot cake
+2438486.jpg,fish and chips|beignets|beef carpaccio|baklava|dumplings|carrot cake
+3169802.jpg,apple pie|fish and chips|beignets|macarons|fried calamari|carrot cake
+340954.jpg,fish and chips|peking duck|beef carpaccio|churros|carrot cake
+3897254.jpg,apple pie|fish and chips|peking duck|churros|french toast|carrot cake
+745774.jpg,fish and chips|garlic bread|fried calamari|panna cotta|baklava|carrot cake
+1010595.jpg,nachos|tacos|bruschetta|lasagna|chicken quesadilla
+1523905.jpg,nachos|eggs benedict|breakfast burrito|chicken quesadilla|macaroni and cheese
+1920552.jpg,nachos|tacos|cannoli|ceviche|chicken quesadilla|breakfast burrito
+2001514.jpg,peking duck|nachos|tacos|eggs benedict|chicken quesadilla|breakfast burrito
+3000610.jpg,nachos|eggs benedict|breakfast burrito|beef carpaccio|chicken quesadilla|donuts
+3168417.jpg,nachos|eggs benedict|chicken quesadilla|mussels|breakfast burrito
+3257441.jpg,apple pie|nachos|eggs benedict|chicken quesadilla|ravioli|club sandwich
+3482750.jpg,nachos|eggs benedict|chicken quesadilla|mussels|breakfast burrito
+3728936.jpg,nachos|eggs benedict|chicken quesadilla|caprese salad|breakfast burrito
+473481.jpg,pad thai|nachos|eggs benedict|chicken quesadilla|risotto
+64433.jpg,nachos|chicken quesadilla|omelette|clam chowder|paella|breakfast burrito
+649853.jpg,nachos|tacos|eggs benedict|lobster bisque|chicken quesadilla
+1180273.jpg,apple pie|nachos|chicken wings|garlic bread|beef carpaccio|beef tartare
+148765.jpg,apple pie|nachos|waffles|garlic bread|chicken wings
+2398925.jpg,apple pie|chocolate mousse|lasagna|garlic bread|macaroni and cheese
+254812.jpg,apple pie|chocolate cake|garlic bread|breakfast burrito|grilled cheese sandwich
+3376617.jpg,apple pie|garlic bread|prime rib|beef carpaccio
+3442426.jpg,apple pie|nachos|garlic bread|beet salad|macaroni and cheese
+53217.jpg,apple pie|nachos|garlic bread|cheesecake|chicken wings
+729262.jpg,apple pie|garlic bread|beef carpaccio|macaroni and cheese|chicken wings
+1133811.jpg,apple pie|tacos|cheese plate|spaghetti carbonara|garlic bread|grilled cheese sandwich
+1336221.jpg,tacos|spaghetti carbonara|garlic bread|beef carpaccio|breakfast burrito|strawberry shortcake
+140290.jpg,spaghetti carbonara|garlic bread|beef carpaccio|lobster roll sandwich|huevos rancheros
+1464853.jpg,spaghetti carbonara|garlic bread|huevos rancheros|breakfast burrito|grilled salmon
+167918.jpg,nachos|spaghetti carbonara|garlic bread|gnocchi|chicken quesadilla
+1897014.jpg,apple pie|spaghetti carbonara|garlic bread|huevos rancheros|carrot cake|grilled cheese sandwich
+193246.jpg,apple pie|nachos|spaghetti carbonara|garlic bread|huevos rancheros|seaweed salad
+2369172.jpg,apple pie|spaghetti carbonara|garlic bread|takoyaki|grilled cheese sandwich
+2961453.jpg,apple pie|spaghetti carbonara|garlic bread|huevos rancheros|cheesecake|grilled cheese sandwich
+3620944.jpg,samosa|spaghetti carbonara|garlic bread|foie gras|breakfast burrito|grilled cheese sandwich
+447916.jpg,apple pie|tacos|spaghetti carbonara|garlic bread|tuna tartare|grilled cheese sandwich
+712855.jpg,breakfast burrito|spaghetti carbonara|spring rolls|garlic bread
+1139062.jpg,pad thai|ramen|fish and chips|pizza
+1399995.jpg,pad thai|pizza|ramen|beef carpaccio|macaroni and cheese
+150417.jpg,cup cakes|ramen|beef carpaccio|pizza
+2030980.jpg,pad thai|gnocchi|ramen|pizza
+2286575.jpg,pad thai|pizza|miso soup|ramen|seaweed salad
+2593625.jpg,pad thai|ice cream|pizza|ramen|beef tartare
+2738313.jpg,pad thai|pizza|fried rice|ramen|beef tartare
+3431393.jpg,pad thai|pizza|ramen|garlic bread|hot and sour soup
+3598157.jpg,pad thai|pizza|poutine|ramen|chicken quesadilla|hot and sour soup
+452762.jpg,pad thai|carrot cake|ramen|pizza
+105375.jpg,greek salad|beef carpaccio|filet mignon|chicken wings
+1841555.jpg,steak|fish and chips|baby back ribs|filet mignon|chicken wings
+2302592.jpg,steak|cannoli|baby back ribs|filet mignon|chicken wings
+230322.jpg,garlic bread|steak|filet mignon|chicken wings
+2331448.jpg,steak|chicken wings|fried calamari|filet mignon|beef tartare
+259212.jpg,steak|chicken wings|baby back ribs|filet mignon|club sandwich
+269845.jpg,pork chop|baby back ribs|onion rings|filet mignon|chicken wings
+2744611.jpg,steak|escargots|baby back ribs|filet mignon|chicken wings
+2807930.jpg,steak|chicken wings|beef carpaccio|filet mignon|club sandwich
+3696597.jpg,apple pie|steak|gnocchi|filet mignon|chicken wings
+393908.jpg,steak|chicken wings|sushi|filet mignon|beef tartare
+545595.jpg,pork chop|spaghetti carbonara|beef carpaccio|filet mignon|chicken wings
+858121.jpg,pork chop|bruschetta|baby back ribs|filet mignon|chicken wings
+1319907.jpg,tiramisu|baklava|apple pie|mussels
+1615141.jpg,apple pie|chocolate mousse|chocolate cake|baklava|strawberry shortcake
+177866.jpg,apple pie|creme brulee|baklava|french toast|carrot cake
+1838964.jpg,apple pie|carrot cake|baklava|panna cotta
+1926.jpg,apple pie|tiramisu|creme brulee|baklava
+2292597.jpg,apple pie|creme brulee|panna cotta|foie gras|baklava
+2499894.jpg,tiramisu|apple pie|panna cotta|baklava|risotto
+2730999.jpg,apple pie|creme brulee|cannoli|pancakes|baklava
+3358318.jpg,apple pie|creme brulee|panna cotta|takoyaki|baklava
+3676115.jpg,apple pie|creme brulee|chocolate cake|panna cotta|caprese salad|baklava
+3885479.jpg,tiramisu|apple pie|eggs benedict|chocolate mousse|baklava
+815682.jpg,apple pie|falafel|red velvet cake|panna cotta|baklava
+972877.jpg,tiramisu|apple pie|bruschetta|panna cotta|baklava
+138570.jpg,tiramisu|bruschetta|baklava|frozen yogurt|donuts
+2040874.jpg,frozen yogurt|donuts|fish and chips|panna cotta
+2052811.jpg,tiramisu|macarons|frozen yogurt|donuts|filet mignon
+2164182.jpg,apple pie|frozen yogurt|donuts|cheesecake|macaroni and cheese
+275352.jpg,sushi|panna cotta|baklava|frozen yogurt|donuts
+295998.jpg,apple pie|frozen yogurt|donuts|lasagna
+3076476.jpg,frozen yogurt|donuts|cheesecake|dumplings
+374902.jpg,eggs benedict|chocolate mousse|macarons|panna cotta|donuts
+995145.jpg,chocolate cake|donuts|chocolate mousse
+1699065.jpg,apple pie|breakfast burrito|cup cakes|eggs benedict
+1711153.jpg,apple pie|eggs benedict|pancakes|chicken quesadilla|grilled cheese sandwich
+1979759.jpg,apple pie|eggs benedict|waffles|beef carpaccio|huevos rancheros
+2545807.jpg,apple pie|ramen|eggs benedict|baklava
+3014898.jpg,apple pie|eggs benedict|chicken curry|breakfast burrito|beef tartare
+3093431.jpg,apple pie|eggs benedict|chicken quesadilla|baklava|breakfast burrito|grilled cheese sandwich
+3270928.jpg,apple pie|eggs benedict|chicken quesadilla|paella|breakfast burrito|greek salad
+3605635.jpg,apple pie|eggs benedict|cheese plate|croque madame|shrimp and grits
+366274.jpg,apple pie|french fries|eggs benedict|pizza|foie gras|breakfast burrito
+3902864.jpg,apple pie|eggs benedict|ramen|huevos rancheros|breakfast burrito
+800743.jpg,apple pie|lasagna|eggs benedict
+851024.jpg,apple pie|eggs benedict|beignets|waffles|french toast
+1230825.jpg,pizza|lasagna|french toast|chocolate mousse|croque madame
+1330720.jpg,apple pie|pizza|lasagna|beet salad|french toast
+1475505.jpg,pizza|lasagna|garlic bread|baklava|french toast|club sandwich
+1597810.jpg,fish and chips|pizza|lasagna|garlic bread|baklava|macaroni and cheese
+171902.jpg,apple pie|pizza|lasagna|french toast|fried calamari
+1853400.jpg,pizza|lasagna|french toast|gnocchi|croque madame
+289512.jpg,peking duck|pizza|lasagna|garlic bread|french toast|club sandwich
+611236.jpg,french fries|pizza|lasagna|chocolate mousse|baklava|club sandwich
+614817.jpg,apple pie|nachos|pizza|lasagna|french toast|club sandwich
+614830.jpg,pizza|lasagna|french onion soup|french toast|croque madame|club sandwich
+614873.jpg,apple pie|pizza|lasagna|poutine|lobster roll sandwich|gyoza
+863850.jpg,pizza|lasagna|beef carpaccio|lobster roll sandwich|french toast|club sandwich
+1896089.jpg,ceviche|crab cakes|hot dog|donuts|clam chowder|fried calamari
+2477976.jpg,apple pie|nachos|ceviche|fried calamari|crab cakes|donuts
+2919377.jpg,ceviche|crab cakes|donuts|cup cakes|shrimp and grits|fried calamari
+357245.jpg,onion rings|fried calamari|crab cakes|chicken quesadilla|donuts
+3573742.jpg,poutine|crab cakes|donuts|mussels|fried calamari
+368538.jpg,tiramisu|fried calamari|crab cakes|chicken quesadilla|takoyaki|donuts
+3815387.jpg,ceviche|crab cakes|donuts|bibimbap|fried calamari
+392766.jpg,fish and chips|spring rolls|crab cakes|donuts|fried calamari
+45768.jpg,steak|crab cakes|hot dog|donuts|shrimp and grits|fried calamari
+486928.jpg,fish and chips|crab cakes|donuts|baklava|fried calamari|caesar salad
+686110.jpg,garlic bread|crab cakes|donuts|chicken curry|shrimp and grits|fried calamari
+73141.jpg,guacamole|crab cakes|hot dog|donuts|shrimp and grits|fried calamari
+758718.jpg,fish and chips|pulled pork sandwich|fried calamari|crab cakes|donuts|macaroni and cheese
+768197.jpg,spaghetti carbonara|lobster bisque|crab cakes|donuts|fried calamari
+779792.jpg,pad thai|crab cakes|donuts|shrimp and grits|fried calamari|grilled salmon
+80256.jpg,fish and chips|samosa|crab cakes|donuts|baklava|fried calamari
+1375585.jpg,tacos|pizza|beef carpaccio|baklava|fried calamari|chicken wings
+1568961.jpg,apple pie|tacos|pulled pork sandwich|pizza|fried calamari|macaroni and cheese
+210272.jpg,fried calamari|miso soup|falafel|pizza
+228761.jpg,pizza|pancakes|beef carpaccio|fried calamari|chicken wings
+2863042.jpg,tacos|pizza|fried calamari|chicken quesadilla|macaroni and cheese
+2903581.jpg,tacos|pizza|chicken quesadilla|fried calamari|chicken wings
+3065508.jpg,pizza|fried calamari|beet salad|macaroni and cheese|ravioli|beef tartare
+3378575.jpg,tacos|pizza|ramen|greek salad|fried calamari|caesar salad
+3461292.jpg,pizza|bruschetta|huevos rancheros|baklava|fried calamari|chicken wings
+3894142.jpg,tacos|pizza|bibimbap|baklava|fried calamari
+489083.jpg,apple pie|tacos|spaghetti bolognese|pizza|fried calamari|macaroni and cheese
+74023.jpg,pizza|ceviche|fried calamari|red velvet cake|macaroni and cheese|beef tartare
+92485.jpg,apple pie|pizza|ceviche|fried calamari|caesar salad|risotto
+996751.jpg,pizza|baby back ribs|chicken quesadilla|tuna tartare|fried calamari
+130959.jpg,apple pie|escargots|scallops|edamame|clam chowder|fried calamari
+1550150.jpg,apple pie|escargots|scallops|garlic bread|churros|fried calamari
+1654282.jpg,apple pie|escargots|scallops|clam chowder|mussels|fried calamari
+177000.jpg,apple pie|escargots|scallops|beef carpaccio|churros|fried calamari
+1785675.jpg,apple pie|escargots|pizza|scallops|mussels|fried calamari
+1883136.jpg,apple pie|scallops|clam chowder|mussels|fried calamari|filet mignon
+2280830.jpg,apple pie|escargots|scallops|fried calamari|breakfast burrito|cheesecake
+2885620.jpg,apple pie|escargots|scallops|lobster bisque|clam chowder|fried calamari
+2946111.jpg,apple pie|chocolate mousse|scallops|churros|mussels|fried calamari
+305673.jpg,apple pie|baby back ribs|beef carpaccio|crab cakes|mussels|fried calamari
+3164740.jpg,apple pie|escargots|chocolate mousse|mussels|fried calamari
+3245460.jpg,apple pie|scallops|chicken curry|mussels|fried calamari
+3391415.jpg,apple pie|escargots|cannoli|beef carpaccio|mussels|fried calamari
+3685842.jpg,apple pie|escargots|spaghetti carbonara|mussels|fried calamari|beef tartare
+604459.jpg,apple pie|scallops|french toast|fried calamari|beef tartare
+64301.jpg,apple pie|scallops|fried calamari|samosa|beef tartare
+889151.jpg,apple pie|chocolate mousse|scallops|mussels|baklava|fried calamari

@@ -1,0 +1,1001 @@
+Abyssinian_204.jpg,russian blue|birman|bengal|havanese
+Abyssinian_206.jpg,bengal|american pit bull terrier|russian blue|birman|egyptian mau
+Abyssinian_212.jpg,russian blue|birman|shiba inu|bengal
+Abyssinian_221.jpg,chihuahua|bengal|russian blue|birman|egyptian mau
+Abyssinian_224.jpg,chihuahua|bengal|siamese|russian blue|birman
+Abyssinian_226.jpg,maine coon|bengal|russian blue|british shorthair|boxer
+Abyssinian_24.jpg,russian blue|bengal|siamese|scottish terrier
+Abyssinian_27.jpg,russian blue|bengal|bombay|maine coon
+Abyssinian_30.jpg,russian blue|birman|staffordshire bull terrier|bengal
+Abyssinian_33.jpg,bengal|russian blue|miniature pinscher|birman|egyptian mau
+Abyssinian_43.jpg,russian blue|birman|sphynx|bengal
+Abyssinian_44.jpg,bengal|siamese|russian blue|birman|egyptian mau
+Abyssinian_45.jpg,russian blue|birman|bombay|bengal
+Abyssinian_50.jpg,bengal|shiba inu|siamese|russian blue|ragdoll
+Abyssinian_55.jpg,russian blue|birman|bengal|english setter
+Abyssinian_56.jpg,bengal|siamese|russian blue|birman|scottish terrier
+Abyssinian_57.jpg,russian blue|birman|german shorthaired|bengal
+Abyssinian_61.jpg,bengal|russian blue|birman|american pit bull terrier|boxer
+Abyssinian_67.jpg,bengal|russian blue|birman|egyptian mau|scottish terrier
+Abyssinian_69.jpg,russian blue|birman|samoyed|bengal
+Abyssinian_72.jpg,russian blue|birman|bengal|american pit bull terrier
+Abyssinian_79.jpg,russian blue|birman|shiba inu|bengal
+Abyssinian_7.jpg,maine coon|bengal|russian blue|birman|boxer
+Abyssinian_88.jpg,russian blue|birman|bengal|siamese
+Abyssinian_91.jpg,russian blue|bengal|ragdoll|maine coon
+Abyssinian_92.jpg,bengal|shiba inu|siamese|russian blue|birman
+Abyssinian_94.jpg,newfoundland|bengal|maine coon|russian blue
+american_bulldog_203.jpg,staffordshire bull terrier|miniature pinscher|american pit bull terrier|boxer
+american_bulldog_205.jpg,staffordshire bull terrier|american pit bull terrier|boxer
+american_bulldog_208.jpg,russian blue|staffordshire bull terrier|american pit bull terrier
+american_bulldog_209.jpg,staffordshire bull terrier|japanese chin|american pit bull terrier
+american_bulldog_212.jpg,staffordshire bull terrier|miniature pinscher|american pit bull terrier|boxer
+american_bulldog_217.jpg,sphynx|staffordshire bull terrier|american pit bull terrier|boxer
+american_bulldog_220.jpg,pug|miniature pinscher|american pit bull terrier|staffordshire bull terrier
+american_bulldog_22.jpg,staffordshire bull terrier|english setter|american pit bull terrier
+american_bulldog_24.jpg,keeshond|staffordshire bull terrier|american pit bull terrier
+american_bulldog_27.jpg,staffordshire bull terrier|persian|american pit bull terrier|boxer
+american_bulldog_30.jpg,maine coon|staffordshire bull terrier|american pit bull terrier
+american_bulldog_33.jpg,staffordshire bull terrier|american pit bull terrier|beagle
+american_bulldog_34.jpg,basset hound|staffordshire bull terrier|american pit bull terrier
+american_bulldog_35.jpg,wheaten terrier|staffordshire bull terrier|american pit bull terrier|boxer
+american_bulldog_38.jpg,egyptian mau|staffordshire bull terrier|american pit bull terrier
+american_bulldog_42.jpg,boxer|samoyed|american pit bull terrier|staffordshire bull terrier
+american_bulldog_44.jpg,pug|american pit bull terrier|staffordshire bull terrier
+american_bulldog_47.jpg,english cocker spaniel|pug|staffordshire bull terrier|american pit bull terrier|boxer
+american_bulldog_53.jpg,wheaten terrier|staffordshire bull terrier|american pit bull terrier
+american_bulldog_60.jpg,great pyrenees|pug|american pit bull terrier|staffordshire bull terrier
+american_bulldog_61.jpg,newfoundland|staffordshire bull terrier|american pit bull terrier|boxer
+american_bulldog_65.jpg,saint bernard|bengal|staffordshire bull terrier|american pit bull terrier
+american_bulldog_66.jpg,sphynx|staffordshire bull terrier|american pit bull terrier
+american_bulldog_68.jpg,english cocker spaniel|staffordshire bull terrier|american pit bull terrier|beagle
+american_bulldog_71.jpg,keeshond|staffordshire bull terrier|american pit bull terrier
+american_bulldog_73.jpg,boxer|staffordshire bull terrier|american pit bull terrier|havanese
+american_bulldog_75.jpg,keeshond|staffordshire bull terrier|american pit bull terrier
+american_bulldog_79.jpg,abyssinian|staffordshire bull terrier|american pit bull terrier
+american_bulldog_81.jpg,staffordshire bull terrier|leonberger|american pit bull terrier|boxer
+american_bulldog_82.jpg,wheaten terrier|staffordshire bull terrier|american pit bull terrier
+american_bulldog_89.jpg,samoyed|american pit bull terrier|staffordshire bull terrier
+american_bulldog_8.jpg,staffordshire bull terrier|english setter|american pit bull terrier|beagle
+american_bulldog_90.jpg,german shorthaired|staffordshire bull terrier|american pit bull terrier
+american_bulldog_92.jpg,staffordshire bull terrier|american pit bull terrier|boxer
+american_bulldog_93.jpg,staffordshire bull terrier|american pit bull terrier|havanese
+american_bulldog_94.jpg,bombay|american pit bull terrier|staffordshire bull terrier
+american_bulldog_96.jpg,ragdoll|staffordshire bull terrier|american pit bull terrier
+american_bulldog_97.jpg,saint bernard|staffordshire bull terrier|american pit bull terrier|scottish terrier
+american_bulldog_99.jpg,basset hound|pug|american pit bull terrier|staffordshire bull terrier
+american_pit_bull_terrier_193.jpg,american bulldog|staffordshire bull terrier|chihuahua
+american_pit_bull_terrier_19.jpg,american bulldog|staffordshire bull terrier|pug
+american_pit_bull_terrier_27.jpg,american bulldog|staffordshire bull terrier|samoyed
+american_pit_bull_terrier_28.jpg,american bulldog|staffordshire bull terrier|newfoundland
+american_pit_bull_terrier_2.jpg,american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_31.jpg,boxer|american bulldog|staffordshire bull terrier|beagle
+american_pit_bull_terrier_35.jpg,american bulldog|staffordshire bull terrier|persian
+american_pit_bull_terrier_38.jpg,pomeranian|american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_39.jpg,birman|american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_40.jpg,english cocker spaniel|american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_41.jpg,american bulldog|staffordshire bull terrier|japanese chin
+american_pit_bull_terrier_46.jpg,wheaten terrier|american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_52.jpg,american bulldog|staffordshire bull terrier|chihuahua
+american_pit_bull_terrier_53.jpg,pomeranian|american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_58.jpg,american bulldog|staffordshire bull terrier|samoyed
+american_pit_bull_terrier_5.jpg,pomeranian|american bulldog|staffordshire bull terrier|boxer
+american_pit_bull_terrier_63.jpg,american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_64.jpg,american bulldog|staffordshire bull terrier|ragdoll
+american_pit_bull_terrier_65.jpg,american bulldog|staffordshire bull terrier|samoyed
+american_pit_bull_terrier_66.jpg,american bulldog|staffordshire bull terrier|yorkshire terrier
+american_pit_bull_terrier_70.jpg,shiba inu|american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_71.jpg,american bulldog|staffordshire bull terrier|british shorthair|boxer
+american_pit_bull_terrier_74.jpg,american bulldog|staffordshire bull terrier|samoyed
+american_pit_bull_terrier_75.jpg,russian blue|american bulldog|staffordshire bull terrier|boxer
+american_pit_bull_terrier_77.jpg,american bulldog|staffordshire bull terrier|samoyed
+american_pit_bull_terrier_79.jpg,american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_80.jpg,american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_81.jpg,american bulldog|staffordshire bull terrier|miniature pinscher
+american_pit_bull_terrier_82.jpg,pomeranian|american bulldog|staffordshire bull terrier|boxer
+american_pit_bull_terrier_84.jpg,pomeranian|american bulldog|staffordshire bull terrier|boxer
+american_pit_bull_terrier_86.jpg,american bulldog|staffordshire bull terrier|siamese
+american_pit_bull_terrier_87.jpg,american bulldog|staffordshire bull terrier|leonberger|boxer
+american_pit_bull_terrier_88.jpg,american bulldog|staffordshire bull terrier|havanese
+american_pit_bull_terrier_90.jpg,abyssinian|american bulldog|staffordshire bull terrier
+american_pit_bull_terrier_92.jpg,boxer|american bulldog|staffordshire bull terrier|samoyed
+american_pit_bull_terrier_93.jpg,german shorthaired|american bulldog|staffordshire bull terrier|persian
+american_pit_bull_terrier_99.jpg,american bulldog|staffordshire bull terrier|egyptian mau
+american_pit_bull_terrier_9.jpg,american bulldog|staffordshire bull terrier|samoyed
+basset_hound_191.jpg,english cocker spaniel|newfoundland|beagle|pomeranian|american pit bull terrier
+basset_hound_194.jpg,scottish terrier|pomeranian|american bulldog|beagle
+basset_hound_196.jpg,pomeranian|japanese chin|beagle
+basset_hound_200.jpg,pomeranian|newfoundland|beagle
+basset_hound_25.jpg,pomeranian|miniature pinscher|english setter|beagle
+basset_hound_26.jpg,english cocker spaniel|pomeranian|keeshond|beagle
+basset_hound_29.jpg,pomeranian|american pit bull terrier|beagle
+basset_hound_30.jpg,english cocker spaniel|wheaten terrier|pomeranian|beagle
+basset_hound_36.jpg,pomeranian|egyptian mau|beagle
+basset_hound_39.jpg,pomeranian|sphynx|beagle
+basset_hound_42.jpg,pomeranian|sphynx|beagle
+basset_hound_44.jpg,english cocker spaniel|pomeranian|beagle
+basset_hound_45.jpg,scottish terrier|pomeranian|beagle
+basset_hound_4.jpg,pomeranian|british shorthair|beagle
+basset_hound_56.jpg,pomeranian|beagle
+basset_hound_57.jpg,pomeranian|keeshond|beagle
+basset_hound_59.jpg,english cocker spaniel|pomeranian|beagle
+basset_hound_60.jpg,pomeranian|british shorthair|beagle
+basset_hound_61.jpg,pomeranian|beagle
+basset_hound_66.jpg,pomeranian|pug|beagle
+basset_hound_67.jpg,english cocker spaniel|pomeranian|american bulldog|beagle
+basset_hound_69.jpg,scottish terrier|pomeranian|beagle
+basset_hound_6.jpg,pomeranian|british shorthair|beagle
+basset_hound_70.jpg,pomeranian|bombay|beagle
+basset_hound_72.jpg,pomeranian|shiba inu|beagle
+basset_hound_73.jpg,pomeranian|german shorthaired|leonberger|beagle
+basset_hound_83.jpg,pomeranian|bengal|beagle
+basset_hound_86.jpg,pomeranian|bengal|beagle
+basset_hound_88.jpg,pomeranian|miniature pinscher|beagle
+basset_hound_89.jpg,pomeranian|american pit bull terrier|beagle
+basset_hound_92.jpg,pomeranian|newfoundland|beagle
+basset_hound_93.jpg,pomeranian|bombay|beagle
+basset_hound_94.jpg,pomeranian|miniature pinscher|beagle
+basset_hound_97.jpg,pomeranian|british shorthair|beagle
+beagle_195.jpg,german shorthaired|basset hound|ragdoll
+beagle_200.jpg,german shorthaired|basset hound
+beagle_203.jpg,german shorthaired|basset hound|saint bernard|newfoundland
+beagle_204.jpg,german shorthaired|basset hound|ragdoll
+beagle_22.jpg,birman|basset hound|german shorthaired
+beagle_28.jpg,english cocker spaniel|german shorthaired|basset hound
+beagle_30.jpg,german shorthaired|basset hound|miniature pinscher
+beagle_32.jpg,german shorthaired|basset hound|japanese chin
+beagle_37.jpg,german shorthaired|basset hound|newfoundland
+beagle_41.jpg,german shorthaired|basset hound|american bulldog
+beagle_42.jpg,german shorthaired|basset hound
+beagle_44.jpg,german shorthaired|basset hound|american pit bull terrier
+beagle_47.jpg,german shorthaired|basset hound|maine coon
+beagle_48.jpg,sphynx|basset hound|german shorthaired
+beagle_53.jpg,english cocker spaniel|german shorthaired|basset hound|ragdoll
+beagle_55.jpg,german shorthaired|basset hound|havanese
+beagle_56.jpg,german shorthaired|basset hound|japanese chin
+beagle_57.jpg,german shorthaired|basset hound|persian|boxer
+beagle_59.jpg,german shorthaired|basset hound|newfoundland
+beagle_67.jpg,german shorthaired|basset hound|american bulldog
+beagle_68.jpg,german shorthaired|basset hound|persian
+beagle_6.jpg,german shorthaired|basset hound|boxer
+beagle_76.jpg,sphynx|basset hound|german shorthaired
+beagle_78.jpg,russian blue|german shorthaired|basset hound
+beagle_79.jpg,birman|basset hound|german shorthaired|boxer
+beagle_94.jpg,german shorthaired|basset hound|bombay
+beagle_96.jpg,german shorthaired|basset hound|american pit bull terrier
+Bengal_198.jpg,sphynx|maine coon|abyssinian|russian blue|birman|egyptian mau
+Bengal_199.jpg,maine coon|keeshond|russian blue|bombay|egyptian mau
+Bengal_1.jpg,maine coon|beagle|abyssinian|shiba inu|russian blue|egyptian mau
+Bengal_24.jpg,russian blue|birman|abyssinian|maine coon
+Bengal_26.jpg,maine coon|abyssinian|keeshond|russian blue|birman|egyptian mau
+Bengal_27.jpg,maine coon|abyssinian|russian blue|birman|boxer
+Bengal_34.jpg,russian blue|abyssinian|maine coon
+Bengal_36.jpg,maine coon|russian blue|bombay|british shorthair|egyptian mau
+Bengal_38.jpg,maine coon|abyssinian|russian blue|birman|egyptian mau
+Bengal_42.jpg,maine coon|siamese|russian blue|birman|egyptian mau
+Bengal_45.jpg,russian blue|birman|egyptian mau|maine coon
+Bengal_48.jpg,german shorthaired|maine coon|abyssinian|russian blue|birman|egyptian mau
+Bengal_51.jpg,japanese chin|maine coon|abyssinian|russian blue|ragdoll|british shorthair
+Bengal_55.jpg,maine coon|shiba inu|russian blue|miniature pinscher|american pit bull terrier
+Bengal_58.jpg,maine coon|wheaten terrier|russian blue|birman|egyptian mau
+Bengal_61.jpg,maine coon|abyssinian|russian blue|birman|egyptian mau
+Bengal_64.jpg,maine coon|american pit bull terrier|russian blue|birman|egyptian mau
+Bengal_71.jpg,pug|maine coon|abyssinian|russian blue|birman|egyptian mau
+Bengal_73.jpg,japanese chin|maine coon|russian blue|bombay|egyptian mau
+Bengal_78.jpg,american bulldog|maine coon|russian blue|birman|british shorthair|egyptian mau
+Bengal_79.jpg,japanese chin|maine coon|abyssinian|russian blue|bombay
+Bengal_87.jpg,russian blue|abyssinian|maine coon
+Bengal_8.jpg,russian blue|abyssinian|american bulldog|maine coon
+Bengal_91.jpg,maine coon|abyssinian|russian blue|persian|birman|egyptian mau
+Bengal_96.jpg,newfoundland|maine coon|abyssinian|russian blue|birman
+Bengal_99.jpg,newfoundland|maine coon|abyssinian|russian blue|birman
+Bengal_9.jpg,leonberger|maine coon|abyssinian|siamese|russian blue|birman
+Birman_191.jpg,shiba inu|ragdoll|maine coon|russian blue
+Birman_19.jpg,russian blue|ragdoll|maine coon
+Birman_1.jpg,russian blue|ragdoll|samoyed|maine coon
+Birman_200.jpg,pug|maine coon|abyssinian|russian blue|ragdoll
+Birman_201.jpg,maine coon|russian blue|pomeranian|ragdoll|british shorthair
+Birman_23.jpg,russian blue|ragdoll|maine coon|scottish terrier
+Birman_25.jpg,russian blue|ragdoll|bombay|maine coon
+Birman_26.jpg,english cocker spaniel|ragdoll|maine coon|russian blue
+Birman_2.jpg,maine coon|siamese|russian blue|ragdoll|scottish terrier
+Birman_33.jpg,russian blue|ragdoll|miniature pinscher|maine coon
+Birman_36.jpg,maine coon|staffordshire bull terrier|siamese|russian blue|ragdoll
+Birman_41.jpg,russian blue|ragdoll|maine coon
+Birman_43.jpg,russian blue|abyssinian|ragdoll|maine coon
+Birman_44.jpg,maine coon|abyssinian|russian blue|ragdoll|great pyrenees
+Birman_54.jpg,pomeranian|ragdoll|maine coon|russian blue
+Birman_5.jpg,russian blue|ragdoll|british shorthair|maine coon
+Birman_60.jpg,maine coon|siamese|russian blue|ragdoll|british shorthair
+Birman_61.jpg,maine coon|abyssinian|siamese|russian blue|ragdoll
+Birman_63.jpg,russian blue|wheaten terrier|ragdoll|maine coon
+Birman_74.jpg,newfoundland|maine coon|siamese|russian blue|ragdoll
+Birman_75.jpg,russian blue|ragdoll|bombay|maine coon
+Birman_78.jpg,russian blue|ragdoll|samoyed|maine coon
+Birman_81.jpg,chihuahua|maine coon|russian blue|ragdoll|british shorthair
+Birman_92.jpg,russian blue|ragdoll|egyptian mau|maine coon
+Birman_93.jpg,russian blue|ragdoll|chihuahua|maine coon
+Birman_96.jpg,maine coon|siamese|russian blue|english setter|ragdoll
+Birman_9.jpg,russian blue|ragdoll|siamese|maine coon
+Bombay_20.jpg,samoyed|siamese|russian blue|ragdoll|british shorthair
+Bombay_214.jpg,abyssinian|russian blue|birman|ragdoll|british shorthair
+Bombay_221.jpg,maine coon|shiba inu|russian blue|persian|ragdoll|british shorthair
+Bombay_29.jpg,siamese|russian blue|havanese|birman|ragdoll|british shorthair
+Bombay_2.jpg,bengal|russian blue|birman|ragdoll|british shorthair
+Bombay_33.jpg,leonberger|russian blue|birman|ragdoll|british shorthair
+Bombay_34.jpg,pug|maine coon|russian blue|ragdoll|british shorthair
+Bombay_39.jpg,shiba inu|ragdoll|british shorthair|maine coon
+Bombay_43.jpg,maine coon|staffordshire bull terrier|russian blue|ragdoll|british shorthair
+Bombay_47.jpg,maine coon|siamese|russian blue|pomeranian|ragdoll|british shorthair
+Bombay_48.jpg,ragdoll|british shorthair|maine coon
+Bombay_49.jpg,maine coon|staffordshire bull terrier|russian blue|ragdoll|british shorthair
+Bombay_57.jpg,maine coon|russian blue|pomeranian|ragdoll|british shorthair
+Bombay_59.jpg,maine coon|russian blue|pomeranian|ragdoll|british shorthair
+Bombay_60.jpg,bengal|russian blue|pomeranian|ragdoll|british shorthair
+Bombay_64.jpg,british shorthair|maine coon|abyssinian|ragdoll|great pyrenees
+Bombay_65.jpg,russian blue|saint bernard|birman|ragdoll|british shorthair
+Bombay_68.jpg,russian blue|german shorthaired|ragdoll|british shorthair
+Bombay_72.jpg,russian blue|pomeranian|birman|ragdoll|british shorthair
+Bombay_74.jpg,leonberger|maine coon|bengal|russian blue|ragdoll|british shorthair
+Bombay_75.jpg,german shorthaired|russian blue|birman|ragdoll|british shorthair
+Bombay_78.jpg,russian blue|ragdoll|british shorthair|american pit bull terrier
+Bombay_7.jpg,maine coon|wheaten terrier|russian blue|ragdoll|british shorthair
+Bombay_81.jpg,maine coon|russian blue|ragdoll|british shorthair|boxer
+Bombay_82.jpg,maine coon|yorkshire terrier|russian blue|persian|ragdoll|british shorthair
+Bombay_86.jpg,abyssinian|yorkshire terrier|russian blue|birman|ragdoll|british shorthair
+Bombay_8.jpg,maine coon|siamese|russian blue|ragdoll|british shorthair
+Bombay_95.jpg,russian blue|birman|ragdoll|british shorthair|egyptian mau
+Bombay_96.jpg,maine coon|shiba inu|russian blue|ragdoll|british shorthair
+Bombay_9.jpg,maine coon|siamese|russian blue|ragdoll|british shorthair
+boxer_193.jpg,american bulldog|pug|leonberger|staffordshire bull terrier|ragdoll
+boxer_1.jpg,american bulldog|pug|siamese
+boxer_21.jpg,american bulldog|staffordshire bull terrier|newfoundland|pug
+boxer_26.jpg,basset hound|american bulldog|pug|staffordshire bull terrier
+boxer_28.jpg,german shorthaired|american bulldog|pug
+boxer_30.jpg,birman|american bulldog|staffordshire bull terrier|pug
+boxer_31.jpg,russian blue|saint bernard|american bulldog|pug
+boxer_32.jpg,wheaten terrier|american bulldog|pug
+boxer_36.jpg,pomeranian|american bulldog|pug|american pit bull terrier
+boxer_3.jpg,american bulldog|staffordshire bull terrier|leonberger|pug
+boxer_40.jpg,abyssinian|american bulldog|pug
+boxer_42.jpg,sphynx|american bulldog|pug
+boxer_43.jpg,american bulldog|pug|staffordshire bull terrier|british shorthair|american pit bull terrier
+boxer_45.jpg,basset hound|american bulldog|pug|staffordshire bull terrier|american pit bull terrier
+boxer_48.jpg,english cocker spaniel|american bulldog|pug|staffordshire bull terrier|american pit bull terrier
+boxer_50.jpg,american bulldog|pug|beagle
+boxer_51.jpg,american bulldog|staffordshire bull terrier|pug
+boxer_54.jpg,american bulldog|pug|yorkshire terrier
+boxer_56.jpg,german shorthaired|american bulldog|pug|american pit bull terrier
+boxer_57.jpg,american bulldog|staffordshire bull terrier|great pyrenees|pug
+boxer_59.jpg,american bulldog|pug|bombay
+boxer_60.jpg,basset hound|american bulldog|pug|leonberger
+boxer_64.jpg,american bulldog|staffordshire bull terrier|pug
+boxer_6.jpg,american bulldog|pug|staffordshire bull terrier|scottish terrier
+boxer_73.jpg,american bulldog|great pyrenees|pug|staffordshire bull terrier
+boxer_74.jpg,english cocker spaniel|american bulldog|pug|staffordshire bull terrier
+boxer_78.jpg,american bulldog|british shorthair|pug|staffordshire bull terrier
+boxer_7.jpg,american bulldog|pug|ragdoll
+boxer_80.jpg,american bulldog|pug|yorkshire terrier
+boxer_85.jpg,american bulldog|pug|persian
+boxer_8.jpg,american bulldog|pug|staffordshire bull terrier|saint bernard|american pit bull terrier
+boxer_93.jpg,shiba inu|american bulldog|pug
+boxer_95.jpg,american bulldog|staffordshire bull terrier|great pyrenees|pug
+boxer_96.jpg,american bulldog|pug|leonberger|staffordshire bull terrier
+boxer_98.jpg,american bulldog|pug|siamese|american pit bull terrier
+British_Shorthair_212.jpg,russian blue|german shorthaired|ragdoll
+British_Shorthair_213.jpg,russian blue|ragdoll|boxer
+British_Shorthair_258.jpg,russian blue|ragdoll|american bulldog|maine coon
+British_Shorthair_25.jpg,russian blue|ragdoll
+British_Shorthair_263.jpg,russian blue|ragdoll|scottish terrier
+British_Shorthair_265.jpg,russian blue|ragdoll|pug
+British_Shorthair_267.jpg,russian blue|ragdoll|keeshond
+British_Shorthair_269.jpg,russian blue|shiba inu|ragdoll
+British_Shorthair_275.jpg,russian blue|ragdoll|keeshond
+British_Shorthair_276.jpg,russian blue|ragdoll|boxer
+British_Shorthair_28.jpg,russian blue|birman|ragdoll
+British_Shorthair_2.jpg,russian blue|ragdoll|american bulldog
+British_Shorthair_33.jpg,russian blue|ragdoll|english setter
+British_Shorthair_38.jpg,russian blue|ragdoll|persian
+British_Shorthair_3.jpg,russian blue|ragdoll|miniature pinscher
+British_Shorthair_41.jpg,russian blue|ragdoll|staffordshire bull terrier
+British_Shorthair_43.jpg,russian blue|ragdoll|american pit bull terrier
+British_Shorthair_49.jpg,russian blue|basset hound|ragdoll
+British_Shorthair_50.jpg,russian blue|basset hound|ragdoll
+British_Shorthair_52.jpg,russian blue|ragdoll|yorkshire terrier
+British_Shorthair_53.jpg,russian blue|ragdoll|egyptian mau|newfoundland
+British_Shorthair_55.jpg,russian blue|ragdoll|pug
+British_Shorthair_57.jpg,russian blue|ragdoll|samoyed
+British_Shorthair_59.jpg,russian blue|ragdoll|japanese chin
+British_Shorthair_61.jpg,russian blue|ragdoll|scottish terrier
+British_Shorthair_65.jpg,russian blue|havanese
+British_Shorthair_67.jpg,russian blue|ragdoll|american pit bull terrier
+British_Shorthair_74.jpg,russian blue|ragdoll|bombay
+British_Shorthair_79.jpg,russian blue|ragdoll|leonberger
+British_Shorthair_82.jpg,russian blue|ragdoll|american pit bull terrier
+British_Shorthair_8.jpg,russian blue|ragdoll|great pyrenees
+British_Shorthair_90.jpg,russian blue|ragdoll|persian
+British_Shorthair_96.jpg,russian blue|ragdoll|maine coon
+British_Shorthair_9.jpg,russian blue|ragdoll|miniature pinscher|siamese
+chihuahua_191.jpg,pomeranian|keeshond|miniature pinscher
+chihuahua_199.jpg,pomeranian|miniature pinscher|siamese|russian blue
+chihuahua_19.jpg,pomeranian|saint bernard|miniature pinscher
+chihuahua_1.jpg,pomeranian|miniature pinscher|japanese chin|boxer
+chihuahua_200.jpg,pomeranian|miniature pinscher|beagle
+chihuahua_22.jpg,pomeranian|shiba inu|miniature pinscher
+chihuahua_24.jpg,pomeranian|persian|miniature pinscher|boxer
+chihuahua_25.jpg,pomeranian|sphynx|american bulldog|miniature pinscher
+chihuahua_31.jpg,pomeranian|miniature pinscher|english setter
+chihuahua_32.jpg,pomeranian|miniature pinscher|american pit bull terrier
+chihuahua_33.jpg,pomeranian|birman|miniature pinscher|boxer
+chihuahua_36.jpg,pomeranian|ragdoll|miniature pinscher|siamese
+chihuahua_39.jpg,pomeranian|american bulldog|miniature pinscher
+chihuahua_40.jpg,pomeranian|sphynx|miniature pinscher|boxer
+chihuahua_42.jpg,pomeranian|samoyed|miniature pinscher
+chihuahua_44.jpg,pomeranian|miniature pinscher|siamese|newfoundland
+chihuahua_46.jpg,pomeranian|ragdoll|miniature pinscher|boxer
+chihuahua_50.jpg,pomeranian|boxer|miniature pinscher|scottish terrier
+chihuahua_54.jpg,pomeranian|samoyed|miniature pinscher
+chihuahua_57.jpg,pomeranian|birman|miniature pinscher
+chihuahua_59.jpg,pomeranian|staffordshire bull terrier|miniature pinscher
+chihuahua_62.jpg,pomeranian|bengal|miniature pinscher|sphynx
+chihuahua_65.jpg,pomeranian|wheaten terrier|miniature pinscher|sphynx
+chihuahua_68.jpg,pomeranian|british shorthair|miniature pinscher|siamese
+chihuahua_69.jpg,pomeranian|yorkshire terrier|keeshond|miniature pinscher
+chihuahua_71.jpg,pomeranian|yorkshire terrier|miniature pinscher|birman
+chihuahua_72.jpg,pomeranian|miniature pinscher|boxer
+chihuahua_77.jpg,pomeranian|abyssinian|shiba inu|miniature pinscher
+chihuahua_7.jpg,pomeranian|miniature pinscher|leonberger|japanese chin
+chihuahua_81.jpg,pomeranian|miniature pinscher|japanese chin
+chihuahua_82.jpg,pomeranian|miniature pinscher|maine coon
+chihuahua_83.jpg,pomeranian|wheaten terrier|miniature pinscher|boxer
+chihuahua_84.jpg,pomeranian|shiba inu|miniature pinscher
+chihuahua_85.jpg,pomeranian|british shorthair|miniature pinscher
+chihuahua_86.jpg,pomeranian|great pyrenees|miniature pinscher
+chihuahua_8.jpg,pomeranian|sphynx|miniature pinscher|japanese chin
+chihuahua_93.jpg,pomeranian|saint bernard|miniature pinscher|boxer
+chihuahua_9.jpg,pomeranian|sphynx|keeshond|miniature pinscher
+Egyptian_Mau_1.jpg,russian blue|birman|staffordshire bull terrier|bengal
+Egyptian_Mau_207.jpg,maine coon|bengal|russian blue|ragdoll|boxer
+Egyptian_Mau_213.jpg,german shorthaired|bengal|abyssinian|russian blue|ragdoll
+Egyptian_Mau_218.jpg,american bulldog|bengal|russian blue|ragdoll|british shorthair
+Egyptian_Mau_224.jpg,russian blue|bengal|ragdoll|german shorthaired
+Egyptian_Mau_28.jpg,abyssinian|wheaten terrier|bengal|russian blue|birman
+Egyptian_Mau_29.jpg,russian blue|birman|saint bernard|bengal
+Egyptian_Mau_30.jpg,russian blue|birman|bengal|boxer
+Egyptian_Mau_31.jpg,russian blue|birman|bengal|american pit bull terrier
+Egyptian_Mau_40.jpg,russian blue|bengal|maine coon|beagle
+Egyptian_Mau_48.jpg,russian blue|abyssinian|pug|bengal
+Egyptian_Mau_5.jpg,russian blue|birman|basset hound|bengal
+Egyptian_Mau_62.jpg,english cocker spaniel|bengal|russian blue|ragdoll|british shorthair
+Egyptian_Mau_63.jpg,russian blue|birman|saint bernard|bengal
+Egyptian_Mau_83.jpg,russian blue|birman|bengal|newfoundland
+Egyptian_Mau_84.jpg,russian blue|birman|bengal|american pit bull terrier
+Egyptian_Mau_86.jpg,russian blue|birman|bengal|chihuahua
+Egyptian_Mau_87.jpg,russian blue|abyssinian|birman|bengal
+Egyptian_Mau_88.jpg,russian blue|birman|bengal|boxer
+Egyptian_Mau_89.jpg,russian blue|birman|saint bernard|bengal
+Egyptian_Mau_90.jpg,russian blue|birman|great pyrenees|bengal
+Egyptian_Mau_92.jpg,bengal|russian blue|birman|ragdoll|british shorthair
+Egyptian_Mau_96.jpg,russian blue|birman|bengal|beagle
+Egyptian_Mau_9.jpg,russian blue|bengal|ragdoll|beagle
+english_cocker_spaniel_198.jpg,english cocker spaniel|basset hound|siamese|saint bernard|english setter|pomeranian
+english_cocker_spaniel_20.jpg,basset hound|pug|siamese|english setter|pomeranian
+english_cocker_spaniel_60.jpg,basset hound|leonberger|beagle|siamese|havanese|pomeranian
+english_cocker_spaniel_6.jpg,basset hound|american bulldog|siamese|english setter|havanese|pomeranian
+english_setter_195.jpg,english cocker spaniel|sphynx|newfoundland|beagle|great pyrenees
+english_setter_198.jpg,english cocker spaniel|basset hound|miniature pinscher
+english_setter_199.jpg,english cocker spaniel|basset hound|yorkshire terrier
+english_setter_21.jpg,english cocker spaniel|british shorthair|beagle
+english_setter_23.jpg,english cocker spaniel|basset hound|ragdoll
+english_setter_24.jpg,english cocker spaniel|birman|basset hound
+english_setter_27.jpg,english cocker spaniel|basset hound|samoyed
+english_setter_2.jpg,english cocker spaniel|abyssinian|japanese chin|beagle
+english_setter_31.jpg,english cocker spaniel|staffordshire bull terrier|beagle
+english_setter_33.jpg,english cocker spaniel|saint bernard|samoyed|beagle
+english_setter_35.jpg,english cocker spaniel|wheaten terrier|basset hound
+english_setter_38.jpg,english cocker spaniel|german shorthaired|beagle|havanese|great pyrenees
+english_setter_43.jpg,english cocker spaniel|british shorthair|beagle
+english_setter_45.jpg,english cocker spaniel|boxer|beagle
+english_setter_46.jpg,english cocker spaniel|basset hound|samoyed
+english_setter_4.jpg,english cocker spaniel|german shorthaired|basset hound
+english_setter_52.jpg,english cocker spaniel|basset hound|staffordshire bull terrier
+english_setter_55.jpg,english cocker spaniel|shiba inu|beagle
+english_setter_56.jpg,english cocker spaniel|american bulldog|beagle
+english_setter_59.jpg,english cocker spaniel|basset hound|british shorthair
+english_setter_65.jpg,english cocker spaniel|scottish terrier|beagle
+english_setter_7.jpg,english cocker spaniel|basset hound|newfoundland
+english_setter_82.jpg,english cocker spaniel|shiba inu|beagle
+english_setter_83.jpg,english cocker spaniel|shiba inu|basset hound|great pyrenees
+english_setter_84.jpg,english cocker spaniel|keeshond|beagle
+english_setter_87.jpg,english cocker spaniel|basset hound|great pyrenees|havanese
+english_setter_88.jpg,english cocker spaniel|abyssinian|persian
+english_setter_94.jpg,english cocker spaniel|basset hound|leonberger
+english_setter_96.jpg,english cocker spaniel|shiba inu|basset hound
+german_shorthaired_191.jpg,english cocker spaniel|keeshond|russian blue|miniature pinscher|english setter|boxer
+german_shorthaired_192.jpg,english cocker spaniel|basset hound|russian blue|saint bernard|british shorthair|boxer
+german_shorthaired_195.jpg,english cocker spaniel|bengal|russian blue|miniature pinscher|american pit bull terrier|boxer
+german_shorthaired_197.jpg,english cocker spaniel|basset hound|russian blue|miniature pinscher|great pyrenees|boxer
+german_shorthaired_200.jpg,english cocker spaniel|japanese chin|russian blue|english setter|british shorthair|boxer
+german_shorthaired_23.jpg,shiba inu|russian blue|english setter|british shorthair|boxer
+german_shorthaired_26.jpg,english cocker spaniel|boxer|russian blue|beagle
+german_shorthaired_29.jpg,maine coon|russian blue|english setter|british shorthair|boxer
+german_shorthaired_2.jpg,english cocker spaniel|sphynx|russian blue|miniature pinscher|boxer
+german_shorthaired_32.jpg,english cocker spaniel|pug|russian blue|british shorthair|boxer
+german_shorthaired_34.jpg,english cocker spaniel|chihuahua|russian blue|miniature pinscher|american pit bull terrier|boxer
+german_shorthaired_35.jpg,russian blue|british shorthair|english setter|boxer
+german_shorthaired_36.jpg,russian blue|english setter|british shorthair|american pit bull terrier|boxer
+german_shorthaired_37.jpg,samoyed|russian blue|english setter|british shorthair|boxer
+german_shorthaired_38.jpg,english cocker spaniel|japanese chin|russian blue|british shorthair|american pit bull terrier|boxer
+german_shorthaired_41.jpg,english cocker spaniel|beagle|russian blue|miniature pinscher|boxer
+german_shorthaired_45.jpg,basset hound|russian blue|english setter|havanese|british shorthair|boxer
+german_shorthaired_46.jpg,english cocker spaniel|basset hound|leonberger|russian blue|miniature pinscher|boxer
+german_shorthaired_49.jpg,english cocker spaniel|abyssinian|russian blue|english setter|british shorthair|boxer
+german_shorthaired_56.jpg,boxer|russian blue|english setter|british shorthair|scottish terrier
+german_shorthaired_57.jpg,keeshond|russian blue|english setter|british shorthair|boxer
+german_shorthaired_59.jpg,english cocker spaniel|russian blue|saint bernard|english setter|british shorthair|boxer
+german_shorthaired_5.jpg,english cocker spaniel|basset hound|maine coon|yorkshire terrier|russian blue|boxer
+german_shorthaired_61.jpg,english cocker spaniel|american bulldog|russian blue|miniature pinscher|boxer
+german_shorthaired_66.jpg,english cocker spaniel|maine coon|abyssinian|russian blue|boxer
+german_shorthaired_69.jpg,english cocker spaniel|maine coon|russian blue|great pyrenees|boxer
+german_shorthaired_71.jpg,english cocker spaniel|basset hound|russian blue|british shorthair|boxer
+german_shorthaired_74.jpg,english cocker spaniel|boxer|russian blue|english setter|british shorthair|scottish terrier
+german_shorthaired_76.jpg,abyssinian|russian blue|english setter|british shorthair|boxer
+german_shorthaired_79.jpg,english cocker spaniel|newfoundland|russian blue|british shorthair|boxer
+german_shorthaired_7.jpg,english cocker spaniel|leonberger|maine coon|staffordshire bull terrier|russian blue|boxer
+german_shorthaired_87.jpg,english cocker spaniel|leonberger|russian blue|british shorthair|boxer
+german_shorthaired_88.jpg,english cocker spaniel|russian blue|english setter|british shorthair|boxer
+german_shorthaired_91.jpg,english cocker spaniel|wheaten terrier|russian blue|miniature pinscher|english setter|boxer
+german_shorthaired_92.jpg,maine coon|russian blue|english setter|birman|boxer
+german_shorthaired_95.jpg,english cocker spaniel|russian blue|miniature pinscher|english setter|boxer
+german_shorthaired_96.jpg,english cocker spaniel|maine coon|russian blue|english setter|birman|boxer
+great_pyrenees_197.jpg,newfoundland|bengal|leonberger|maine coon
+great_pyrenees_198.jpg,samoyed|leonberger|newfoundland|maine coon|shiba inu
+great_pyrenees_23.jpg,newfoundland|samoyed|leonberger|maine coon
+great_pyrenees_29.jpg,samoyed|leonberger|newfoundland|maine coon|english setter|egyptian mau
+great_pyrenees_33.jpg,samoyed|leonberger|newfoundland|saint bernard|ragdoll
+great_pyrenees_34.jpg,german shorthaired|samoyed|leonberger|newfoundland|saint bernard
+great_pyrenees_39.jpg,samoyed|leonberger|newfoundland|maine coon|miniature pinscher
+great_pyrenees_45.jpg,samoyed|leonberger|newfoundland|abyssinian|bengal|english setter
+great_pyrenees_48.jpg,english cocker spaniel|samoyed|leonberger|newfoundland|maine coon
+great_pyrenees_52.jpg,sphynx|samoyed|leonberger|newfoundland|maine coon
+great_pyrenees_57.jpg,american bulldog|samoyed|leonberger|newfoundland|maine coon
+great_pyrenees_58.jpg,newfoundland|samoyed|leonberger|english setter
+great_pyrenees_61.jpg,samoyed|leonberger|newfoundland|saint bernard|english setter
+great_pyrenees_65.jpg,samoyed|leonberger|newfoundland|maine coon|american pit bull terrier
+great_pyrenees_66.jpg,samoyed|leonberger|newfoundland|saint bernard|persian|english setter
+great_pyrenees_6.jpg,samoyed|leonberger|newfoundland|staffordshire bull terrier
+great_pyrenees_70.jpg,german shorthaired|samoyed|leonberger|newfoundland|abyssinian
+great_pyrenees_76.jpg,newfoundland|samoyed|leonberger|maine coon
+great_pyrenees_98.jpg,samoyed|leonberger|newfoundland|maine coon|bombay|english setter
+great_pyrenees_99.jpg,samoyed|leonberger|newfoundland|abyssinian|english setter|british shorthair
+great_pyrenees_9.jpg,abyssinian|samoyed|leonberger|newfoundland
+havanese_191.jpg,english cocker spaniel|leonberger|maine coon|pomeranian|ragdoll
+havanese_192.jpg,english cocker spaniel|japanese chin|chihuahua|abyssinian|pomeranian|ragdoll
+havanese_194.jpg,english cocker spaniel|sphynx|abyssinian|havanese|pomeranian|ragdoll
+havanese_197.jpg,japanese chin|abyssinian|bengal|yorkshire terrier|pomeranian|ragdoll
+havanese_1.jpg,english cocker spaniel|beagle|abyssinian|pomeranian|ragdoll
+havanese_26.jpg,basset hound|japanese chin|yorkshire terrier|pomeranian|ragdoll|egyptian mau
+havanese_28.jpg,abyssinian|bombay|miniature pinscher|pomeranian|ragdoll|boxer
+havanese_2.jpg,basset hound|wheaten terrier|yorkshire terrier|pomeranian|ragdoll
+havanese_30.jpg,chihuahua|abyssinian|keeshond|wheaten terrier|pomeranian|ragdoll
+havanese_36.jpg,maine coon|miniature pinscher|pomeranian|ragdoll|great pyrenees
+havanese_38.jpg,japanese chin|leonberger|abyssinian|wheaten terrier|pomeranian|ragdoll
+havanese_43.jpg,maine coon|abyssinian|yorkshire terrier|pomeranian|ragdoll
+havanese_44.jpg,english cocker spaniel|basset hound|american bulldog|pomeranian|ragdoll
+havanese_45.jpg,english cocker spaniel|staffordshire bull terrier|siamese|miniature pinscher|pomeranian|ragdoll
+havanese_48.jpg,sphynx|abyssinian|yorkshire terrier|pomeranian|ragdoll
+havanese_50.jpg,pug|abyssinian|pomeranian|birman|ragdoll
+havanese_58.jpg,bengal|miniature pinscher|pomeranian|ragdoll|great pyrenees
+havanese_61.jpg,newfoundland|abyssinian|keeshond|yorkshire terrier|pomeranian|ragdoll
+havanese_72.jpg,english cocker spaniel|basset hound|abyssinian|pomeranian|ragdoll
+havanese_78.jpg,english cocker spaniel|basset hound|samoyed|pomeranian|ragdoll
+havanese_84.jpg,abyssinian|yorkshire terrier|saint bernard|pomeranian|ragdoll
+havanese_86.jpg,english cocker spaniel|basset hound|japanese chin|chihuahua|pomeranian|ragdoll
+havanese_88.jpg,german shorthaired|abyssinian|yorkshire terrier|pomeranian|ragdoll
+havanese_91.jpg,abyssinian|wheaten terrier|pomeranian|ragdoll|american pit bull terrier
+havanese_93.jpg,abyssinian|keeshond|wheaten terrier|pomeranian|ragdoll|boxer
+havanese_96.jpg,pomeranian|basset hound|yorkshire terrier|ragdoll
+japanese_chin_30.jpg,sphynx|chihuahua|abyssinian|shiba inu|pomeranian
+japanese_chin_31.jpg,pomeranian|birman|shiba inu|havanese
+japanese_chin_33.jpg,pomeranian|shiba inu|bombay|ragdoll
+japanese_chin_37.jpg,pomeranian|shiba inu|saint bernard
+japanese_chin_40.jpg,pomeranian|shiba inu|miniature pinscher
+japanese_chin_7.jpg,pomeranian|shiba inu|pug
+keeshond_193.jpg,pomeranian|birman|samoyed|maine coon
+keeshond_198.jpg,pomeranian|leonberger|samoyed|english cocker spaniel
+keeshond_23.jpg,pomeranian|samoyed
+keeshond_24.jpg,pomeranian|shiba inu|samoyed|ragdoll
+keeshond_26.jpg,pomeranian|samoyed|miniature pinscher
+keeshond_31.jpg,pomeranian|ragdoll|samoyed
+keeshond_34.jpg,pomeranian|samoyed|maine coon|scottish terrier
+keeshond_37.jpg,pomeranian|samoyed|miniature pinscher|leonberger
+keeshond_38.jpg,pomeranian|samoyed|chihuahua|scottish terrier
+keeshond_40.jpg,pomeranian|basset hound|samoyed|leonberger
+keeshond_44.jpg,pomeranian|abyssinian|samoyed|leonberger
+keeshond_48.jpg,pomeranian|wheaten terrier|samoyed
+keeshond_52.jpg,samoyed|leonberger|newfoundland|abyssinian|pomeranian
+keeshond_53.jpg,pomeranian|samoyed|scottish terrier
+keeshond_56.jpg,pomeranian|birman|samoyed
+keeshond_5.jpg,pomeranian|samoyed|siamese
+keeshond_61.jpg,pomeranian|ragdoll|samoyed|staffordshire bull terrier
+keeshond_66.jpg,samoyed|chihuahua|newfoundland|abyssinian|pomeranian
+keeshond_6.jpg,pomeranian|abyssinian|samoyed
+keeshond_71.jpg,samoyed|leonberger|abyssinian|pomeranian|great pyrenees
+keeshond_75.jpg,pomeranian|samoyed|staffordshire bull terrier
+keeshond_78.jpg,pomeranian|bombay|samoyed|scottish terrier
+keeshond_79.jpg,pomeranian|american bulldog|samoyed|leonberger
+keeshond_81.jpg,pomeranian|samoyed|newfoundland
+keeshond_83.jpg,pomeranian|wheaten terrier|ragdoll|samoyed
+keeshond_86.jpg,pomeranian|samoyed|havanese
+keeshond_94.jpg,pomeranian|german shorthaired|samoyed|maine coon
+keeshond_96.jpg,pomeranian|shiba inu|samoyed|scottish terrier
+keeshond_97.jpg,pomeranian|abyssinian|samoyed|siamese
+leonberger_194.jpg,maine coon|abyssinian|pomeranian|newfoundland
+leonberger_21.jpg,pomeranian|newfoundland
+leonberger_27.jpg,pomeranian|abyssinian|newfoundland|scottish terrier
+leonberger_29.jpg,newfoundland|wheaten terrier|persian|pomeranian|great pyrenees
+leonberger_34.jpg,pomeranian|wheaten terrier|newfoundland
+leonberger_40.jpg,samoyed|newfoundland|maine coon|pomeranian|boxer
+leonberger_42.jpg,newfoundland|abyssinian|wheaten terrier|yorkshire terrier|pomeranian
+leonberger_43.jpg,pomeranian|abyssinian|siamese|newfoundland
+leonberger_48.jpg,pomeranian|abyssinian|great pyrenees|newfoundland
+leonberger_49.jpg,newfoundland|wheaten terrier|pomeranian|maine coon
+leonberger_4.jpg,pomeranian|english setter|newfoundland
+leonberger_52.jpg,pomeranian|keeshond|newfoundland
+leonberger_56.jpg,pomeranian|abyssinian|sphynx|newfoundland
+leonberger_57.jpg,newfoundland|abyssinian|havanese|pomeranian|boxer
+leonberger_58.jpg,pomeranian|english setter|newfoundland
+leonberger_59.jpg,pomeranian|abyssinian|newfoundland
+leonberger_5.jpg,newfoundland|abyssinian|shiba inu|wheaten terrier|pomeranian
+leonberger_61.jpg,pomeranian|siamese|newfoundland
+leonberger_63.jpg,pomeranian|basset hound|newfoundland
+leonberger_64.jpg,pomeranian|pug|newfoundland
+leonberger_65.jpg,newfoundland|maine coon|yorkshire terrier|pomeranian|boxer
+leonberger_66.jpg,pomeranian|egyptian mau|newfoundland
+leonberger_75.jpg,pomeranian|abyssinian|newfoundland|havanese
+leonberger_76.jpg,pomeranian|sphynx|newfoundland
+leonberger_7.jpg,pomeranian|abyssinian|japanese chin|newfoundland
+leonberger_80.jpg,pomeranian|newfoundland|boxer
+leonberger_85.jpg,pomeranian|keeshond|american pit bull terrier|newfoundland
+leonberger_87.jpg,pomeranian|abyssinian|shiba inu|newfoundland
+leonberger_88.jpg,newfoundland|abyssinian|pomeranian|egyptian mau|boxer
+leonberger_89.jpg,pomeranian|abyssinian|american bulldog|newfoundland
+leonberger_8.jpg,pomeranian|newfoundland|boxer
+leonberger_92.jpg,newfoundland|abyssinian|keeshond|siamese|pomeranian
+leonberger_94.jpg,pomeranian|abyssinian|american pit bull terrier|newfoundland
+leonberger_95.jpg,pomeranian|shiba inu|saint bernard|newfoundland
+leonberger_97.jpg,pomeranian|abyssinian|saint bernard|newfoundland
+leonberger_98.jpg,pomeranian|saint bernard|newfoundland|beagle
+leonberger_9.jpg,newfoundland|abyssinian|bombay|pomeranian|boxer
+Maine_Coon_242.jpg,abyssinian|ragdoll|persian|leonberger
+Maine_Coon_254.jpg,bengal|ragdoll|persian
+Maine_Coon_25.jpg,bengal|ragdoll|persian|beagle
+Maine_Coon_270.jpg,wheaten terrier|ragdoll|persian|bengal
+Maine_Coon_29.jpg,ragdoll|persian|english setter
+Maine_Coon_30.jpg,ragdoll|persian
+Maine_Coon_32.jpg,ragdoll|persian|leonberger
+Maine_Coon_35.jpg,ragdoll|persian|havanese
+Maine_Coon_39.jpg,ragdoll|persian|leonberger
+Maine_Coon_50.jpg,ragdoll|samoyed|persian|british shorthair
+Maine_Coon_54.jpg,ragdoll|persian|egyptian mau
+Maine_Coon_61.jpg,sphynx|ragdoll|persian|bengal
+Maine_Coon_69.jpg,german shorthaired|ragdoll|british shorthair|persian
+Maine_Coon_76.jpg,yorkshire terrier|ragdoll|persian
+Maine_Coon_8.jpg,ragdoll|persian|siamese|egyptian mau
+miniature_pinscher_191.jpg,pug|chihuahua|pomeranian|british shorthair|boxer
+miniature_pinscher_192.jpg,persian|yorkshire terrier|chihuahua|pug
+miniature_pinscher_196.jpg,shiba inu|american bulldog|pug|chihuahua
+miniature_pinscher_197.jpg,pug|chihuahua|russian blue|pomeranian|american pit bull terrier
+miniature_pinscher_199.jpg,basset hound|american bulldog|pug|chihuahua|boxer
+miniature_pinscher_200.jpg,american bulldog|pug|chihuahua|yorkshire terrier|american pit bull terrier|boxer
+miniature_pinscher_20.jpg,english cocker spaniel|shiba inu|pug|chihuahua
+miniature_pinscher_21.jpg,pomeranian|keeshond|pug|chihuahua
+miniature_pinscher_2.jpg,pomeranian|pug|chihuahua|boxer
+miniature_pinscher_37.jpg,american bulldog|pug|chihuahua|havanese|boxer
+miniature_pinscher_40.jpg,pug|chihuahua|maine coon|havanese|boxer
+miniature_pinscher_41.jpg,pomeranian|pug|chihuahua|scottish terrier
+miniature_pinscher_42.jpg,leonberger|abyssinian|pug|chihuahua
+miniature_pinscher_45.jpg,pomeranian|great pyrenees|chihuahua|pug
+miniature_pinscher_46.jpg,pug|chihuahua|abyssinian|yorkshire terrier|bombay
+miniature_pinscher_53.jpg,pomeranian|pug|persian|chihuahua
+miniature_pinscher_55.jpg,pomeranian|pug|chihuahua|scottish terrier
+miniature_pinscher_5.jpg,pomeranian|basset hound|pug|chihuahua
+miniature_pinscher_6.jpg,american bulldog|pug|chihuahua
+miniature_pinscher_70.jpg,sphynx|pug|chihuahua|pomeranian|boxer
+miniature_pinscher_73.jpg,american bulldog|pug|chihuahua|persian|boxer
+miniature_pinscher_80.jpg,bengal|american bulldog|pug|chihuahua
+miniature_pinscher_86.jpg,pug|chihuahua|staffordshire bull terrier|yorkshire terrier|pomeranian|british shorthair
+miniature_pinscher_88.jpg,abyssinian|pug|chihuahua|maine coon
+miniature_pinscher_89.jpg,pomeranian|pug|chihuahua|russian blue
+miniature_pinscher_92.jpg,pug|chihuahua|maine coon
+newfoundland_194.jpg,saint bernard|leonberger|staffordshire bull terrier
+newfoundland_19.jpg,english cocker spaniel|siamese|saint bernard|leonberger
+newfoundland_1.jpg,saint bernard|miniature pinscher|leonberger
+newfoundland_21.jpg,keeshond|saint bernard|leonberger
+newfoundland_22.jpg,keeshond|saint bernard|leonberger
+newfoundland_24.jpg,chihuahua|saint bernard|leonberger
+newfoundland_2.jpg,saint bernard|miniature pinscher|leonberger
+newfoundland_33.jpg,basset hound|saint bernard|leonberger
+newfoundland_37.jpg,english cocker spaniel|saint bernard|leonberger|great pyrenees
+newfoundland_40.jpg,english cocker spaniel|saint bernard|persian|leonberger
+newfoundland_41.jpg,ragdoll|saint bernard|leonberger
+newfoundland_43.jpg,american bulldog|saint bernard|leonberger
+newfoundland_46.jpg,english cocker spaniel|abyssinian|saint bernard|leonberger
+newfoundland_47.jpg,saint bernard|leonberger|staffordshire bull terrier
+newfoundland_51.jpg,english cocker spaniel|saint bernard|leonberger
+newfoundland_52.jpg,english cocker spaniel|shiba inu|saint bernard|leonberger
+newfoundland_57.jpg,wheaten terrier|keeshond|saint bernard|leonberger
+newfoundland_60.jpg,american bulldog|saint bernard|leonberger
+newfoundland_61.jpg,english cocker spaniel|saint bernard|leonberger
+newfoundland_67.jpg,saint bernard|leonberger|samoyed
+newfoundland_70.jpg,english cocker spaniel|saint bernard|leonberger|egyptian mau
+newfoundland_75.jpg,german shorthaired|saint bernard|leonberger
+newfoundland_76.jpg,english cocker spaniel|saint bernard|yorkshire terrier|leonberger
+newfoundland_77.jpg,keeshond|saint bernard|leonberger
+newfoundland_78.jpg,english cocker spaniel|saint bernard|japanese chin|leonberger
+newfoundland_79.jpg,birman|saint bernard|leonberger
+newfoundland_88.jpg,bombay|saint bernard|leonberger
+newfoundland_91.jpg,leonberger|keeshond|bombay|saint bernard|great pyrenees
+newfoundland_94.jpg,english cocker spaniel|saint bernard|persian|leonberger
+newfoundland_96.jpg,american bulldog|saint bernard|leonberger
+newfoundland_98.jpg,siamese|saint bernard|leonberger
+newfoundland_99.jpg,bombay|saint bernard|keeshond|leonberger
+Persian_21.jpg,chihuahua|pomeranian|birman|ragdoll|british shorthair
+Persian_22.jpg,abyssinian|pomeranian|birman|ragdoll|british shorthair
+Persian_259.jpg,basset hound|pomeranian|birman|ragdoll|british shorthair
+Persian_260.jpg,pomeranian|birman|ragdoll|boxer
+Persian_262.jpg,russian blue|pomeranian|birman|ragdoll|british shorthair
+Persian_266.jpg,russian blue|pomeranian|birman|ragdoll|british shorthair
+Persian_267.jpg,maine coon|pomeranian|birman|ragdoll|egyptian mau
+Persian_2.jpg,maine coon|bombay|pomeranian|birman|ragdoll
+Persian_31.jpg,basset hound|pomeranian|birman|ragdoll|british shorthair
+Persian_36.jpg,sphynx|newfoundland|russian blue|pomeranian|birman|ragdoll
+Persian_3.jpg,pomeranian|birman|ragdoll|siamese
+Persian_44.jpg,pomeranian|birman|ragdoll|british shorthair
+Persian_59.jpg,pomeranian|birman|ragdoll|american pit bull terrier
+Persian_5.jpg,pomeranian|birman|ragdoll|havanese
+Persian_60.jpg,maine coon|miniature pinscher|pomeranian|birman|ragdoll
+Persian_62.jpg,maine coon|pomeranian|birman|ragdoll|british shorthair
+Persian_63.jpg,maine coon|saint bernard|pomeranian|birman|ragdoll
+Persian_65.jpg,pomeranian|birman|ragdoll|german shorthaired
+Persian_67.jpg,staffordshire bull terrier|pomeranian|birman|ragdoll|british shorthair
+Persian_70.jpg,pomeranian|birman|ragdoll|keeshond
+Persian_74.jpg,pomeranian|birman|ragdoll|beagle
+Persian_75.jpg,pomeranian|birman|ragdoll|wheaten terrier
+Persian_82.jpg,english cocker spaniel|birman|ragdoll|pomeranian
+Persian_87.jpg,keeshond|pomeranian|birman|ragdoll|british shorthair
+Persian_90.jpg,american bulldog|pomeranian|birman|ragdoll|british shorthair
+Persian_94.jpg,maine coon|miniature pinscher|pomeranian|birman|ragdoll
+Persian_95.jpg,keeshond|pomeranian|birman|ragdoll|british shorthair
+Persian_98.jpg,pomeranian|birman|ragdoll|japanese chin
+Persian_99.jpg,pomeranian|birman|ragdoll|scottish terrier
+pomeranian_194.jpg,samoyed|pug|chihuahua|abyssinian|shiba inu|miniature pinscher
+pomeranian_23.jpg,pug|japanese chin|chihuahua|shiba inu|miniature pinscher
+pomeranian_26.jpg,shiba inu|keeshond|persian|pug
+pomeranian_29.jpg,pug|japanese chin|chihuahua|shiba inu|staffordshire bull terrier|miniature pinscher
+pomeranian_32.jpg,pug|japanese chin|chihuahua|shiba inu|miniature pinscher|british shorthair
+pomeranian_40.jpg,pug|japanese chin|chihuahua|shiba inu|miniature pinscher
+pomeranian_46.jpg,pug|abyssinian|shiba inu|keeshond|persian
+pomeranian_49.jpg,pug|japanese chin|chihuahua|shiba inu|bombay|persian
+pomeranian_4.jpg,american bulldog|pug|japanese chin|samoyed|shiba inu|miniature pinscher
+pomeranian_50.jpg,shiba inu|keeshond|miniature pinscher|pug
+pomeranian_55.jpg,samoyed|pug|leonberger|shiba inu|miniature pinscher
+pomeranian_57.jpg,japanese chin|shiba inu|pug|miniature pinscher
+pomeranian_58.jpg,pug|chihuahua|bengal|shiba inu|keeshond|persian
+pomeranian_59.jpg,german shorthaired|pug|shiba inu|keeshond|miniature pinscher
+pomeranian_61.jpg,pug|japanese chin|chihuahua|shiba inu|miniature pinscher
+pomeranian_64.jpg,pug|japanese chin|samoyed|abyssinian|shiba inu|miniature pinscher
+pomeranian_71.jpg,pug|chihuahua|shiba inu|keeshond|miniature pinscher|havanese
+pomeranian_73.jpg,pug|chihuahua|shiba inu|keeshond|yorkshire terrier|miniature pinscher
+pomeranian_74.jpg,pug|japanese chin|shiba inu|miniature pinscher|havanese
+pomeranian_75.jpg,pug|japanese chin|chihuahua|shiba inu|bombay|miniature pinscher
+pomeranian_78.jpg,pug|japanese chin|chihuahua|shiba inu|miniature pinscher
+pomeranian_81.jpg,pug|japanese chin|chihuahua|shiba inu|miniature pinscher|american pit bull terrier
+pomeranian_85.jpg,pug|japanese chin|maine coon|shiba inu|miniature pinscher
+pomeranian_8.jpg,pug|japanese chin|chihuahua|beagle|shiba inu|miniature pinscher
+pomeranian_97.jpg,pug|japanese chin|shiba inu|saint bernard|miniature pinscher|havanese
+pomeranian_99.jpg,pug|maine coon|shiba inu|keeshond|miniature pinscher
+pomeranian_9.jpg,pug|leonberger|shiba inu|keeshond|miniature pinscher
+pug_193.jpg,pomeranian|american bulldog|japanese chin|boxer
+pug_199.jpg,english cocker spaniel|pomeranian|american bulldog|boxer
+pug_201.jpg,pomeranian|american bulldog|english setter|boxer
+pug_203.jpg,american bulldog|saint bernard|pomeranian|british shorthair|boxer
+pug_22.jpg,basset hound|american bulldog|beagle|pomeranian|boxer
+pug_25.jpg,russian blue|pomeranian|american bulldog|boxer
+pug_31.jpg,german shorthaired|basset hound|american bulldog|pomeranian|british shorthair|boxer
+pug_32.jpg,basset hound|american bulldog|chihuahua|pomeranian|boxer
+pug_33.jpg,basset hound|american bulldog|japanese chin|pomeranian|boxer
+pug_37.jpg,pomeranian|american bulldog|staffordshire bull terrier|english setter
+pug_39.jpg,pomeranian|american bulldog|yorkshire terrier|boxer
+pug_43.jpg,pomeranian|american bulldog|miniature pinscher|boxer
+pug_48.jpg,german shorthaired|american bulldog|pomeranian|british shorthair|boxer
+pug_51.jpg,american bulldog|japanese chin|havanese|pomeranian|boxer
+pug_52.jpg,american bulldog|abyssinian|siamese|pomeranian|boxer
+pug_54.jpg,american bulldog|keeshond|pomeranian|british shorthair|boxer
+pug_57.jpg,english cocker spaniel|pomeranian|american bulldog|boxer
+pug_60.jpg,basset hound|american bulldog|siamese|pomeranian|boxer
+pug_62.jpg,american bulldog|pomeranian|ragdoll|british shorthair|boxer
+pug_64.jpg,basset hound|american bulldog|english setter|pomeranian|boxer
+pug_66.jpg,pomeranian|american bulldog|japanese chin|boxer
+pug_69.jpg,pomeranian|basset hound|american bulldog|boxer
+pug_70.jpg,basset hound|american bulldog|english setter|pomeranian|british shorthair|boxer
+pug_72.jpg,basset hound|american bulldog|chihuahua|pomeranian|british shorthair|boxer
+pug_7.jpg,basset hound|american bulldog|newfoundland|pomeranian|boxer
+pug_80.jpg,american bulldog|leonberger|newfoundland|staffordshire bull terrier|pomeranian
+pug_81.jpg,pomeranian|american bulldog|great pyrenees|boxer
+pug_82.jpg,pomeranian|american bulldog|newfoundland|boxer
+pug_84.jpg,american bulldog|leonberger|pomeranian|british shorthair|boxer
+pug_86.jpg,pomeranian|american bulldog|egyptian mau|boxer
+pug_88.jpg,pomeranian|boxer|american bulldog|beagle
+pug_91.jpg,pomeranian|american bulldog|chihuahua|boxer
+pug_93.jpg,basset hound|american bulldog|siamese|pomeranian|british shorthair|boxer
+pug_94.jpg,american bulldog|japanese chin|shiba inu|pomeranian|boxer
+pug_95.jpg,american bulldog|japanese chin|bengal|pomeranian|boxer
+pug_96.jpg,pomeranian|sphynx|american bulldog|boxer
+pug_98.jpg,english cocker spaniel|american bulldog|pomeranian|british shorthair|boxer
+Ragdoll_204.jpg,russian blue|birman|siamese|maine coon
+Ragdoll_20.jpg,russian blue|birman|keeshond|maine coon
+Ragdoll_228.jpg,russian blue|birman|siamese|maine coon
+Ragdoll_255.jpg,maine coon|wheaten terrier|siamese|russian blue|birman
+Ragdoll_257.jpg,german shorthaired|maine coon|siamese|russian blue|birman
+Ragdoll_27.jpg,sphynx|maine coon|siamese|russian blue|persian|birman
+Ragdoll_2.jpg,maine coon|siamese|russian blue|birman|egyptian mau
+Ragdoll_33.jpg,russian blue|birman|great pyrenees|maine coon
+Ragdoll_3.jpg,german shorthaired|maine coon|siamese|russian blue|birman
+Ragdoll_41.jpg,maine coon|siamese|russian blue|persian|birman|scottish terrier
+Ragdoll_47.jpg,maine coon|siamese|russian blue|havanese|birman
+Ragdoll_48.jpg,english cocker spaniel|maine coon|siamese|russian blue|birman
+Ragdoll_49.jpg,russian blue|birman|english setter|maine coon
+Ragdoll_54.jpg,russian blue|birman|american bulldog|maine coon
+Ragdoll_57.jpg,russian blue|birman|siamese|maine coon
+Ragdoll_64.jpg,maine coon|siamese|russian blue|birman|boxer
+Ragdoll_69.jpg,pug|maine coon|siamese|russian blue|birman
+Ragdoll_6.jpg,russian blue|birman|siamese|maine coon
+Ragdoll_76.jpg,leonberger|maine coon|siamese|russian blue|birman
+Ragdoll_78.jpg,maine coon|siamese|russian blue|havanese|birman
+Ragdoll_7.jpg,maine coon|bengal|siamese|russian blue|birman
+Ragdoll_80.jpg,russian blue|birman|maine coon
+Ragdoll_84.jpg,russian blue|birman|chihuahua|maine coon
+Ragdoll_85.jpg,maine coon|beagle|siamese|russian blue|birman
+Ragdoll_87.jpg,maine coon|siamese|russian blue|havanese|birman
+Ragdoll_88.jpg,maine coon|siamese|russian blue|birman|great pyrenees
+Ragdoll_8.jpg,maine coon|siamese|russian blue|bombay|birman
+Ragdoll_92.jpg,russian blue|birman|miniature pinscher|maine coon
+Ragdoll_95.jpg,russian blue|birman|american pit bull terrier|maine coon
+Ragdoll_96.jpg,maine coon|siamese|russian blue|birman|american pit bull terrier
+Ragdoll_9.jpg,maine coon|siamese|russian blue|miniature pinscher|birman
+Russian_Blue_203.jpg,pomeranian|ragdoll|british shorthair|japanese chin
+Russian_Blue_205.jpg,basset hound|pomeranian|ragdoll|british shorthair|egyptian mau
+Russian_Blue_207.jpg,miniature pinscher|pomeranian|ragdoll|british shorthair|egyptian mau
+Russian_Blue_208.jpg,bombay|pomeranian|ragdoll|british shorthair|egyptian mau
+Russian_Blue_212.jpg,sphynx|siamese|pomeranian|british shorthair|egyptian mau
+Russian_Blue_216.jpg,pomeranian|basset hound|ragdoll|british shorthair
+Russian_Blue_220.jpg,pomeranian|bombay|british shorthair
+Russian_Blue_226.jpg,pomeranian|abyssinian|british shorthair|newfoundland
+Russian_Blue_228.jpg,pomeranian|ragdoll|british shorthair|maine coon
+Russian_Blue_236.jpg,saint bernard|pomeranian|ragdoll|british shorthair
+Russian_Blue_239.jpg,pomeranian|ragdoll|british shorthair|boxer
+Russian_Blue_258.jpg,pomeranian|ragdoll|british shorthair|chihuahua
+Russian_Blue_263.jpg,newfoundland|siamese|pomeranian|ragdoll|british shorthair
+Russian_Blue_264.jpg,pomeranian|ragdoll|british shorthair|japanese chin
+Russian_Blue_27.jpg,pug|siamese|pomeranian|british shorthair|egyptian mau
+Russian_Blue_28.jpg,pomeranian|ragdoll|british shorthair|keeshond
+Russian_Blue_29.jpg,pomeranian|ragdoll|british shorthair|english setter
+Russian_Blue_32.jpg,pomeranian|shiba inu|british shorthair|keeshond
+Russian_Blue_33.jpg,pomeranian|ragdoll|british shorthair|leonberger
+Russian_Blue_34.jpg,pomeranian|ragdoll|british shorthair|american pit bull terrier
+Russian_Blue_44.jpg,abyssinian|pomeranian|ragdoll|british shorthair|egyptian mau
+Russian_Blue_45.jpg,havanese|pomeranian|ragdoll|british shorthair|egyptian mau
+Russian_Blue_47.jpg,basset hound|abyssinian|pomeranian|british shorthair|egyptian mau
+Russian_Blue_48.jpg,maine coon|pomeranian|ragdoll|british shorthair|egyptian mau
+Russian_Blue_49.jpg,newfoundland|pomeranian|birman|british shorthair|egyptian mau
+Russian_Blue_54.jpg,pomeranian|birman|british shorthair|scottish terrier
+Russian_Blue_55.jpg,bengal|abyssinian|pomeranian|ragdoll|british shorthair
+Russian_Blue_57.jpg,english cocker spaniel|pomeranian|ragdoll|british shorthair|egyptian mau
+Russian_Blue_60.jpg,pomeranian|ragdoll|british shorthair|samoyed
+Russian_Blue_61.jpg,pomeranian|ragdoll|british shorthair|maine coon
+Russian_Blue_62.jpg,leonberger|siamese|pomeranian|british shorthair|egyptian mau
+Russian_Blue_66.jpg,pomeranian|ragdoll|british shorthair|egyptian mau
+Russian_Blue_70.jpg,pomeranian|birman|british shorthair|siamese
+Russian_Blue_78.jpg,yorkshire terrier|pomeranian|ragdoll|british shorthair|egyptian mau
+Russian_Blue_80.jpg,staffordshire bull terrier|pomeranian|ragdoll|british shorthair|egyptian mau
+Russian_Blue_89.jpg,pomeranian|abyssinian|ragdoll|british shorthair
+Russian_Blue_90.jpg,pomeranian|birman|british shorthair|english setter
+Russian_Blue_93.jpg,yorkshire terrier|pomeranian|ragdoll|british shorthair|egyptian mau
+saint_bernard_191.jpg,chihuahua|newfoundland|beagle
+saint_bernard_192.jpg,american bulldog|leonberger|newfoundland
+saint_bernard_194.jpg,boxer|newfoundland|scottish terrier
+saint_bernard_195.jpg,newfoundland|havanese
+saint_bernard_196.jpg,american bulldog|chihuahua|leonberger|newfoundland|havanese
+saint_bernard_19.jpg,staffordshire bull terrier|newfoundland|boxer
+saint_bernard_20.jpg,miniature pinscher|newfoundland|boxer
+saint_bernard_21.jpg,newfoundland|boxer
+saint_bernard_22.jpg,english cocker spaniel|english setter|newfoundland
+saint_bernard_23.jpg,american bulldog|bombay|newfoundland
+saint_bernard_2.jpg,pomeranian|newfoundland
+saint_bernard_31.jpg,ragdoll|newfoundland|beagle
+saint_bernard_3.jpg,english cocker spaniel|newfoundland
+saint_bernard_43.jpg,english setter|leonberger|newfoundland|boxer
+saint_bernard_44.jpg,staffordshire bull terrier|leonberger|newfoundland|boxer
+saint_bernard_48.jpg,english setter|newfoundland|boxer
+saint_bernard_4.jpg,egyptian mau|leonberger|newfoundland
+saint_bernard_50.jpg,keeshond|newfoundland
+saint_bernard_51.jpg,american bulldog|newfoundland
+saint_bernard_52.jpg,chihuahua|newfoundland|boxer
+saint_bernard_62.jpg,english setter|siamese|newfoundland
+saint_bernard_63.jpg,newfoundland|havanese
+saint_bernard_64.jpg,basset hound|leonberger|newfoundland
+saint_bernard_65.jpg,persian|newfoundland|boxer
+saint_bernard_66.jpg,leonberger|newfoundland|beagle
+saint_bernard_67.jpg,english setter|newfoundland|beagle
+saint_bernard_6.jpg,leonberger|newfoundland|beagle
+saint_bernard_70.jpg,bengal|american bulldog|newfoundland|boxer
+saint_bernard_71.jpg,english setter|leonberger|newfoundland|beagle
+saint_bernard_72.jpg,keeshond|great pyrenees|newfoundland|boxer
+saint_bernard_79.jpg,persian|newfoundland|beagle
+saint_bernard_86.jpg,shiba inu|newfoundland
+saint_bernard_95.jpg,russian blue|great pyrenees|newfoundland
+saint_bernard_96.jpg,great pyrenees|siamese|newfoundland
+saint_bernard_99.jpg,sphynx|japanese chin|newfoundland
+saint_bernard_9.jpg,egyptian mau|newfoundland|boxer
+samoyed_31.jpg,german shorthaired|japanese chin|abyssinian|keeshond|pomeranian|great pyrenees
+samoyed_35.jpg,pomeranian|keeshond|great pyrenees|japanese chin
+samoyed_4.jpg,japanese chin|abyssinian|pomeranian|great pyrenees|egyptian mau
+samoyed_63.jpg,japanese chin|maine coon|pomeranian|great pyrenees|boxer
+samoyed_64.jpg,pomeranian|great pyrenees|japanese chin|american pit bull terrier
+samoyed_67.jpg,japanese chin|newfoundland|abyssinian|pomeranian|great pyrenees
+samoyed_82.jpg,pomeranian|great pyrenees|japanese chin|boxer
+samoyed_83.jpg,pomeranian|great pyrenees|japanese chin|scottish terrier
+samoyed_86.jpg,japanese chin|abyssinian|keeshond|pomeranian|great pyrenees
+samoyed_89.jpg,pomeranian|german shorthaired|great pyrenees|japanese chin
+samoyed_91.jpg,japanese chin|abyssinian|staffordshire bull terrier|pomeranian|great pyrenees
+samoyed_97.jpg,japanese chin|abyssinian|shiba inu|pomeranian|great pyrenees|boxer
+samoyed_98.jpg,japanese chin|abyssinian|pomeranian|birman|great pyrenees
+scottish_terrier_193.jpg,samoyed|chihuahua|staffordshire bull terrier|yorkshire terrier|miniature pinscher|pomeranian
+scottish_terrier_198.jpg,wheaten terrier|staffordshire bull terrier|saint bernard|miniature pinscher|pomeranian|boxer
+scottish_terrier_199.jpg,english cocker spaniel|basset hound|wheaten terrier|yorkshire terrier|miniature pinscher|pomeranian
+scottish_terrier_21.jpg,samoyed|staffordshire bull terrier|yorkshire terrier|miniature pinscher|pomeranian|boxer
+scottish_terrier_22.jpg,newfoundland|wheaten terrier|staffordshire bull terrier|miniature pinscher|pomeranian
+scottish_terrier_24.jpg,pomeranian|yorkshire terrier|staffordshire bull terrier|miniature pinscher
+scottish_terrier_31.jpg,pug|staffordshire bull terrier|yorkshire terrier|miniature pinscher|pomeranian|boxer
+scottish_terrier_3.jpg,maine coon|wheaten terrier|staffordshire bull terrier|miniature pinscher|pomeranian
+scottish_terrier_40.jpg,pomeranian|yorkshire terrier|staffordshire bull terrier|miniature pinscher
+scottish_terrier_49.jpg,samoyed|staffordshire bull terrier|yorkshire terrier|miniature pinscher|pomeranian
+scottish_terrier_53.jpg,staffordshire bull terrier|yorkshire terrier|miniature pinscher|pomeranian|american pit bull terrier
+scottish_terrier_55.jpg,wheaten terrier|staffordshire bull terrier|yorkshire terrier|miniature pinscher|pomeranian
+scottish_terrier_59.jpg,german shorthaired|maine coon|yorkshire terrier|miniature pinscher|pomeranian|boxer
+scottish_terrier_65.jpg,pomeranian|yorkshire terrier|staffordshire bull terrier|miniature pinscher
+scottish_terrier_69.jpg,pomeranian|wheaten terrier|staffordshire bull terrier|miniature pinscher
+scottish_terrier_72.jpg,staffordshire bull terrier|yorkshire terrier|miniature pinscher|pomeranian|ragdoll|boxer
+scottish_terrier_73.jpg,maine coon|bengal|yorkshire terrier|miniature pinscher|pomeranian|boxer
+scottish_terrier_75.jpg,wheaten terrier|bengal|staffordshire bull terrier|yorkshire terrier|miniature pinscher|pomeranian
+scottish_terrier_77.jpg,staffordshire bull terrier|yorkshire terrier|miniature pinscher|pomeranian|great pyrenees|boxer
+scottish_terrier_86.jpg,pomeranian|wheaten terrier|basset hound|miniature pinscher
+scottish_terrier_91.jpg,wheaten terrier|staffordshire bull terrier|bombay|miniature pinscher|pomeranian|scottish terrier
+scottish_terrier_92.jpg,pomeranian|yorkshire terrier|shiba inu|miniature pinscher
+shiba_inu_205.jpg,pug|japanese chin|samoyed|maine coon|pomeranian
+shiba_inu_207.jpg,pomeranian|japanese chin|maine coon|boxer
+shiba_inu_22.jpg,german shorthaired|japanese chin|maine coon|pomeranian|boxer
+shiba_inu_25.jpg,pomeranian|japanese chin|maine coon|boxer
+shiba_inu_26.jpg,pomeranian|japanese chin|maine coon|boxer
+shiba_inu_36.jpg,pomeranian|samoyed|japanese chin|maine coon
+shiba_inu_39.jpg,japanese chin|maine coon|havanese|pomeranian|boxer
+shiba_inu_42.jpg,pomeranian|saint bernard|japanese chin|maine coon
+shiba_inu_55.jpg,japanese chin|maine coon|beagle|pomeranian|boxer
+shiba_inu_5.jpg,pomeranian|miniature pinscher|japanese chin|maine coon
+shiba_inu_60.jpg,pomeranian|saint bernard|japanese chin|maine coon
+shiba_inu_69.jpg,pomeranian|samoyed|japanese chin|maine coon
+shiba_inu_78.jpg,japanese chin|newfoundland|maine coon|pomeranian|boxer
+shiba_inu_79.jpg,japanese chin|maine coon|pomeranian|birman|boxer
+shiba_inu_82.jpg,pomeranian|japanese chin|maine coon|scottish terrier
+shiba_inu_85.jpg,japanese chin|maine coon|scottish terrier|pomeranian|boxer
+Siamese_209.jpg,abyssinian|russian blue|bombay|pomeranian|birman|ragdoll
+Siamese_20.jpg,abyssinian|russian blue|english setter|pomeranian|ragdoll
+Siamese_216.jpg,russian blue|abyssinian|ragdoll|pomeranian
+Siamese_222.jpg,abyssinian|keeshond|pomeranian|birman|ragdoll
+Siamese_225.jpg,sphynx|abyssinian|pomeranian|birman|ragdoll
+Siamese_227.jpg,sphynx|abyssinian|russian blue|pomeranian|birman|ragdoll
+Siamese_234.jpg,sphynx|abyssinian|staffordshire bull terrier|russian blue|pomeranian|ragdoll
+Siamese_247.jpg,pomeranian|abyssinian|ragdoll|birman
+Siamese_257.jpg,abyssinian|staffordshire bull terrier|pomeranian|birman|ragdoll
+Siamese_26.jpg,samoyed|abyssinian|russian blue|pomeranian|birman|ragdoll
+Siamese_28.jpg,abyssinian|yorkshire terrier|pomeranian|birman|ragdoll
+Siamese_29.jpg,chihuahua|abyssinian|russian blue|pomeranian|birman|ragdoll
+Siamese_30.jpg,sphynx|samoyed|abyssinian|russian blue|pomeranian|ragdoll
+Siamese_36.jpg,abyssinian|miniature pinscher|pomeranian|birman|ragdoll
+Siamese_37.jpg,abyssinian|persian|pomeranian|birman|ragdoll
+Siamese_40.jpg,german shorthaired|abyssinian|russian blue|pomeranian|birman|ragdoll
+Siamese_41.jpg,abyssinian|yorkshire terrier|russian blue|pomeranian|birman|ragdoll
+Siamese_42.jpg,newfoundland|abyssinian|russian blue|pomeranian|birman|ragdoll
+Siamese_44.jpg,abyssinian|yorkshire terrier|russian blue|pomeranian|birman|ragdoll
+Siamese_47.jpg,abyssinian|wheaten terrier|russian blue|pomeranian|birman|ragdoll
+Siamese_52.jpg,abyssinian|russian blue|pomeranian|birman|ragdoll
+Siamese_57.jpg,american bulldog|abyssinian|russian blue|pomeranian|birman|ragdoll
+Siamese_59.jpg,abyssinian|havanese|pomeranian|birman|ragdoll
+Siamese_64.jpg,abyssinian|yorkshire terrier|russian blue|pomeranian|ragdoll
+Siamese_67.jpg,abyssinian|russian blue|pomeranian|birman|ragdoll|boxer
+Siamese_70.jpg,basset hound|abyssinian|pomeranian|birman|ragdoll
+Siamese_71.jpg,abyssinian|bengal|pomeranian|birman|ragdoll|scottish terrier
+Siamese_75.jpg,newfoundland|abyssinian|russian blue|pomeranian|birman|ragdoll
+Siamese_79.jpg,basset hound|abyssinian|bengal|russian blue|pomeranian|ragdoll
+Siamese_81.jpg,sphynx|abyssinian|pomeranian|birman|ragdoll
+Siamese_85.jpg,japanese chin|abyssinian|russian blue|pomeranian|birman|ragdoll
+Siamese_87.jpg,abyssinian|bengal|russian blue|pomeranian|ragdoll
+Siamese_88.jpg,abyssinian|shiba inu|pomeranian|birman|ragdoll
+Siamese_93.jpg,abyssinian|russian blue|bombay|pomeranian|ragdoll
+Siamese_99.jpg,abyssinian|bengal|russian blue|pomeranian|ragdoll
+Sphynx_211.jpg,russian blue|pomeranian|birman|ragdoll|british shorthair|egyptian mau
+Sphynx_21.jpg,samoyed|abyssinian|russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_229.jpg,pug|siamese|russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_231.jpg,russian blue|miniature pinscher|pomeranian|ragdoll|british shorthair
+Sphynx_243.jpg,american bulldog|russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_244.jpg,russian blue|miniature pinscher|pomeranian|birman|british shorthair|egyptian mau
+Sphynx_248.jpg,bengal|yorkshire terrier|russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_251.jpg,japanese chin|bengal|russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_36.jpg,english cocker spaniel|bengal|russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_38.jpg,english cocker spaniel|abyssinian|pomeranian|birman|ragdoll|british shorthair
+Sphynx_39.jpg,abyssinian|russian blue|bombay|pomeranian|ragdoll|british shorthair
+Sphynx_41.jpg,bengal|shiba inu|russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_42.jpg,russian blue|pomeranian|birman|british shorthair|egyptian mau|scottish terrier
+Sphynx_43.jpg,russian blue|birman|british shorthair|pomeranian
+Sphynx_46.jpg,russian blue|pomeranian|birman|british shorthair|egyptian mau
+Sphynx_47.jpg,american bulldog|chihuahua|russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_4.jpg,pug|abyssinian|russian blue|pomeranian|birman|british shorthair
+Sphynx_56.jpg,great pyrenees|russian blue|pomeranian|birman|british shorthair|egyptian mau
+Sphynx_67.jpg,english cocker spaniel|bengal|siamese|pomeranian|birman|british shorthair
+Sphynx_71.jpg,newfoundland|abyssinian|russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_73.jpg,russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_76.jpg,samoyed|chihuahua|russian blue|pomeranian|birman|british shorthair
+Sphynx_78.jpg,wheaten terrier|siamese|russian blue|pomeranian|ragdoll|british shorthair
+Sphynx_82.jpg,bengal|abyssinian|persian|pomeranian|birman|british shorthair
+Sphynx_83.jpg,russian blue|pomeranian|birman|british shorthair|egyptian mau|boxer
+Sphynx_87.jpg,bengal|siamese|russian blue|pomeranian|birman|british shorthair
+Sphynx_89.jpg,english cocker spaniel|bengal|russian blue|pomeranian|ragdoll|british shorthair
+staffordshire_bull_terrier_201.jpg,american bulldog|pug|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_20.jpg,american bulldog|saint bernard|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_21.jpg,american bulldog|saint bernard|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_31.jpg,american bulldog|pug|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_33.jpg,american bulldog|yorkshire terrier|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_37.jpg,sphynx|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_3.jpg,birman|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_42.jpg,scottish terrier|american bulldog|american pit bull terrier|havanese
+staffordshire_bull_terrier_45.jpg,american bulldog|japanese chin|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_46.jpg,russian blue|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_50.jpg,bengal|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_51.jpg,abyssinian|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_54.jpg,american bulldog|ragdoll|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_61.jpg,american bulldog|pug|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_62.jpg,american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_63.jpg,basset hound|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_6.jpg,abyssinian|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_70.jpg,american bulldog|russian blue|scottish terrier|american pit bull terrier|boxer
+staffordshire_bull_terrier_72.jpg,american bulldog|russian blue|scottish terrier|american pit bull terrier|boxer
+staffordshire_bull_terrier_74.jpg,american bulldog|leonberger|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_7.jpg,american bulldog|egyptian mau|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_81.jpg,american bulldog|siamese|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_83.jpg,wheaten terrier|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_86.jpg,american bulldog|miniature pinscher|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_88.jpg,scottish terrier|american bulldog|american pit bull terrier|havanese
+staffordshire_bull_terrier_8.jpg,scottish terrier|american bulldog|american pit bull terrier|beagle
+staffordshire_bull_terrier_91.jpg,russian blue|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_92.jpg,russian blue|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_93.jpg,shiba inu|american bulldog|american pit bull terrier|scottish terrier
+staffordshire_bull_terrier_97.jpg,american bulldog|persian|american pit bull terrier|scottish terrier
+wheaten_terrier_2.jpg,maine coon|wheaten terrier|shiba inu|pomeranian|scottish terrier
+wheaten_terrier_3.jpg,basset hound|newfoundland|shiba inu|miniature pinscher|pomeranian|scottish terrier
+wheaten_terrier_40.jpg,basset hound|shiba inu|yorkshire terrier|english setter|pomeranian|scottish terrier
+wheaten_terrier_55.jpg,english cocker spaniel|leonberger|shiba inu|havanese|pomeranian|scottish terrier
+wheaten_terrier_60.jpg,basset hound|shiba inu|havanese|pomeranian|british shorthair|scottish terrier
+wheaten_terrier_63.jpg,basset hound|shiba inu|yorkshire terrier|pomeranian|scottish terrier
+wheaten_terrier_74.jpg,english cocker spaniel|samoyed|wheaten terrier|shiba inu|pomeranian|scottish terrier
+yorkshire_terrier_192.jpg,pomeranian|chihuahua|maine coon|beagle
+yorkshire_terrier_193.jpg,pomeranian|bombay|maine coon|scottish terrier
+yorkshire_terrier_200.jpg,maine coon|havanese|pomeranian|birman|scottish terrier
+yorkshire_terrier_30.jpg,pomeranian|siamese|maine coon|scottish terrier
+yorkshire_terrier_33.jpg,pomeranian|chihuahua|maine coon|scottish terrier
+yorkshire_terrier_3.jpg,english cocker spaniel|maine coon|miniature pinscher|havanese|pomeranian
+yorkshire_terrier_49.jpg,maine coon|havanese|pomeranian|egyptian mau|scottish terrier
+yorkshire_terrier_74.jpg,pomeranian|wheaten terrier|siamese|scottish terrier
+yorkshire_terrier_78.jpg,abyssinian|saint bernard|havanese|pomeranian|scottish terrier
+yorkshire_terrier_79.jpg,wheaten terrier|miniature pinscher|havanese|pomeranian|scottish terrier
+yorkshire_terrier_98.jpg,pomeranian|shiba inu|maine coon|scottish terrier
